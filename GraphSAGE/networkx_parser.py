@@ -10,33 +10,6 @@ print("Don't use the script anymore")
 exit()
 print("Loading graph...")
 ppi_graph = nx.Graph() 
-'''
-id_map = {}
-id_map_inv = {}
-id_map_int = {}
-with open("BIOGRID-ORGANISM-Saccharomyces_cerevisiae_S288c-4.4.203.tab3.txt") as f:
-    f.readline()
-    i = 0
-    for line in f:
-        line = line.strip()
-        line = line.split("\t")
-        if line[3] == line[4]:
-            continue
-
-        ppi_graph.add_edge(int(line[3]), int(line[4]))
-        
-        if line[3] not in id_map:
-            id_map[line[3]] = i
-            id_map[int(line[3])] = i
-            id_map_inv[i] = int(line[3])
-            i += 1
-        if line[4] not in id_map:
-            id_map[line[4]] = i
-            id_map[int(line[4])] = i
-            id_map_inv[i] = int(line[4])
-            i += 1
-
-'''
 
 id_map = {}
 id_map_int = {}
