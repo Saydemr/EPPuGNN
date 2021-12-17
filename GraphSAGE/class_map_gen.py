@@ -1,5 +1,5 @@
 id_name_dict ={}
-with open('BIOGRID-ORGANISM-Homo_sapiens-4.4.204.tab3.txt') as f:
+with open('BIOGRID-ORGANISM-Mus_musculus-4.4.204.tab3.txt') as f:
     f.readline()
     for line in f:
         line = line.strip().split('\t')
@@ -9,7 +9,7 @@ with open('BIOGRID-ORGANISM-Homo_sapiens-4.4.204.tab3.txt') as f:
         id_name_dict[line[4]] = line[8]
 
 essential_dict = set()
-with open('deg_hs.dat') as f:
+with open('deg_mm.dat') as f:
     for line in f:
         line = line.strip().split('\t')
         essential_dict.add(line[2])

@@ -7,7 +7,7 @@ locations = ['Nucleus', 'Cytosol', 'Cytoskeleton', 'Peroxisome', 'Vacuole', 'End
 id_map = json.load(open('eppugnn-id_map_inv.json'))
 id_name_dict ={}
 
-with open('BIOGRID-ORGANISM-Homo_sapiens-4.4.204.tab3.txt') as f:
+with open('BIOGRID-ORGANISM-Mus_musculus-4.4.204.tab3.txt') as f:
     f.readline()
     for line in f:
         line = line.strip().split('\t')
@@ -18,7 +18,7 @@ name_index = {id_name_dict[str(id_map[v])] : v  for v in id_map.keys() }
 
 sl_matrix = np.zeros((len(id_map), 11), dtype=np.int64)
 
-with open('human_compartment_knowledge_full.tsv', 'r') as f:
+with open('mouse_compartment_knowledge_full.tsv', 'r') as f:
     for line in f:
         line = line.strip().split('\t')
         name = line[1]
