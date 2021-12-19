@@ -1,0 +1,1464 @@
+DEG2017	DEG20170001	AAMP	HGNC:18	-	-	angio associated migratory cell protein	Homo sapiens	2q
+DEG2017	DEG20170002	AARS	HGNC:20	-	-	alanyl-tRNA synthetase	Homo sapiens	16q22.1
+DEG2017	DEG20170003	AARS2	HGNC:21022	-	-	alanyl-tRNA synthetase 2, mitochondrial	Homo sapiens	6p21.1
+DEG2017	DEG20170004	AATF	HGNC:19235	-	-	apoptosis antagonizing transcription factor	Homo sapiens	17q12
+DEG2017	DEG20170005	ABCB7	HGNC:48	-	-	ATP binding cassette subfamily B member 7	Homo sapiens	Xq13.3
+DEG2017	DEG20170006	ABCE1	HGNC:69	-	-	ATP binding cassette subfamily E member 1	Homo sapiens	4q31
+DEG2017	DEG20170007	ABT1	HGNC:17369	-	-	activator of basal transcription 1	Homo sapiens	6p21.31
+DEG2017	DEG20170008	ACAD9	HGNC:21497	-	-	acyl-CoA dehydrogenase family member 9	Homo sapiens	3q21.3
+DEG2017	DEG20170009	ACIN1	HGNC:17066	-	-	apoptotic chromatin condensation inducer 1	Homo sapiens	14q11.2
+DEG2017	DEG20170010	ACLY	HGNC:115	-	-	ATP citrate lyase	Homo sapiens	17q21.2
+DEG2017	DEG20170011	ACO2	HGNC:118	-	-	aconitase 2	Homo sapiens	22q13.2
+DEG2017	DEG20170012	ACSL1	HGNC:3569	-	-	acyl-CoA synthetase long-chain family member 1	Homo sapiens	4q35.1
+DEG2017	DEG20170013	ACTB	HGNC:132	-	-	actin, beta	Homo sapiens	7p22
+DEG2017	DEG20170014	ACTL6A	HGNC:24124	-	-	actin like 6A	Homo sapiens	3q26.33
+DEG2017	DEG20170015	ACTR2	HGNC:169	-	-	ARP2 actin-related protein 2 homolog (yeast)	Homo sapiens	2p14
+DEG2017	DEG20170016	ACTR8	HGNC:14672	-	-	ARP8 actin-related protein 8 homolog (yeast)	Homo sapiens	3p21.31
+DEG2017	DEG20170017	ADAMTSL4	HGNC:19706	-	-	ADAMTS like 4	Homo sapiens	1q21.2
+DEG2017	DEG20170018	ADSL	HGNC:291	-	-	adenylosuccinate lyase	Homo sapiens	22q13.1
+DEG2017	DEG20170019	ADSS	HGNC:292	-	-	adenylosuccinate synthase	Homo sapiens	1q44
+DEG2017	DEG20170020	AFG3L2	HGNC:315	-	-	AFG3-like AAA ATPase 2	Homo sapiens	18p11.21
+DEG2017	DEG20170021	AGPAT1	HGNC:324	-	-	1-acylglycerol-3-phosphate O-acyltransferase 1	Homo sapiens	6p21.3
+DEG2017	DEG20170022	AHCTF1	HGNC:24618	-	-	AT-hook containing transcription factor 1	Homo sapiens	1q44
+DEG2017	DEG20170023	AHCY	HGNC:343	-	-	adenosylhomocysteinase	Homo sapiens	20q11.22
+DEG2017	DEG20170024	AHCYL1	HGNC:344	-	-	adenosylhomocysteinase like 1	Homo sapiens	1p13
+DEG2017	DEG20170025	AK2	HGNC:362	-	-	adenylate kinase 2	Homo sapiens	1p35.1
+DEG2017	DEG20170026	AKIRIN2	HGNC:21407	-	-	akirin 2	Homo sapiens	6q15
+DEG2017	DEG20170027	AKT2	HGNC:392	-	-	v-akt murine thymoma viral oncogene homolog 2	Homo sapiens	19q13.1-q13.2
+DEG2017	DEG20170028	ALAD	HGNC:395	-	-	aminolevulinate dehydratase	Homo sapiens	9q32
+DEG2017	DEG20170029	ALDH18A1	HGNC:9722	-	-	aldehyde dehydrogenase 18 family member A1	Homo sapiens	10q24.1
+DEG2017	DEG20170030	ALG1	HGNC:18294	-	-	ALG1, chitobiosyldiphosphodolichol beta-mannosyltransferase	Homo sapiens	16p13.3
+DEG2017	DEG20170031	ALG11	HGNC:32456	-	-	ALG11, alpha-1,2-mannosyltransferase	Homo sapiens	13q14.3
+DEG2017	DEG20170032	ALG2	HGNC:23159	-	-	ALG2, alpha-1,3/1,6-mannosyltransferase	Homo sapiens	9q31.1
+DEG2017	DEG20170033	ALYREF	HGNC:19071	-	-	Aly/REF export factor	Homo sapiens	17q25.3
+DEG2017	DEG20170034	ANAPC10	HGNC:24077	-	-	anaphase promoting complex subunit 10	Homo sapiens	4q31
+DEG2017	DEG20170035	ANAPC11	HGNC:14452	-	-	anaphase promoting complex subunit 11	Homo sapiens	17q25.3
+DEG2017	DEG20170036	ANAPC2	HGNC:19989	-	-	anaphase promoting complex subunit 2	Homo sapiens	9q34.3
+DEG2017	DEG20170037	ANAPC4	HGNC:19990	-	-	anaphase promoting complex subunit 4	Homo sapiens	4p15.31
+DEG2017	DEG20170038	ANAPC5	HGNC:15713	-	-	anaphase promoting complex subunit 5	Homo sapiens	12q24.31
+DEG2017	DEG20170039	ANKLE2	HGNC:29101	-	-	ankyrin repeat and LEM domain containing 2	Homo sapiens	12q24.33
+DEG2017	DEG20170040	AP1M1	HGNC:13667	-	-	adaptor related protein complex 1 mu 1 subunit	Homo sapiens	19p13.11
+DEG2017	DEG20170041	AP2M1	HGNC:564	-	-	adaptor related protein complex 2, mu 1 subunit	Homo sapiens	3q28
+DEG2017	DEG20170042	AP2S1	HGNC:565	-	-	adaptor related protein complex 2 sigma 1 subunit	Homo sapiens	19q13.32
+DEG2017	DEG20170043	AQR	HGNC:29513	-	-	aquarius intron-binding spliceosomal factor	Homo sapiens	15q13
+DEG2017	DEG20170044	ARCN1	HGNC:649	-	-	archain 1	Homo sapiens	11q23.3
+DEG2017	DEG20170045	ARFRP1	HGNC:662	-	-	ADP ribosylation factor related protein 1	Homo sapiens	20q13.3
+DEG2017	DEG20170046	ARL1	HGNC:692	-	-	ADP ribosylation factor like GTPase 1	Homo sapiens	12q23.2
+DEG2017	DEG20170047	ARL2	HGNC:693	-	-	ADP ribosylation factor like GTPase 2	Homo sapiens	11q13
+DEG2017	DEG20170048	ARMC7	HGNC:26168	-	-	armadillo repeat containing 7	Homo sapiens	17q25
+DEG2017	DEG20170049	ARPC2	HGNC:705	-	-	actin related protein 2/3 complex subunit 2	Homo sapiens	2q36.1
+DEG2017	DEG20170050	ARPC3	HGNC:706	-	-	actin related protein 2/3 complex subunit 3	Homo sapiens	12q24
+DEG2017	DEG20170051	ARPC4	HGNC:707	-	-	actin related protein 2/3 complex subunit 4	Homo sapiens	3p25
+DEG2017	DEG20170052	ASH2L	HGNC:744	-	-	ash2 (absent, small, or homeotic)-like (Drosophila)	Homo sapiens	8p11.2
+DEG2017	DEG20170053	ASNA1	HGNC:752	-	-	arsA arsenite transporter, ATP-binding, homolog 1 (bacterial)	Homo sapiens	19p13.13
+DEG2017	DEG20170054	ASUN	HGNC:20174	-	-	asunder spermatogenesis regulator	Homo sapiens	12p12.3
+DEG2017	DEG20170055	ATIC	HGNC:794	-	-	5-aminoimidazole-4-carboxamide ribonucleotide formyltransferase/IMP cyclohydrolase	Homo sapiens	2q35
+DEG2017	DEG20170056	ATL2	HGNC:24047	-	-	atlastin GTPase 2	Homo sapiens	2p22.3
+DEG2017	DEG20170057	ATP1A1	HGNC:799	-	-	ATPase, Na+/K+ transporting, alpha 1 polypeptide	Homo sapiens	1p13
+DEG2017	DEG20170058	ATP2A2	HGNC:812	-	-	ATPase, Ca++ transporting, cardiac muscle, slow twitch 2	Homo sapiens	12q24.11
+DEG2017	DEG20170059	ATP2C2	HGNC:29103	-	-	ATPase, Ca++ transporting, type 2C, member 2	Homo sapiens	16q24.1
+DEG2017	DEG20170060	ATP5A1	HGNC:823	-	-	ATP synthase, H+ transporting, mitochondrial F1 complex, alpha subunit 1, cardiac muscle	Homo sapiens	18q21
+DEG2017	DEG20170061	ATP5D	HGNC:837	-	-	ATP synthase, H+ transporting, mitochondrial F1 complex, delta subunit	Homo sapiens	19p13.3
+DEG2017	DEG20170062	ATP5J2-PTCD1	HGNC:38844	-	-	ATP5J2-PTCD1 readthrough	Homo sapiens	7q22.1
+DEG2017	DEG20170063	ATP5O	HGNC:850	-	-	ATP synthase, H+ transporting, mitochondrial F1 complex, O subunit	Homo sapiens	21q22
+DEG2017	DEG20170064	ATP6AP1	HGNC:868	-	-	ATPase, H+ transporting, lysosomal accessory protein 1	Homo sapiens	Xq28
+DEG2017	DEG20170065	ATP6AP2	HGNC:18305	-	-	ATPase, H+ transporting, lysosomal accessory protein 2	Homo sapiens	Xp11.4
+DEG2017	DEG20170066	ATP6V0B	HGNC:861	-	-	ATPase, H+ transporting, lysosomal 21kDa, V0 subunit b	Homo sapiens	1p32.3
+DEG2017	DEG20170067	ATP6V0C	HGNC:855	-	-	ATPase, H+ transporting, lysosomal 16kDa, V0 subunit c	Homo sapiens	16p13.3
+DEG2017	DEG20170068	ATP6V0D1	HGNC:13724	-	-	ATPase, H+ transporting, lysosomal 38kDa, V0 subunit d1	Homo sapiens	16q22
+DEG2017	DEG20170069	ATP6V1A	HGNC:851	-	-	ATPase, H+ transporting, lysosomal 70kDa, V1 subunit A	Homo sapiens	3q13.31
+DEG2017	DEG20170070	ATP6V1B2	HGNC:854	-	-	ATPase, H+ transporting, lysosomal 56/58kDa, V1 subunit B2	Homo sapiens	8p21.3
+DEG2017	DEG20170071	ATP6V1D	HGNC:13527	-	-	ATPase, H+ transporting, lysosomal 34kDa, V1 subunit D	Homo sapiens	14q23-q24.2
+DEG2017	DEG20170072	ATP6V1E1	HGNC:857	-	-	ATPase, H+ transporting, lysosomal 31kDa, V1 subunit E1	Homo sapiens	22q11.2
+DEG2017	DEG20170073	ATP6V1F	HGNC:16832	-	-	ATPase, H+ transporting, lysosomal 14kDa, V1 subunit F	Homo sapiens	7q32.1
+DEG2017	DEG20170074	ATP6V1G1	HGNC:864	-	-	ATPase, H+ transporting, lysosomal 13kDa, V1 subunit G1	Homo sapiens	9q33.1
+DEG2017	DEG20170075	ATP6V1H	HGNC:18303	-	-	ATPase, H+ transporting, lysosomal 50/57kDa, V1 subunit H	Homo sapiens	8q11.2
+DEG2017	DEG20170076	ATR	HGNC:882	-	-	ATR serine/threonine kinase	Homo sapiens	3q23
+DEG2017	DEG20170077	ATXN2L	HGNC:31326	-	-	ataxin 2-like	Homo sapiens	16p11
+DEG2017	DEG20170078	AURKA	HGNC:11393	-	-	aurora kinase A	Homo sapiens	20q13
+DEG2017	DEG20170079	AURKAIP1	HGNC:24114	-	-	aurora kinase A interacting protein 1	Homo sapiens	1p36.33
+DEG2017	DEG20170080	AURKB	HGNC:11390	-	-	aurora kinase B	Homo sapiens	17p13.1
+DEG2017	DEG20170081	B3GALT6	HGNC:17978	-	-	Beta-1,3-galactosyltransferase 6	Homo sapiens	1p36.33
+DEG2017	DEG20170082	BAHD1	HGNC:29153	-	-	bromo adjacent homology domain containing 1	Homo sapiens	15q14
+DEG2017	DEG20170083	BANF1	HGNC:17397	-	-	barrier to autointegration factor 1	Homo sapiens	11q13.1
+DEG2017	DEG20170084	BCL2L1	HGNC:992	-	-	BCL2-like 1	Homo sapiens	20q11.21
+DEG2017	DEG20170085	BCL6	HGNC:1001	-	-	B-cell CLL/lymphoma 6	Homo sapiens	3q27
+DEG2017	DEG20170086	BIRC5	HGNC:593	-	-	baculoviral IAP repeat containing 5	Homo sapiens	17q25.3
+DEG2017	DEG20170087	BMS1	HGNC:23505	-	-	BMS1, ribosome biogenesis factor	Homo sapiens	10q11.21
+DEG2017	DEG20170088	BOP1	HGNC:15519	-	-	block of proliferation 1	Homo sapiens	8q24.3
+DEG2017	DEG20170089	BORA	HGNC:24724	-	-	bora, aurora kinase A activator	Homo sapiens	13q22.1
+DEG2017	DEG20170090	BRCA1	HGNC:1100	-	-	breast cancer 1	Homo sapiens	17q21.31
+DEG2017	DEG20170091	BRF1	HGNC:11551	-	-	BRF1, RNA polymerase III transcription initiation factor 90 kDa subunit	Homo sapiens	14q32.33
+DEG2017	DEG20170092	BRF2	HGNC:17298	-	-	BRF2, RNA polymerase III transcription initiation factor 50 kDa subunit	Homo sapiens	8p11.23
+DEG2017	DEG20170093	BRIX1	HGNC:24170	-	-	BRX1, biogenesis of ribosomes	Homo sapiens	5p13.2
+DEG2017	DEG20170094	BRPF1	HGNC:14255	-	-	bromodomain and PHD finger containing 1	Homo sapiens	3p26-p25
+DEG2017	DEG20170095	BSG	HGNC:1116	-	-	basigin (Ok blood group)	Homo sapiens	19p13.3
+DEG2017	DEG20170096	BUB1B	HGNC:1149	-	-	BUB1B, mitotic checkpoint serine/threonine kinase	Homo sapiens	15q15
+DEG2017	DEG20170097	BUB3	HGNC:1151	-	-	BUB3 mitotic checkpoint protein	Homo sapiens	10q24
+DEG2017	DEG20170098	BUD13	HGNC:28199	-	-	BUD13 homolog	Homo sapiens	11q23.3
+DEG2017	DEG20170099	BUD31	HGNC:29629	-	-	BUD31 homolog	Homo sapiens	7q22.1
+DEG2017	DEG20170100	BYSL	HGNC:1157	-	-	bystin like	Homo sapiens	6p21.1
+DEG2017	DEG20170101	C10orf2	HGNC:1160	-	-	chromosome 10 open reading frame 2	Homo sapiens	10q24
+DEG2017	DEG20170102	C14orf166	HGNC:23169	-	-	chromosome 14 open reading frame 166	Homo sapiens	14q22.1
+DEG2017	DEG20170103	C15orf41	HGNC:26929	-	-	chromosome 15 open reading frame 41	Homo sapiens	15q14
+DEG2017	DEG20170104	CFAP20	HGNC:29523	-	-	cilia and flagella associated protein 20	Homo sapiens	16q21
+DEG2017	DEG20170105	C1orf109	HGNC:26039	-	-	chromosome 1 open reading frame 109	Homo sapiens	1p34.3
+DEG2017	DEG20170106	C21orf59	HGNC:1301	-	-	chromosome 21 open reading frame 59	Homo sapiens	21q22.11
+DEG2017	DEG20170107	C3orf17	HGNC:24496	-	-	chromosome 3 open reading frame 17	Homo sapiens	3q13.2
+DEG2017	DEG20170108	C7orf26	HGNC:21702	-	-	chromosome 7 open reading frame 26	Homo sapiens	7p22.1
+DEG2017	DEG20170109	C9orf114	HGNC:26933	-	-	chromosome 9 open reading frame 114	Homo sapiens	9q34.11
+DEG2017	DEG20170110	CACTIN	HGNC:29938	-	-	cactin, spliceosome C complex subunit	Homo sapiens	19p13.3
+DEG2017	DEG20170111	CALR	HGNC:1455	-	-	calreticulin	Homo sapiens	19p13.3-p13.2
+DEG2017	DEG20170112	CAPZB	HGNC:1491	-	-	capping protein (actin filament) muscle Z-line, beta	Homo sapiens	1p36.1
+DEG2017	DEG20170113	CARS	HGNC:1493	-	-	cysteinyl-tRNA synthetase	Homo sapiens	11p15.5
+DEG2017	DEG20170114	CARS2	HGNC:25695	-	-	cysteinyl-tRNA synthetase 2, mitochondrial (putative)	Homo sapiens	13q34
+DEG2017	DEG20170115	CASC5	HGNC:24054	-	-	cancer susceptibility candidate 5	Homo sapiens	15q14
+DEG2017	DEG20170116	CBWD1	HGNC:17134	-	-	COBW domain containing 1	Homo sapiens	9p24.3
+DEG2017	DEG20170117	CBWD3	HGNC:18519	-	-	COBW domain containing 3	Homo sapiens	9q13
+DEG2017	DEG20170118	CBWD5	HGNC:24584	-	-	COBW domain containing 5	Homo sapiens	9q13
+DEG2017	DEG20170119	CBWD6	HGNC:31978	-	-	COBW domain containing 6	Homo sapiens	9q13
+DEG2017	DEG20170120	SGF29	HGNC:25156	-	-	SAGA complex associated factor 29	Homo sapiens	16p11.2
+DEG2017	DEG20170121	CCDC130	HGNC:28118	-	-	coiled-coil domain containing 130	Homo sapiens	19p13.13
+DEG2017	DEG20170122	CCDC43	HGNC:26472	-	-	coiled-coil domain containing 43	Homo sapiens	17q21.31
+DEG2017	DEG20170123	CCDC84	HGNC:30460	-	-	coiled-coil domain containing 84	Homo sapiens	11q23.3
+DEG2017	DEG20170124	CCDC86	HGNC:28359	-	-	coiled-coil domain containing 86	Homo sapiens	11q12.2
+DEG2017	DEG20170125	CCDC94	HGNC:25518	-	-	coiled-coil domain containing 94	Homo sapiens	19p13.3
+DEG2017	DEG20170126	CCNA2	HGNC:1578	-	-	cyclin A2	Homo sapiens	4q27
+DEG2017	DEG20170127	CCNC	HGNC:1581	-	-	cyclin C	Homo sapiens	6q21
+DEG2017	DEG20170128	CCNH	HGNC:1594	-	-	cyclin H	Homo sapiens	5q13.3-q14
+DEG2017	DEG20170129	CCNK	HGNC:1596	-	-	cyclin K	Homo sapiens	14q32.2
+DEG2017	DEG20170130	CCT2	HGNC:1615	-	-	chaperonin containing TCP1, subunit 2 (beta)	Homo sapiens	12q15
+DEG2017	DEG20170131	CCT3	HGNC:1616	-	-	chaperonin containing TCP1, subunit 3 (gamma)	Homo sapiens	1q23
+DEG2017	DEG20170132	CCT4	HGNC:1617	-	-	chaperonin containing TCP1, subunit 4 (delta)	Homo sapiens	2p15
+DEG2017	DEG20170133	CCT5	HGNC:1618	-	-	chaperonin containing TCP1, subunit 5 (epsilon)	Homo sapiens	5p15.2
+DEG2017	DEG20170134	CCT7	HGNC:1622	-	-	chaperonin containing TCP1, subunit 7 (eta)	Homo sapiens	2p13.2
+DEG2017	DEG20170135	CCT8	HGNC:1623	-	-	chaperonin containing TCP1, subunit 8 (theta)	Homo sapiens	21q21.3
+DEG2017	DEG20170136	CD19	HGNC:1633	-	-	CD19 molecule	Homo sapiens	16p11.2
+DEG2017	DEG20170137	CD2BP2	HGNC:1656	-	-	CD2 (cytoplasmic tail) binding protein 2	Homo sapiens	16p11.2
+DEG2017	DEG20170138	CD79A	HGNC:1698	-	-	CD79a molecule	Homo sapiens	19q13.2
+DEG2017	DEG20170139	CD79B	HGNC:1699	-	-	CD79b molecule	Homo sapiens	17q23
+DEG2017	DEG20170140	CDC123	HGNC:16827	-	-	cell division cycle 123	Homo sapiens	10p13
+DEG2017	DEG20170141	CDC16	HGNC:1720	-	-	cell division cycle 16	Homo sapiens	13q34
+DEG2017	DEG20170142	CDC20	HGNC:1723	-	-	cell division cycle 20	Homo sapiens	1p34.1
+DEG2017	DEG20170143	CDC23	HGNC:1724	-	-	cell division cycle 23	Homo sapiens	5q31
+DEG2017	DEG20170144	CDC27	HGNC:1728	-	-	cell division cycle 27	Homo sapiens	17q21.32
+DEG2017	DEG20170145	CDC37	HGNC:1735	-	-	cell division cycle 37	Homo sapiens	19p13.2
+DEG2017	DEG20170146	CDC45	HGNC:1739	-	-	cell division cycle 45	Homo sapiens	22q11.21
+DEG2017	DEG20170147	CDC5L	HGNC:1743	-	-	cell division cycle 5 like	Homo sapiens	6p21.1
+DEG2017	DEG20170148	CDC6	HGNC:1744	-	-	cell division cycle 6	Homo sapiens	17q21.3
+DEG2017	DEG20170149	CDC73	HGNC:16783	-	-	cell division cycle 73	Homo sapiens	1q25
+DEG2017	DEG20170150	CDIPT	HGNC:1769	-	-	CDP-diacylglycerol--inositol 3-phosphatidyltransferase	Homo sapiens	16p11.2
+DEG2017	DEG20170151	CDK1	HGNC:1722	-	-	cyclin-dependent kinase 1	Homo sapiens	10q21.2
+DEG2017	DEG20170152	CDK6	HGNC:1777	-	-	cyclin-dependent kinase 6	Homo sapiens	7q21-q22
+DEG2017	DEG20170153	CDK7	HGNC:1778	-	-	cyclin-dependent kinase 7	Homo sapiens	5q12.1
+DEG2017	DEG20170154	CDK9	HGNC:1780	-	-	cyclin-dependent kinase 9	Homo sapiens	9q34.1
+DEG2017	DEG20170155	CDT1	HGNC:24576	-	-	chromatin licensing and DNA replication factor 1	Homo sapiens	16q24.3
+DEG2017	DEG20170156	CEBPZ	HGNC:24218	-	-	CCAAT/enhancer binding protein (C/EBP), zeta	Homo sapiens	2p22.3
+DEG2017	DEG20170157	CENPA	HGNC:1851	-	-	centromere protein A	Homo sapiens	2p23.3
+DEG2017	DEG20170158	CENPC	HGNC:1854	-	-	centromere protein C	Homo sapiens	4q13.2
+DEG2017	DEG20170159	CENPI	HGNC:3968	-	-	centromere protein I	Homo sapiens	Xq22.1
+DEG2017	DEG20170160	CENPM	HGNC:18352	-	-	centromere protein M	Homo sapiens	22q13.2
+DEG2017	DEG20170161	CENPN	HGNC:30873	-	-	centromere protein N	Homo sapiens	16q23.2
+DEG2017	DEG20170162	CEP192	HGNC:25515	-	-	centrosomal protein 192kDa	Homo sapiens	18p11.21
+DEG2017	DEG20170163	CEP85	HGNC:25309	-	-	centrosomal protein 85kDa	Homo sapiens	1p36.11
+DEG2017	DEG20170164	CEPT1	HGNC:24289	-	-	choline/ethanolamine phosphotransferase 1	Homo sapiens	1p13
+DEG2017	DEG20170165	CFDP1	HGNC:1873	-	-	craniofacial development protein 1	Homo sapiens	16q22.2-q22.3
+DEG2017	DEG20170166	CFL1	HGNC:1874	-	-	cofilin 1 (non-muscle)	Homo sapiens	11q13.1
+DEG2017	DEG20170167	CHAF1A	HGNC:1910	-	-	chromatin assembly factor 1 subunit A	Homo sapiens	19p13.3
+DEG2017	DEG20170168	CHAF1B	HGNC:1911	-	-	chromatin assembly factor 1 subunit B	Homo sapiens	21q22.2
+DEG2017	DEG20170169	CHAMP1	HGNC:20311	-	-	chromosome alignment maintaining phosphoprotein 1	Homo sapiens	13q34
+DEG2017	DEG20170170	CHD4	HGNC:1919	-	-	chromodomain helicase DNA binding protein 4	Homo sapiens	12p13
+DEG2017	DEG20170171	CHD8	HGNC:20153	-	-	chromodomain helicase DNA binding protein 8	Homo sapiens	14q11.2
+DEG2017	DEG20170172	CHEK1	HGNC:1925	-	-	checkpoint kinase 1	Homo sapiens	11q24.2
+DEG2017	DEG20170173	CHERP	HGNC:16930	-	-	calcium homeostasis endoplasmic reticulum protein	Homo sapiens	19p13.1
+DEG2017	DEG20170174	CHKA	HGNC:1937	-	-	choline kinase alpha	Homo sapiens	11q13.1
+DEG2017	DEG20170175	CHM	HGNC:1940	-	-	choroideremia (Rab escort protein 1)	Homo sapiens	Xq21.1-q21.3
+DEG2017	DEG20170176	CHMP2A	HGNC:30216	-	-	charged multivesicular body protein 2A	Homo sapiens	19q13.43
+DEG2017	DEG20170177	CHMP4B	HGNC:16171	-	-	charged multivesicular body protein 4B	Homo sapiens	20q11.22
+DEG2017	DEG20170178	CHMP6	HGNC:25675	-	-	charged multivesicular body protein 6	Homo sapiens	17q25.3
+DEG2017	DEG20170179	CHORDC1	HGNC:14525	-	-	cysteine and histidine rich domain containing 1	Homo sapiens	11q14.3
+DEG2017	DEG20170180	CHRM4	HGNC:1953	-	-	cholinergic receptor, muscarinic 4	Homo sapiens	11p12-p11.2
+DEG2017	DEG20170181	CHTF18	HGNC:18435	-	-	chromosome transmission fidelity factor 18	Homo sapiens	16p13.3
+DEG2017	DEG20170182	CHUK	HGNC:1974	-	-	conserved helix-loop-helix ubiquitous kinase	Homo sapiens	10q24-q25
+DEG2017	DEG20170183	CIAO1	HGNC:14280	-	-	cytosolic iron-sulfur assembly component 1	Homo sapiens	2q11.1-q11.2
+DEG2017	DEG20170184	CILP2	HGNC:24213	-	-	cartilage intermediate layer protein 2	Homo sapiens	19p13.11
+DEG2017	DEG20170185	CINP	HGNC:23789	-	-	cyclin-dependent kinase 2 interacting protein	Homo sapiens	14q32.33
+DEG2017	DEG20170186	UTP4	HGNC:1983	-	-	UTP4 small subunit processome component	Homo sapiens	16q22
+DEG2017	DEG20170187	CKAP5	HGNC:28959	-	-	cytoskeleton associated protein 5	Homo sapiens	11p11.2
+DEG2017	DEG20170188	CLASRP	HGNC:17731	-	-	CLK4-associating serine/arginine rich protein	Homo sapiens	19q13.3
+DEG2017	DEG20170189	CLCN3	HGNC:2021	-	-	chloride channel, voltage-sensitive 3	Homo sapiens	4q
+DEG2017	DEG20170190	CLP1	HGNC:16999	-	-	cleavage and polyadenylation factor I subunit 1	Homo sapiens	11q12.1
+DEG2017	DEG20170191	CLSPN	HGNC:19715	-	-	claspin	Homo sapiens	1p34.3
+DEG2017	DEG20170192	CLTC	HGNC:2092	-	-	clathrin, heavy chain (Hc)	Homo sapiens	17q23.1
+DEG2017	DEG20170193	CMTR1	HGNC:21077	-	-	cap methyltransferase 1	Homo sapiens	6p21.2
+DEG2017	DEG20170194	CNOT3	HGNC:7879	-	-	CCR4-NOT transcription complex subunit 3	Homo sapiens	19q13.4
+DEG2017	DEG20170195	COA4	HGNC:24604	-	-	cytochrome c oxidase assembly factor 4 homolog	Homo sapiens	11q13.4
+DEG2017	DEG20170196	COA5	HGNC:33848	-	-	cytochrome c oxidase assembly factor 5	Homo sapiens	2q11.2
+DEG2017	DEG20170197	COASY	HGNC:29932	-	-	Coenzyme A synthase	Homo sapiens	17q21.2
+DEG2017	DEG20170198	COG4	HGNC:18620	-	-	component of oligomeric golgi complex 4	Homo sapiens	16q22.1
+DEG2017	DEG20170199	COPA	HGNC:2230	-	-	coatomer protein complex subunit alpha	Homo sapiens	1q23.2
+DEG2017	DEG20170200	COPB1	HGNC:2231	-	-	coatomer protein complex subunit beta 1	Homo sapiens	11p15.2
+DEG2017	DEG20170201	COPB2	HGNC:2232	-	-	coatomer protein complex subunit beta 2 (beta prime)	Homo sapiens	3q23
+DEG2017	DEG20170202	COPE	HGNC:2234	-	-	coatomer protein complex subunit epsilon	Homo sapiens	19p13.11
+DEG2017	DEG20170203	COPS5	HGNC:2240	-	-	COP9 signalosome subunit 5	Homo sapiens	8q13.1
+DEG2017	DEG20170204	COPZ1	HGNC:2243	-	-	coatomer protein complex subunit zeta 1	Homo sapiens	12q13.2-q13.3
+DEG2017	DEG20170205	COQ2	HGNC:25223	-	-	coenzyme Q2 4-hydroxybenzoate polyprenyltransferase	Homo sapiens	4q21.23
+DEG2017	DEG20170206	COQ4	HGNC:19693	-	-	coenzyme Q4	Homo sapiens	9q34.2
+DEG2017	DEG20170207	COX10	HGNC:2260	-	-	COX10 heme A:farnesyltransferase cytochrome c oxidase assembly factor	Homo sapiens	17p12
+DEG2017	DEG20170208	COX15	HGNC:2263	-	-	cytochrome c oxidase assembly homolog 15 (yeast)	Homo sapiens	10q24
+DEG2017	DEG20170209	COX17	HGNC:2264	-	-	COX17, cytochrome c oxidase copper chaperone	Homo sapiens	3q13.33
+DEG2017	DEG20170210	COX4I1	HGNC:2265	-	-	cytochrome c oxidase subunit IV isoform 1	Homo sapiens	16q24.1
+DEG2017	DEG20170211	COX5B	HGNC:2269	-	-	cytochrome c oxidase subunit Vb	Homo sapiens	2q11.2
+DEG2017	DEG20170212	COX6B1	HGNC:2280	-	-	cytochrome c oxidase subunit VIb polypeptide 1 (ubiquitous)	Homo sapiens	19q13.1
+DEG2017	DEG20170213	COX7B	HGNC:2291	-	-	cytochrome c oxidase subunit VIIb	Homo sapiens	Xq21.1
+DEG2017	DEG20170214	COX7C	HGNC:2292	-	-	cytochrome c oxidase subunit VIIc	Homo sapiens	5q14
+DEG2017	DEG20170215	CPSF1	HGNC:2324	-	-	cleavage and polyadenylation specific factor 1	Homo sapiens	8q24
+DEG2017	DEG20170216	CPSF2	HGNC:2325	-	-	cleavage and polyadenylation specific factor 2	Homo sapiens	14q31.1
+DEG2017	DEG20170217	CPSF3L	HGNC:26052	-	-	cleavage and polyadenylation specific factor 3-like	Homo sapiens	1p36.33
+DEG2017	DEG20170218	CPSF6	HGNC:13871	-	-	cleavage and polyadenylation specific factor 6	Homo sapiens	12q15
+DEG2017	DEG20170219	CROCC	HGNC:21299	-	-	ciliary rootlet coiled-coil, rootletin	Homo sapiens	1p36.13
+DEG2017	DEG20170220	CSDE1	HGNC:29905	-	-	cold shock domain containing E1, RNA binding	Homo sapiens	1p13.2
+DEG2017	DEG20170221	CSE1L	HGNC:2431	-	-	CSE1 chromosome segregation 1-like (yeast)	Homo sapiens	20q13
+DEG2017	DEG20170222	CSNK2B	HGNC:2460	-	-	casein kinase 2, beta polypeptide	Homo sapiens	6p21.33
+DEG2017	DEG20170223	CTNNBL1	HGNC:15879	-	-	catenin beta like 1	Homo sapiens	20q11.23-q12
+DEG2017	DEG20170224	CTPS1	HGNC:2519	-	-	CTP synthase 1	Homo sapiens	1p34.1
+DEG2017	DEG20170225	CTR9	HGNC:16850	-	-	CTR9 homolog, Paf1/RNA polymerase II complex component	Homo sapiens	11p15.3
+DEG2017	DEG20170226	CUL1	HGNC:2551	-	-	cullin 1	Homo sapiens	7q36.1
+DEG2017	DEG20170227	CYB561A3	HGNC:23014	-	-	cytochrome b561 family member A3	Homo sapiens	11q12.2
+DEG2017	DEG20170228	CYB5B	HGNC:24374	-	-	cytochrome b5 type B (outer mitochondrial membrane)	Homo sapiens	16q22.1
+DEG2017	DEG20170229	CYCS	HGNC:19986	-	-	cytochrome c, somatic	Homo sapiens	7p21.2
+DEG2017	DEG20170230	DAD1	HGNC:2664	-	-	defender against cell death 1	Homo sapiens	14q11.2
+DEG2017	DEG20170231	DAP3	HGNC:2673	-	-	death associated protein 3	Homo sapiens	1q22
+DEG2017	DEG20170232	DARS	HGNC:2678	-	-	aspartyl-tRNA synthetase	Homo sapiens	2q21.3
+DEG2017	DEG20170233	DBR1	HGNC:15594	-	-	debranching RNA lariats 1	Homo sapiens	3q22.3
+DEG2017	DEG20170234	DCTN2	HGNC:2712	-	-	dynactin subunit 2	Homo sapiens	12q13.3
+DEG2017	DEG20170235	DCTN3	HGNC:2713	-	-	dynactin subunit 3	Homo sapiens	9p13
+DEG2017	DEG20170236	DCTN5	HGNC:24594	-	-	dynactin subunit 5	Homo sapiens	16p12.1
+DEG2017	DEG20170237	DCTN6	HGNC:16964	-	-	dynactin subunit 6	Homo sapiens	8p12
+DEG2017	DEG20170238	DDB1	HGNC:2717	-	-	damage-specific DNA binding protein 1	Homo sapiens	11q12-q13
+DEG2017	DEG20170239	DDOST	HGNC:2728	-	-	dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit (non-catalytic)	Homo sapiens	1p36.1
+DEG2017	DEG20170240	DDX10	HGNC:2735	-	-	DEAD (Asp-Glu-Ala-Asp) box polypeptide 10	Homo sapiens	11q22-q23
+DEG2017	DEG20170241	DDX18	HGNC:2741	-	-	DEAD (Asp-Glu-Ala-Asp) box polypeptide 18	Homo sapiens	2q21.2
+DEG2017	DEG20170242	DDX20	HGNC:2743	-	-	DEAD (Asp-Glu-Ala-Asp) box polypeptide 20	Homo sapiens	1p21.1-p13.2
+DEG2017	DEG20170243	DDX21	HGNC:2744	-	-	DEAD (Asp-Glu-Ala-Asp) box helicase 21	Homo sapiens	10q21
+DEG2017	DEG20170244	DDX23	HGNC:17347	-	-	DEAD (Asp-Glu-Ala-Asp) box polypeptide 23	Homo sapiens	12q13.11
+DEG2017	DEG20170245	DDX24	HGNC:13266	-	-	DEAD (Asp-Glu-Ala-Asp) box helicase 24	Homo sapiens	14q32
+DEG2017	DEG20170246	DDX27	HGNC:15837	-	-	DEAD (Asp-Glu-Ala-Asp) box polypeptide 27	Homo sapiens	20q13.13
+DEG2017	DEG20170247	DDX28	HGNC:17330	-	-	DEAD (Asp-Glu-Ala-Asp) box polypeptide 28	Homo sapiens	16q22.1-q22.3
+DEG2017	DEG20170248	DDX3Y	HGNC:2699	-	-	DEAD (Asp-Glu-Ala-Asp) box helicase 3, Y-linked	Homo sapiens	Yq11
+DEG2017	DEG20170249	DDX41	HGNC:18674	-	-	DEAD (Asp-Glu-Ala-Asp) box polypeptide 41	Homo sapiens	5q35.3
+DEG2017	DEG20170250	DDX46	HGNC:18681	-	-	DEAD (Asp-Glu-Ala-Asp) box polypeptide 46	Homo sapiens	5q31.1
+DEG2017	DEG20170251	DDX47	HGNC:18682	-	-	DEAD (Asp-Glu-Ala-Asp) box polypeptide 47	Homo sapiens	12p13.2
+DEG2017	DEG20170252	DDX49	HGNC:18684	-	-	DEAD (Asp-Glu-Ala-Asp) box polypeptide 49	Homo sapiens	19p12
+DEG2017	DEG20170253	DDX51	HGNC:20082	-	-	DEAD (Asp-Glu-Ala-Asp) box polypeptide 51	Homo sapiens	12q24.33
+DEG2017	DEG20170254	DDX52	HGNC:20038	-	-	DEAD (Asp-Glu-Ala-Asp) box polypeptide 52	Homo sapiens	17q12
+DEG2017	DEG20170255	DDX54	HGNC:20084	-	-	DEAD (Asp-Glu-Ala-Asp) box polypeptide 54	Homo sapiens	12q24.11
+DEG2017	DEG20170256	DDX56	HGNC:18193	-	-	DEAD (Asp-Glu-Ala-Asp) box helicase 56	Homo sapiens	7p13
+DEG2017	DEG20170257	DDX59	HGNC:25360	-	-	DEAD (Asp-Glu-Ala-Asp) box polypeptide 59	Homo sapiens	1q32.1
+DEG2017	DEG20170258	DERL1	HGNC:28454	-	-	derlin 1	Homo sapiens	8q24.13
+DEG2017	DEG20170259	DGCR14	HGNC:16817	-	-	DiGeorge syndrome critical region gene 14	Homo sapiens	22q11.21
+DEG2017	DEG20170260	DGCR8	HGNC:2847	-	-	DGCR8 microprocessor complex subunit	Homo sapiens	22q11.2
+DEG2017	DEG20170261	DHDDS	HGNC:20603	-	-	dehydrodolichyl diphosphate synthase subunit	Homo sapiens	1p35.3
+DEG2017	DEG20170262	DHFR	HGNC:2861	-	-	dihydrofolate reductase	Homo sapiens	5q14.1
+DEG2017	DEG20170263	DHODH	HGNC:2867	-	-	dihydroorotate dehydrogenase (quinone)	Homo sapiens	16q22.2
+DEG2017	DEG20170264	DHPS	HGNC:2869	-	-	deoxyhypusine synthase	Homo sapiens	19p13.2
+DEG2017	DEG20170265	DHX15	HGNC:2738	-	-	DEAH (Asp-Glu-Ala-His) box helicase 15	Homo sapiens	4p15.3
+DEG2017	DEG20170266	DHX16	HGNC:2739	-	-	DEAH (Asp-Glu-Ala-His) box polypeptide 16	Homo sapiens	6p21.3
+DEG2017	DEG20170267	DHX30	HGNC:16716	-	-	DEAH (Asp-Glu-Ala-His) box helicase 30	Homo sapiens	3p24.3-p22.1
+DEG2017	DEG20170268	DHX38	HGNC:17211	-	-	DEAH (Asp-Glu-Ala-His) box polypeptide 38	Homo sapiens	16q22
+DEG2017	DEG20170269	DHX8	HGNC:2749	-	-	DEAH (Asp-Glu-Ala-His) box polypeptide 8	Homo sapiens	17q21.31
+DEG2017	DEG20170270	DHX9	HGNC:2750	-	-	DEAH (Asp-Glu-Ala-His) box helicase 9	Homo sapiens	1q25
+DEG2017	DEG20170271	DIEXF	HGNC:28440	-	-	digestive organ expansion factor homolog (zebrafish)	Homo sapiens	1q32.2
+DEG2017	DEG20170272	DIMT1	HGNC:30217	-	-	DIM1 dimethyladenosine transferase 1 homolog	Homo sapiens	5q12.1
+DEG2017	DEG20170273	DIS3	HGNC:20604	-	-	DIS3 homolog, exosome endoribonuclease and 3'-5' exoribonuclease	Homo sapiens	13q21.32
+DEG2017	DEG20170274	DKC1	HGNC:2890	-	-	dyskeratosis congenita 1, dyskerin	Homo sapiens	Xq28
+DEG2017	DEG20170275	DLD	HGNC:2898	-	-	dihydrolipoamide dehydrogenase	Homo sapiens	7q31-q32
+DEG2017	DEG20170276	DLST	HGNC:2911	-	-	dihydrolipoamide S-succinyltransferase (E2 component of 2-oxo-glutarate complex)	Homo sapiens	14q23.1
+DEG2017	DEG20170277	DMAP1	HGNC:18291	-	-	DNA methyltransferase 1 associated protein 1	Homo sapiens	1p34
+DEG2017	DEG20170278	DMXL1	HGNC:2937	-	-	Dmx-like 1	Homo sapiens	5q22
+DEG2017	DEG20170279	DNAJA3	HGNC:11808	-	-	DnaJ heat shock protein family (Hsp40) member A3	Homo sapiens	16p13.3
+DEG2017	DEG20170280	DNAJC11	HGNC:25570	-	-	DnaJ heat shock protein family (Hsp40) member C11	Homo sapiens	1p36.23
+DEG2017	DEG20170281	DNAJC17	HGNC:25556	-	-	DnaJ heat shock protein family (Hsp40) member C17	Homo sapiens	15q15.1
+DEG2017	DEG20170282	DNAJC9	HGNC:19123	-	-	DnaJ heat shock protein family (Hsp40) member C9	Homo sapiens	10q22.3
+DEG2017	DEG20170283	DNLZ	HGNC:33879	-	-	DNL-type zinc finger	Homo sapiens	9q34.3
+DEG2017	DEG20170284	DNM1L	HGNC:2973	-	-	dynamin 1-like	Homo sapiens	12p11.21
+DEG2017	DEG20170285	DNM2	HGNC:2974	-	-	dynamin 2	Homo sapiens	19p
+DEG2017	DEG20170286	DNMT1	HGNC:2976	-	-	DNA (cytosine-5-)-methyltransferase 1	Homo sapiens	19p13.2
+DEG2017	DEG20170287	DOCK6	HGNC:19189	-	-	dedicator of cytokinesis 6	Homo sapiens	19p13.2
+DEG2017	DEG20170288	DOHH	HGNC:28662	-	-	deoxyhypusine hydroxylase/monooxygenase	Homo sapiens	19p13.3
+DEG2017	DEG20170289	DOLK	HGNC:23406	-	-	dolichol kinase	Homo sapiens	9q34.13
+DEG2017	DEG20170290	DONSON	HGNC:2993	-	-	downstream neighbor of SON	Homo sapiens	21q22.1
+DEG2017	DEG20170291	DPAGT1	HGNC:2995	-	-	dolichyl-phosphate (UDP-N-acetylglucosamine) N-acetylglucosaminephosphotransferase 1 (GlcNAc-1-P transferase)	Homo sapiens	11q23.3
+DEG2017	DEG20170292	DPH3	HGNC:27717	-	-	diphthamide biosynthesis 3	Homo sapiens	3p25.1
+DEG2017	DEG20170293	DPY30	HGNC:24590	-	-	dpy-30, histone methyltransferase complex regulatory subunit	Homo sapiens	2p22.3
+DEG2017	DEG20170294	DTL	HGNC:30288	-	-	denticleless E3 ubiquitin protein ligase homolog (Drosophila)	Homo sapiens	1q32
+DEG2017	DEG20170295	DTYMK	HGNC:3061	-	-	deoxythymidylate kinase	Homo sapiens	2q37
+DEG2017	DEG20170296	DUT	HGNC:3078	-	-	deoxyuridine triphosphatase	Homo sapiens	15q21.1
+DEG2017	DEG20170297	DYNC1H1	HGNC:2961	-	-	dynein, cytoplasmic 1, heavy chain 1	Homo sapiens	14q32.31
+DEG2017	DEG20170298	DYNC1I2	HGNC:2964	-	-	dynein, cytoplasmic 1, intermediate chain 2	Homo sapiens	2q31.1
+DEG2017	DEG20170299	DYRK1A	HGNC:3091	-	-	dual specificity tyrosine-(Y)-phosphorylation regulated kinase 1A	Homo sapiens	21q22.13
+DEG2017	DEG20170300	EARS2	HGNC:29419	-	-	glutamyl-tRNA synthetase 2, mitochondrial	Homo sapiens	16p12.2
+DEG2017	DEG20170301	EBF1	HGNC:3126	-	-	early B-cell factor 1	Homo sapiens	5q34
+DEG2017	DEG20170302	EBNA1BP2	HGNC:15531	-	-	EBNA1 binding protein 2	Homo sapiens	1p35-p33
+DEG2017	DEG20170303	ECD	HGNC:17029	-	-	ecdysoneless homolog (Drosophila)	Homo sapiens	10q22.3
+DEG2017	DEG20170304	ECT2	HGNC:3155	-	-	epithelial cell transforming 2	Homo sapiens	3q26.1-q26.2
+DEG2017	DEG20170305	EEF1A1	HGNC:3189	-	-	eukaryotic translation elongation factor 1 alpha 1	Homo sapiens	6q14.1
+DEG2017	DEG20170306	EEF1G	HGNC:3213	-	-	eukaryotic translation elongation factor 1 gamma	Homo sapiens	11q12.3
+DEG2017	DEG20170307	EEF2	HGNC:3214	-	-	eukaryotic translation elongation factor 2	Homo sapiens	19p13.3
+DEG2017	DEG20170308	EFTUD1	HGNC:25789	-	-	elongation factor Tu GTP binding domain containing 1	Homo sapiens	15q25.2
+DEG2017	DEG20170309	EFTUD2	HGNC:30858	-	-	elongation factor Tu GTP binding domain containing 2	Homo sapiens	17q21.31
+DEG2017	DEG20170310	EGLN2	HGNC:14660	-	-	egl-9 family hypoxia-inducible factor 2	Homo sapiens	19q13.2
+DEG2017	DEG20170311	EIF1	HGNC:3249	-	-	eukaryotic translation initiation factor 1	Homo sapiens	17q21.2
+DEG2017	DEG20170312	EIF1AD	HGNC:28147	-	-	eukaryotic translation initiation factor 1A domain containing	Homo sapiens	11q13.1
+DEG2017	DEG20170313	EIF2B1	HGNC:3257	-	-	eukaryotic translation initiation factor 2B subunit alpha	Homo sapiens	12q24.3
+DEG2017	DEG20170314	EIF2B2	HGNC:3258	-	-	eukaryotic translation initiation factor 2B subunit beta	Homo sapiens	14q24.3
+DEG2017	DEG20170315	EIF2B3	HGNC:3259	-	-	eukaryotic translation initiation factor 2B subunit gamma	Homo sapiens	1p34.1
+DEG2017	DEG20170316	EIF2B4	HGNC:3260	-	-	eukaryotic translation initiation factor 2B subunit delta	Homo sapiens	2p23.3
+DEG2017	DEG20170317	EIF2B5	HGNC:3261	-	-	eukaryotic translation initiation factor 2B subunit epsilon	Homo sapiens	3q27.3
+DEG2017	DEG20170318	EIF2S1	HGNC:3265	-	-	eukaryotic translation initiation factor 2 subunit alpha	Homo sapiens	14q21.3
+DEG2017	DEG20170319	EIF2S2	HGNC:3266	-	-	eukaryotic translation initiation factor 2 subunit beta	Homo sapiens	20q11.2
+DEG2017	DEG20170320	EIF2S3	HGNC:3267	-	-	eukaryotic translation initiation factor 2 subunit gamma	Homo sapiens	Xp22.2-p22.1
+DEG2017	DEG20170321	EIF3A	HGNC:3271	-	-	eukaryotic translation initiation factor 3 subunit A	Homo sapiens	10q26.11
+DEG2017	DEG20170322	EIF3C	HGNC:3279	-	-	eukaryotic translation initiation factor 3 subunit C	Homo sapiens	16p11.2
+DEG2017	DEG20170323	EIF3CL	HGNC:26347	-	-	eukaryotic translation initiation factor 3 subunit C-like	Homo sapiens	16p11.2
+DEG2017	DEG20170324	EIF3D	HGNC:3278	-	-	eukaryotic translation initiation factor 3 subunit D	Homo sapiens	22q13.1
+DEG2017	DEG20170325	EIF3E	HGNC:3277	-	-	eukaryotic translation initiation factor 3 subunit E	Homo sapiens	8q22-q23
+DEG2017	DEG20170326	EIF3F	HGNC:3275	-	-	eukaryotic translation initiation factor 3 subunit F	Homo sapiens	11p15.4
+DEG2017	DEG20170327	EIF3G	HGNC:3274	-	-	eukaryotic translation initiation factor 3 subunit G	Homo sapiens	19p13.2
+DEG2017	DEG20170328	EIF3H	HGNC:3273	-	-	eukaryotic translation initiation factor 3 subunit H	Homo sapiens	8q24.11
+DEG2017	DEG20170329	EIF3I	HGNC:3272	-	-	eukaryotic translation initiation factor 3 subunit I	Homo sapiens	1p34.1
+DEG2017	DEG20170330	EIF3L	HGNC:18138	-	-	eukaryotic translation initiation factor 3 subunit L	Homo sapiens	22q
+DEG2017	DEG20170331	EIF3M	HGNC:24460	-	-	eukaryotic translation initiation factor 3 subunit M	Homo sapiens	11p13
+DEG2017	DEG20170332	EIF4A1	HGNC:3282	-	-	eukaryotic translation initiation factor 4A1	Homo sapiens	17p13
+DEG2017	DEG20170333	EIF4A3	HGNC:18683	-	-	eukaryotic translation initiation factor 4A3	Homo sapiens	17q25.3
+DEG2017	DEG20170334	EIF4G1	HGNC:3296	-	-	eukaryotic translation initiation factor 4 gamma, 1	Homo sapiens	3q27.1
+DEG2017	DEG20170335	EIF5	HGNC:3299	-	-	eukaryotic translation initiation factor 5	Homo sapiens	14q32.32
+DEG2017	DEG20170336	EIF5B	HGNC:30793	-	-	eukaryotic translation initiation factor 5B	Homo sapiens	2q11.2
+DEG2017	DEG20170337	EIF6	HGNC:6159	-	-	eukaryotic translation initiation factor 6	Homo sapiens	20q11.2
+DEG2017	DEG20170338	ELAC2	HGNC:14198	-	-	elaC ribonuclease Z 2	Homo sapiens	17p11.2
+DEG2017	DEG20170339	ELL	HGNC:23114	-	-	elongation factor RNA polymerase II	Homo sapiens	19p13.1
+DEG2017	DEG20170340	ELOF1	HGNC:28691	-	-	ELF1 homolog, elongation factor 1	Homo sapiens	19p13.2
+DEG2017	DEG20170341	ELOVL1	HGNC:14418	-	-	ELOVL fatty acid elongase 1	Homo sapiens	1p34
+DEG2017	DEG20170342	EMC1	HGNC:28957	-	-	ER membrane protein complex subunit 1	Homo sapiens	1p36.13
+DEG2017	DEG20170343	EMC7	HGNC:24301	-	-	ER membrane protein complex subunit 7	Homo sapiens	15q14
+DEG2017	DEG20170344	ENO1	HGNC:3350	-	-	enolase 1, (alpha)	Homo sapiens	1p36.2
+DEG2017	DEG20170345	EP300	HGNC:3373	-	-	E1A binding protein p300	Homo sapiens	22q13.2
+DEG2017	DEG20170346	EPRS	HGNC:3418	-	-	glutamyl-prolyl-tRNA synthetase	Homo sapiens	1q41
+DEG2017	DEG20170347	ERAL1	HGNC:3424	-	-	Era-like 12S mitochondrial rRNA chaperone 1	Homo sapiens	17q11.2
+DEG2017	DEG20170348	ERCC2	HGNC:3434	-	-	excision repair cross-complementation group 2	Homo sapiens	19q13.3
+DEG2017	DEG20170349	ERCC3	HGNC:3435	-	-	excision repair cross-complementation group 3	Homo sapiens	2q21
+DEG2017	DEG20170350	ESF1	HGNC:15898	-	-	ESF1 nucleolar pre-rRNA processing protein homolog	Homo sapiens	20p12.1
+DEG2017	DEG20170351	ESPL1	HGNC:16856	-	-	extra spindle pole bodies like 1, separase	Homo sapiens	12q13.13
+DEG2017	DEG20170352	ESPN	HGNC:13281	-	-	espin	Homo sapiens	1p36.31
+DEG2017	DEG20170353	ETF1	HGNC:3477	-	-	eukaryotic translation termination factor 1	Homo sapiens	5q31.2
+DEG2017	DEG20170354	EXOC1	HGNC:30380	-	-	exocyst complex component 1	Homo sapiens	4q12
+DEG2017	DEG20170355	EXOC2	HGNC:24968	-	-	exocyst complex component 2	Homo sapiens	6p25.3
+DEG2017	DEG20170356	EXOC4	HGNC:30389	-	-	exocyst complex component 4	Homo sapiens	7q31
+DEG2017	DEG20170357	EXOC8	HGNC:24659	-	-	exocyst complex component 8	Homo sapiens	1q42.2
+DEG2017	DEG20170358	EXOSC10	HGNC:9138	-	-	exosome component 10	Homo sapiens	1p36.22
+DEG2017	DEG20170359	EXOSC2	HGNC:17097	-	-	exosome component 2	Homo sapiens	9q34
+DEG2017	DEG20170360	EXOSC3	HGNC:17944	-	-	exosome component 3	Homo sapiens	9p11
+DEG2017	DEG20170361	EXOSC4	HGNC:18189	-	-	exosome component 4	Homo sapiens	8q24.3
+DEG2017	DEG20170362	EXOSC5	HGNC:24662	-	-	exosome component 5	Homo sapiens	19q13.1
+DEG2017	DEG20170363	EXOSC6	HGNC:19055	-	-	exosome component 6	Homo sapiens	16q22.1
+DEG2017	DEG20170364	EXOSC7	HGNC:28112	-	-	exosome component 7	Homo sapiens	3p21.32
+DEG2017	DEG20170365	EXOSC8	HGNC:17035	-	-	exosome component 8	Homo sapiens	13q13.1
+DEG2017	DEG20170366	EXOSC9	HGNC:9137	-	-	exosome component 9	Homo sapiens	4q27
+DEG2017	DEG20170367	EZH2	HGNC:3527	-	-	enhancer of zeste 2 polycomb repressive complex 2 subunit	Homo sapiens	7q35-q36
+DEG2017	DEG20170368	FAM210A	HGNC:28346	-	-	family with sequence similarity 210 member A	Homo sapiens	18p11.21
+DEG2017	DEG20170369	FAM50A	HGNC:18786	-	-	family with sequence similarity 50 member A	Homo sapiens	Xq28
+DEG2017	DEG20170370	FAM72D	HGNC:33593	-	-	family with sequence similarity 72 member D	Homo sapiens	1q21.1
+DEG2017	DEG20170371	FAM96B	HGNC:24261	-	-	family with sequence similarity 96 member B	Homo sapiens	16q22.1
+DEG2017	DEG20170372	FARS2	HGNC:21062	-	-	phenylalanyl-tRNA synthetase 2, mitochondrial	Homo sapiens	6p25.1
+DEG2017	DEG20170373	FARSA	HGNC:3592	-	-	phenylalanyl-tRNA synthetase alpha subunit	Homo sapiens	19p13.2
+DEG2017	DEG20170374	FARSB	HGNC:17800	-	-	phenylalanyl-tRNA synthetase beta subunit	Homo sapiens	2q36.2
+DEG2017	DEG20170375	FASN	HGNC:3594	-	-	fatty acid synthase	Homo sapiens	17q25
+DEG2017	DEG20170376	FAU	HGNC:3597	-	-	Finkel-Biskis-Reilly murine sarcoma virus (FBR-MuSV) ubiquitously expressed	Homo sapiens	11q13
+DEG2017	DEG20170377	FBL	HGNC:3599	-	-	fibrillarin	Homo sapiens	19q13.1
+DEG2017	DEG20170378	FBXO5	HGNC:13584	-	-	F-box protein 5	Homo sapiens	6q25-q26
+DEG2017	DEG20170379	FBXW11	HGNC:13607	-	-	F-box and WD repeat domain containing 11	Homo sapiens	5q35.1
+DEG2017	DEG20170380	FBXW7	HGNC:16712	-	-	F-box and WD repeat domain containing 7	Homo sapiens	4q31.23
+DEG2017	DEG20170381	FDFT1	HGNC:3629	-	-	farnesyl-diphosphate farnesyltransferase 1	Homo sapiens	8p23.1-p22
+DEG2017	DEG20170382	FDPS	HGNC:3631	-	-	farnesyl diphosphate synthase	Homo sapiens	1q22
+DEG2017	DEG20170383	FEN1	HGNC:3650	-	-	flap structure-specific endonuclease 1	Homo sapiens	11q12
+DEG2017	DEG20170384	FGR	HGNC:3697	-	-	FGR proto-oncogene, Src family tyrosine kinase	Homo sapiens	1p36.2-p36.1
+DEG2017	DEG20170385	FIP1L1	HGNC:19124	-	-	factor interacting with PAPOLA and CPSF1	Homo sapiens	4q12
+DEG2017	DEG20170386	FIS1	HGNC:21689	-	-	fission, mitochondrial 1	Homo sapiens	7q22.1
+DEG2017	DEG20170387	FLCN	HGNC:27310	-	-	folliculin	Homo sapiens	17p11.2
+DEG2017	DEG20170388	FNBP4	HGNC:19752	-	-	formin binding protein 4	Homo sapiens	11q12.1
+DEG2017	DEG20170389	FNTB	HGNC:3785	-	-	farnesyltransferase, CAAX box, beta	Homo sapiens	14q23.3
+DEG2017	DEG20170390	FOXD4L1	HGNC:18521	-	-	forkhead box D4-like 1	Homo sapiens	2q14.1
+DEG2017	DEG20170391	FPGS	HGNC:3824	-	-	folylpolyglutamate synthase	Homo sapiens	9q34.11
+DEG2017	DEG20170392	FTSJ3	HGNC:17136	-	-	FtsJ homolog 3 (E. coli)	Homo sapiens	17q23.3
+DEG2017	DEG20170393	FZR1	HGNC:24824	-	-	fizzy/cell division cycle 20 related 1	Homo sapiens	19p13.3
+DEG2017	DEG20170394	GABPB1	HGNC:4074	-	-	GA binding protein transcription factor, beta subunit 1	Homo sapiens	15q21.2
+DEG2017	DEG20170395	GADD45B	HGNC:4096	-	-	growth arrest and DNA damage inducible beta	Homo sapiens	19p13.3
+DEG2017	DEG20170396	GADD45GIP1	HGNC:29996	-	-	GADD45G interacting protein 1	Homo sapiens	19p13.2
+DEG2017	DEG20170397	GAPDH	HGNC:4141	-	-	glyceraldehyde-3-phosphate dehydrogenase	Homo sapiens	12p13.31
+DEG2017	DEG20170398	GARS	HGNC:4162	-	-	glycyl-tRNA synthetase	Homo sapiens	7p15
+DEG2017	DEG20170399	GART	HGNC:4163	-	-	phosphoribosylglycinamide formyltransferase, phosphoribosylglycinamide synthetase, phosphoribosylaminoimidazole synthetase	Homo sapiens	21q22.11
+DEG2017	DEG20170400	GBF1	HGNC:4181	-	-	golgi brefeldin A resistant guanine nucleotide exchange factor 1	Homo sapiens	10q24
+DEG2017	DEG20170401	GEMIN4	HGNC:15717	-	-	gem nuclear organelle associated protein 4	Homo sapiens	17p13.3
+DEG2017	DEG20170402	GEMIN5	HGNC:20043	-	-	gem nuclear organelle associated protein 5	Homo sapiens	5q34
+DEG2017	DEG20170403	GEMIN8	HGNC:26044	-	-	gem nuclear organelle associated protein 8	Homo sapiens	Xp22
+DEG2017	DEG20170404	GFM1	HGNC:13780	-	-	G elongation factor, mitochondrial 1	Homo sapiens	3q25
+DEG2017	DEG20170405	GFPT1	HGNC:4241	-	-	glutamine--fructose-6-phosphate transaminase 1	Homo sapiens	2p13
+DEG2017	DEG20170406	GGPS1	HGNC:4249	-	-	geranylgeranyl diphosphate synthase 1	Homo sapiens	1q43
+DEG2017	DEG20170407	GINS1	HGNC:28980	-	-	GINS complex subunit 1 (Psf1 homolog)	Homo sapiens	20p11.21
+DEG2017	DEG20170408	GINS2	HGNC:24575	-	-	GINS complex subunit 2 (Psf2 homolog)	Homo sapiens	16q24.1
+DEG2017	DEG20170409	GINS3	HGNC:25851	-	-	GINS complex subunit 3 (Psf3 homolog)	Homo sapiens	16q21
+DEG2017	DEG20170410	GINS4	HGNC:28226	-	-	GINS complex subunit 4 (Sld5 homolog)	Homo sapiens	8p11.21
+DEG2017	DEG20170411	GLE1	HGNC:4315	-	-	GLE1, RNA export mediator	Homo sapiens	9q34.13
+DEG2017	DEG20170412	GLTSCR2	HGNC:4333	-	-	glioma tumor suppressor candidate region gene 2	Homo sapiens	19q13.3
+DEG2017	DEG20170413	GMPPB	HGNC:22932	-	-	GDP-mannose pyrophosphorylase B	Homo sapiens	3p21.31
+DEG2017	DEG20170414	GMPS	HGNC:4378	-	-	guanine monophosphate synthase	Homo sapiens	3q25.31
+DEG2017	DEG20170415	GNB1	HGNC:4396	-	-	guanine nucleotide binding protein (G protein), beta polypeptide 1	Homo sapiens	1p36.33
+DEG2017	DEG20170416	GNB1L	HGNC:4397	-	-	guanine nucleotide binding protein (G protein), beta polypeptide 1-like	Homo sapiens	22q11.2
+DEG2017	DEG20170417	GNB2L1	HGNC:4399	-	-	guanine nucleotide binding protein (G protein), beta polypeptide 2-like 1	Homo sapiens	5q35.3
+DEG2017	DEG20170418	GNL3L	HGNC:25553	-	-	guanine nucleotide binding protein-like 3 (nucleolar)-like	Homo sapiens	Xp11.22
+DEG2017	DEG20170419	GOLGA6L1	HGNC:37444	-	-	golgin A6 family-like 1	Homo sapiens	15q11.2
+DEG2017	DEG20170420	GOLGA6L9	HGNC:37229	-	-	golgin A6 family-like 9	Homo sapiens	15q25.2
+DEG2017	DEG20170421	GOLGA8O	HGNC:44406	-	-	golgin A8 family member O	Homo sapiens	15q13.3
+DEG2017	DEG20170422	GON4L	HGNC:25973	-	-	gon-4-like (C. elegans)	Homo sapiens	1q22
+DEG2017	DEG20170423	GOSR2	HGNC:4431	-	-	golgi SNAP receptor complex member 2	Homo sapiens	17q21
+DEG2017	DEG20170424	GPKOW	HGNC:30677	-	-	G-patch domain and KOW motifs	Homo sapiens	Xp11.23
+DEG2017	DEG20170425	GPN1	HGNC:17030	-	-	GPN-loop GTPase 1	Homo sapiens	2p23.3
+DEG2017	DEG20170426	GPN2	HGNC:25513	-	-	GPN-loop GTPase 2	Homo sapiens	1p36.11
+DEG2017	DEG20170427	GPN3	HGNC:30186	-	-	GPN-loop GTPase 3	Homo sapiens	12q24.11
+DEG2017	DEG20170428	GPS1	HGNC:4549	-	-	G protein pathway suppressor 1	Homo sapiens	17q25.3
+DEG2017	DEG20170429	GRPEL1	HGNC:19696	-	-	GrpE-like 1, mitochondrial (E. coli)	Homo sapiens	4p16
+DEG2017	DEG20170430	GRWD1	HGNC:21270	-	-	glutamate-rich WD repeat containing 1	Homo sapiens	19q13.33
+DEG2017	DEG20170431	GSPT1	HGNC:4621	-	-	G1 to S phase transition 1	Homo sapiens	16p13.1
+DEG2017	DEG20170432	GTF2A1	HGNC:4646	-	-	general transcription factor IIA 1	Homo sapiens	14q31
+DEG2017	DEG20170433	GTF2A2	HGNC:4647	-	-	general transcription factor IIA 2	Homo sapiens	15q21.3
+DEG2017	DEG20170434	GTF2B	HGNC:4648	-	-	general transcription factor IIB	Homo sapiens	1p22-p21
+DEG2017	DEG20170435	GTF2E1	HGNC:4650	-	-	general transcription factor IIE subunit 1	Homo sapiens	3q21-q24
+DEG2017	DEG20170436	GTF2E2	HGNC:4651	-	-	general transcription factor IIE subunit 2	Homo sapiens	8p12
+DEG2017	DEG20170437	GTF2F2	HGNC:4653	-	-	general transcription factor IIF subunit 2	Homo sapiens	13q14
+DEG2017	DEG20170438	GTF2H1	HGNC:4655	-	-	general transcription factor IIH subunit 1	Homo sapiens	11p15.1-p14
+DEG2017	DEG20170439	GTF2H2	HGNC:4656	-	-	general transcription factor IIH subunit 2	Homo sapiens	5q13.2
+DEG2017	DEG20170440	GTF2H2C	HGNC:31394	-	-	GTF2H2 family member C	Homo sapiens	5q13.2
+DEG2017	DEG20170441	GTF2H3	HGNC:4657	-	-	general transcription factor IIH subunit 3	Homo sapiens	12q24.31
+DEG2017	DEG20170442	GTF2H4	HGNC:4658	-	-	general transcription factor IIH subunit 4	Homo sapiens	6p21.3
+DEG2017	DEG20170443	GTF3A	HGNC:4662	-	-	general transcription factor IIIA	Homo sapiens	13q12.3-q13.1
+DEG2017	DEG20170444	GTF3C1	HGNC:4664	-	-	general transcription factor IIIC subunit 1	Homo sapiens	16p12
+DEG2017	DEG20170445	GTF3C2	HGNC:4665	-	-	general transcription factor IIIC subunit 2	Homo sapiens	2p23.3
+DEG2017	DEG20170446	GTF3C4	HGNC:4667	-	-	general transcription factor IIIC subunit 4	Homo sapiens	9q34.3
+DEG2017	DEG20170447	GTF3C5	HGNC:4668	-	-	general transcription factor IIIC subunit 5	Homo sapiens	9q34.13
+DEG2017	DEG20170448	GTPBP4	HGNC:21535	-	-	GTP binding protein 4	Homo sapiens	10p15-p14
+DEG2017	DEG20170449	GTPBP8	HGNC:25007	-	-	GTP-binding protein 8 (putative)	Homo sapiens	3q13.2
+DEG2017	DEG20170450	GUK1	HGNC:4693	-	-	guanylate kinase 1	Homo sapiens	1q32-q41
+DEG2017	DEG20170451	H2AFZ	HGNC:4741	-	-	H2A histone family member Z	Homo sapiens	4q23
+DEG2017	DEG20170452	HARS	HGNC:4816	-	-	histidyl-tRNA synthetase	Homo sapiens	5q31.3
+DEG2017	DEG20170453	HARS2	HGNC:4817	-	-	histidyl-tRNA synthetase 2	Homo sapiens	5q31.3
+DEG2017	DEG20170454	HAUS1	HGNC:25174	-	-	HAUS augmin like complex subunit 1	Homo sapiens	18q21.1
+DEG2017	DEG20170455	HAUS2	HGNC:25530	-	-	HAUS augmin like complex subunit 2	Homo sapiens	15q15.1
+DEG2017	DEG20170456	HAUS3	HGNC:28719	-	-	HAUS augmin like complex subunit 3	Homo sapiens	4p16.3
+DEG2017	DEG20170457	HAUS4	HGNC:20163	-	-	HAUS augmin like complex subunit 4	Homo sapiens	14q11.1
+DEG2017	DEG20170458	HAUS5	HGNC:29130	-	-	HAUS augmin like complex subunit 5	Homo sapiens	19q13.12
+DEG2017	DEG20170459	HAUS7	HGNC:32979	-	-	HAUS augmin like complex subunit 7	Homo sapiens	Xq28
+DEG2017	DEG20170460	HAUS8	HGNC:30532	-	-	HAUS augmin like complex subunit 8	Homo sapiens	19p13.11
+DEG2017	DEG20170461	HDAC3	HGNC:4854	-	-	histone deacetylase 3	Homo sapiens	5q31.1-q31.2
+DEG2017	DEG20170462	HDLBP	HGNC:4857	-	-	high density lipoprotein binding protein	Homo sapiens	2q37.3
+DEG2017	DEG20170463	HEATR1	HGNC:25517	-	-	HEAT repeat containing 1	Homo sapiens	1q43
+DEG2017	DEG20170464	HEATR3	HGNC:26087	-	-	HEAT repeat containing 3	Homo sapiens	16q12.1
+DEG2017	DEG20170465	HECTD3	HGNC:26117	-	-	HECT domain containing E3 ubiquitin protein ligase 3	Homo sapiens	1p34.1
+DEG2017	DEG20170466	HFE2	HGNC:4887	-	-	hemochromatosis type 2 (juvenile)	Homo sapiens	1q21.2
+DEG2017	DEG20170467	HGS	HGNC:4897	-	-	hepatocyte growth factor-regulated tyrosine kinase substrate	Homo sapiens	17q25
+DEG2017	DEG20170468	HINFP	HGNC:17850	-	-	histone H4 transcription factor	Homo sapiens	11q23.3
+DEG2017	DEG20170469	HIST1H2AI	HGNC:4725	-	-	histone cluster 1, H2ai	Homo sapiens	6p22.1
+DEG2017	DEG20170470	HIST2H2AA3	HGNC:4736	-	-	histone cluster 2, H2aa3	Homo sapiens	1q21.2
+DEG2017	DEG20170471	HIST2H2AA4	HGNC:29668	-	-	histone cluster 2, H2aa4	Homo sapiens	1q21.2
+DEG2017	DEG20170472	HIST2H2BF	HGNC:24700	-	-	histone cluster 2, H2bf	Homo sapiens	1q21.2
+DEG2017	DEG20170473	HIST2H3D	HGNC:25311	-	-	histone cluster 2, H3d	Homo sapiens	1q21.2
+DEG2017	DEG20170474	HK2	HGNC:4923	-	-	hexokinase 2	Homo sapiens	2p13
+DEG2017	DEG20170475	HMGB1	HGNC:4983	-	-	high mobility group box 1	Homo sapiens	13q12
+DEG2017	DEG20170476	HMGCR	HGNC:5006	-	-	3-hydroxy-3-methylglutaryl-CoA reductase	Homo sapiens	5q13.3-q14
+DEG2017	DEG20170477	HMGCS1	HGNC:5007	-	-	3-hydroxy-3-methylglutaryl-CoA synthase 1	Homo sapiens	5p14-p13
+DEG2017	DEG20170478	HNRNPC	HGNC:5035	-	-	heterogeneous nuclear ribonucleoprotein C (C1/C2)	Homo sapiens	14q11.2
+DEG2017	DEG20170479	HNRNPF	HGNC:5039	-	-	heterogeneous nuclear ribonucleoprotein F	Homo sapiens	10q11.21
+DEG2017	DEG20170480	HNRNPH1	HGNC:5041	-	-	heterogeneous nuclear ribonucleoprotein H1 (H)	Homo sapiens	5q35.3
+DEG2017	DEG20170481	HNRNPK	HGNC:5044	-	-	heterogeneous nuclear ribonucleoprotein K	Homo sapiens	9q21.32-q21.33
+DEG2017	DEG20170482	HNRNPL	HGNC:5045	-	-	heterogeneous nuclear ribonucleoprotein L	Homo sapiens	19q13.2
+DEG2017	DEG20170483	HNRNPM	HGNC:5046	-	-	heterogeneous nuclear ribonucleoprotein M	Homo sapiens	19p13.2
+DEG2017	DEG20170484	HNRNPU	HGNC:5048	-	-	heterogeneous nuclear ribonucleoprotein U (scaffold attachment factor A)	Homo sapiens	1q44
+DEG2017	DEG20170485	HSD17B10	HGNC:4800	-	-	hydroxysteroid (17-beta) dehydrogenase 10	Homo sapiens	Xp11.2
+DEG2017	DEG20170486	HSD17B12	HGNC:18646	-	-	hydroxysteroid (17-beta) dehydrogenase 12	Homo sapiens	11q11
+DEG2017	DEG20170487	HSPA5	HGNC:5238	-	-	heat shock protein family A (Hsp70) member 5	Homo sapiens	9q33.3
+DEG2017	DEG20170488	HSPA8	HGNC:5241	-	-	heat shock protein family A (Hsp70) member 8	Homo sapiens	11q24.1
+DEG2017	DEG20170489	HSPA9	HGNC:5244	-	-	heat shock protein family A (Hsp70) member 9	Homo sapiens	5q31.1
+DEG2017	DEG20170490	HSPD1	HGNC:5261	-	-	heat shock protein family D (Hsp60) member 1	Homo sapiens	2q33.1
+DEG2017	DEG20170491	HSPE1	HGNC:5269	-	-	heat shock protein family E (Hsp10) member 1	Homo sapiens	2q33.1
+DEG2017	DEG20170492	HTATSF1	HGNC:5276	-	-	HIV-1 Tat specific factor 1	Homo sapiens	Xq26.3
+DEG2017	DEG20170493	HUWE1	HGNC:30892	-	-	HECT, UBA and WWE domain containing 1, E3 ubiquitin protein ligase	Homo sapiens	Xp11.22
+DEG2017	DEG20170494	HYOU1	HGNC:16931	-	-	hypoxia up-regulated 1	Homo sapiens	11q23.1-q23.3
+DEG2017	DEG20170495	IARS	HGNC:5330	-	-	isoleucyl-tRNA synthetase	Homo sapiens	9q21
+DEG2017	DEG20170496	IARS2	HGNC:29685	-	-	isoleucyl-tRNA synthetase 2, mitochondrial	Homo sapiens	1q41
+DEG2017	DEG20170497	IDH3A	HGNC:5384	-	-	isocitrate dehydrogenase 3 (NAD+) alpha	Homo sapiens	15q25.1-q25.2
+DEG2017	DEG20170498	IFITM5	HGNC:16644	-	-	interferon induced transmembrane protein 5	Homo sapiens	11p15.5
+DEG2017	DEG20170499	IGBP1	HGNC:5461	-	-	immunoglobulin (CD79A) binding protein 1	Homo sapiens	Xq13.1-q13.3
+DEG2017	DEG20170500	IK	HGNC:5958	-	-	IK cytokine, down-regulator of HLA II	Homo sapiens	5q31.3
+DEG2017	DEG20170501	IKBKAP	HGNC:5959	-	-	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase complex-associated protein	Homo sapiens	9q31
+DEG2017	DEG20170502	IKBKB	HGNC:5960	-	-	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase beta	Homo sapiens	8p11.2
+DEG2017	DEG20170503	IKBKG	HGNC:5961	-	-	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase gamma	Homo sapiens	Xq28
+DEG2017	DEG20170504	ILF2	HGNC:6037	-	-	interleukin enhancer binding factor 2	Homo sapiens	1q21.3
+DEG2017	DEG20170505	ILF3	HGNC:6038	-	-	interleukin enhancer binding factor 3	Homo sapiens	19p13.2
+DEG2017	DEG20170506	IMP3	HGNC:14497	-	-	IMP3, U3 small nucleolar ribonucleoprotein	Homo sapiens	15q24
+DEG2017	DEG20170507	IMP4	HGNC:30856	-	-	IMP4 homolog, U3 small nucleolar ribonucleoprotein	Homo sapiens	2q21.1
+DEG2017	DEG20170508	INO80	HGNC:26956	-	-	INO80 complex subunit	Homo sapiens	15q15.1
+DEG2017	DEG20170509	INTS1	HGNC:24555	-	-	integrator complex subunit 1	Homo sapiens	7p22.3
+DEG2017	DEG20170510	INTS10	HGNC:25548	-	-	integrator complex subunit 10	Homo sapiens	8p21.3
+DEG2017	DEG20170511	INTS2	HGNC:29241	-	-	integrator complex subunit 2	Homo sapiens	17q23.2
+DEG2017	DEG20170512	INTS3	HGNC:26153	-	-	integrator complex subunit 3	Homo sapiens	1q21.3
+DEG2017	DEG20170513	INTS4	HGNC:25048	-	-	integrator complex subunit 4	Homo sapiens	11q14.1
+DEG2017	DEG20170514	INTS5	HGNC:29352	-	-	integrator complex subunit 5	Homo sapiens	11q12.3
+DEG2017	DEG20170515	INTS8	HGNC:26048	-	-	integrator complex subunit 8	Homo sapiens	8q22.1
+DEG2017	DEG20170516	INTS9	HGNC:25592	-	-	integrator complex subunit 9	Homo sapiens	8p21.1
+DEG2017	DEG20170517	IPO11	HGNC:20628	-	-	importin 11	Homo sapiens	5q12.1
+DEG2017	DEG20170518	IPO13	HGNC:16853	-	-	importin 13	Homo sapiens	1p34.1
+DEG2017	DEG20170519	ISCU	HGNC:29882	-	-	iron-sulfur cluster assembly enzyme	Homo sapiens	12q24.1
+DEG2017	DEG20170520	ISG20L2	HGNC:25745	-	-	interferon stimulated exonuclease gene 20kDa like 2	Homo sapiens	1q23.1
+DEG2017	DEG20170521	ITPK1	HGNC:6177	-	-	inositol-tetrakisphosphate 1-kinase	Homo sapiens	14q32.12
+DEG2017	DEG20170522	JTB	HGNC:6201	-	-	jumping translocation breakpoint	Homo sapiens	1q21
+DEG2017	DEG20170523	KANSL1	HGNC:24565	-	-	KAT8 regulatory NSL complex subunit 1	Homo sapiens	17q21.31
+DEG2017	DEG20170524	KANSL2	HGNC:26024	-	-	KAT8 regulatory NSL complex subunit 2	Homo sapiens	12q13.11
+DEG2017	DEG20170525	KANSL3	HGNC:25473	-	-	KAT8 regulatory NSL complex subunit 3	Homo sapiens	2q11.2
+DEG2017	DEG20170526	KARS	HGNC:6215	-	-	lysyl-tRNA synthetase	Homo sapiens	16q23.1
+DEG2017	DEG20170527	KAT5	HGNC:5275	-	-	K(lysine) acetyltransferase 5	Homo sapiens	11q13
+DEG2017	DEG20170528	KAT7	HGNC:17016	-	-	K(lysine) acetyltransferase 7	Homo sapiens	17q21.32
+DEG2017	DEG20170529	KAT8	HGNC:17933	-	-	K(lysine) acetyltransferase 8	Homo sapiens	16p11.1
+DEG2017	DEG20170530	KCNIP3	HGNC:15523	-	-	Kv channel interacting protein 3	Homo sapiens	2q21.1
+DEG2017	DEG20170531	KIAA0196	HGNC:28984	-	-	KIAA0196	Homo sapiens	8q24.13
+DEG2017	DEG20170532	KIAA0391	HGNC:19958	-	-	KIAA0391	Homo sapiens	14q13.2
+DEG2017	DEG20170533	ICE1	HGNC:29154	-	-	interactor of little elongation complex ELL subunit 1	Homo sapiens	5p15.32
+DEG2017	DEG20170534	KIAA1033	HGNC:29174	-	-	KIAA1033	Homo sapiens	12q24.11
+DEG2017	DEG20170535	KIF11	HGNC:6388	-	-	kinesin family member 11	Homo sapiens	10q24.1
+DEG2017	DEG20170536	KIF22	HGNC:6391	-	-	kinesin family member 22	Homo sapiens	16p11.2
+DEG2017	DEG20170537	KIF23	HGNC:6392	-	-	kinesin family member 23	Homo sapiens	15q23
+DEG2017	DEG20170538	KIN	HGNC:6327	-	-	Kin17 DNA and RNA binding protein	Homo sapiens	10p14
+DEG2017	DEG20170539	KIR2DL3	HGNC:6331	-	-	killer cell immunoglobulin-like receptor, two domains, long cytoplasmic tail, 3	Homo sapiens	19q13.4
+DEG2017	DEG20170540	KMT2A	HGNC:7132	-	-	lysine (K)-specific methyltransferase 2A	Homo sapiens	11q23
+DEG2017	DEG20170541	KMT2B	HGNC:15840	-	-	lysine (K)-specific methyltransferase 2B	Homo sapiens	19q13.12
+DEG2017	DEG20170542	KPNB1	HGNC:6400	-	-	karyopherin (importin) beta 1	Homo sapiens	17q21.32
+DEG2017	DEG20170543	KRI1	HGNC:25769	-	-	KRI1 homolog	Homo sapiens	19p13.2
+DEG2017	DEG20170544	KRTAP2-1	HGNC:16775	-	-	keratin associated protein 2-1	Homo sapiens	17q21.2
+DEG2017	DEG20170545	KRTAP2-2	HGNC:18905	-	-	keratin associated protein 2-2	Homo sapiens	17q21.2
+DEG2017	DEG20170546	KRTAP2-3	HGNC:18906	-	-	keratin associated protein 2-3	Homo sapiens	17q21.2
+DEG2017	DEG20170547	LAMTOR2	HGNC:29796	-	-	late endosomal/lysosomal adaptor, MAPK and MTOR activator 2	Homo sapiens	1q22
+DEG2017	DEG20170548	LAMTOR4	HGNC:33772	-	-	late endosomal/lysosomal adaptor, MAPK and MTOR activator 4	Homo sapiens	7q22
+DEG2017	DEG20170549	LARP4B	HGNC:28987	-	-	La ribonucleoprotein domain family member 4B	Homo sapiens	10p15.3
+DEG2017	DEG20170550	LARS	HGNC:6512	-	-	leucyl-tRNA synthetase	Homo sapiens	5q32
+DEG2017	DEG20170551	LARS2	HGNC:17095	-	-	leucyl-tRNA synthetase 2	Homo sapiens	3p21.3
+DEG2017	DEG20170552	LAS1L	HGNC:25726	-	-	LAS1-like, ribosome biogenesis factor	Homo sapiens	Xq12
+DEG2017	DEG20170553	LENG8	HGNC:15500	-	-	leukocyte receptor cluster (LRC) member 8	Homo sapiens	19q13.4
+DEG2017	DEG20170554	LEO1	HGNC:30401	-	-	LEO1 homolog, Paf1/RNA polymerase II complex component	Homo sapiens	15q21.2
+DEG2017	DEG20170555	LETM1	HGNC:6556	-	-	leucine zipper-EF-hand containing transmembrane protein 1	Homo sapiens	4p16.3
+DEG2017	DEG20170556	LIG1	HGNC:6598	-	-	ligase I, DNA, ATP-dependent	Homo sapiens	19q13.2-q13.3
+DEG2017	DEG20170557	LIN52	HGNC:19856	-	-	lin-52 DREAM MuvB core complex component	Homo sapiens	14q24.2
+DEG2017	DEG20170558	LIN54	HGNC:25397	-	-	lin-54 DREAM MuvB core complex component	Homo sapiens	4q21.22
+DEG2017	DEG20170559	LOC100287177	-	-	-	-	Homo sapiens	-
+DEG2017	DEG20170560	LOC147646	-	-	-	-	Homo sapiens	-
+DEG2017	DEG20170561	CCER2	HGNC:44662	-	-	coiled-coil glutamate rich protein 2	Homo sapiens	-
+DEG2017	DEG20170562	LRP10	HGNC:14553	-	-	LDL receptor related protein 10	Homo sapiens	14q11.2
+DEG2017	DEG20170563	LRPPRC	HGNC:15714	-	-	leucine rich pentatricopeptide repeat containing	Homo sapiens	2p21
+DEG2017	DEG20170564	LRR1	HGNC:19742	-	-	leucine rich repeat protein 1	Homo sapiens	14q21.3
+DEG2017	DEG20170565	LSM12	HGNC:26407	-	-	LSM12 homolog	Homo sapiens	17q21.31
+DEG2017	DEG20170566	LSM2	HGNC:13940	-	-	LSM2 homolog, U6 small nuclear RNA and mRNA degradation associated	Homo sapiens	6p21.3
+DEG2017	DEG20170567	LSM3	HGNC:17874	-	-	LSM3 homolog, U6 small nuclear RNA and mRNA degradation associated	Homo sapiens	3p25.1
+DEG2017	DEG20170568	LSM4	HGNC:17259	-	-	LSM4 homolog, U6 small nuclear RNA and mRNA degradation associated	Homo sapiens	19p13.1
+DEG2017	DEG20170569	LSM6	HGNC:17017	-	-	LSM6 homolog, U6 small nuclear RNA and mRNA degradation associated	Homo sapiens	4q31.21
+DEG2017	DEG20170570	LSM7	HGNC:20470	-	-	LSM7 homolog, U6 small nuclear RNA and mRNA degradation associated	Homo sapiens	19p13.3
+DEG2017	DEG20170571	LSS	HGNC:6708	-	-	lanosterol synthase (2,3-oxidosqualene-lanosterol cyclase)	Homo sapiens	21q22.3
+DEG2017	DEG20170572	LTV1	HGNC:21173	-	-	LTV1 ribosome biogenesis factor	Homo sapiens	6q24.2
+DEG2017	DEG20170573	LUC7L3	HGNC:24309	-	-	LUC7-like 3 pre-mRNA splicing factor	Homo sapiens	17q21.33
+DEG2017	DEG20170574	MAD2L1	HGNC:6763	-	-	MAD2 mitotic arrest deficient-like 1 (yeast)	Homo sapiens	4q27
+DEG2017	DEG20170575	MAGOH	HGNC:6815	-	-	mago homolog, exon junction complex core component	Homo sapiens	1p32.3
+DEG2017	DEG20170576	MAK16	HGNC:13703	-	-	MAK16 homolog	Homo sapiens	8p12
+DEG2017	DEG20170577	MANF	HGNC:15461	-	-	mesencephalic astrocyte-derived neurotrophic factor	Homo sapiens	3p21.1
+DEG2017	DEG20170578	MAP2K1	HGNC:6840	-	-	mitogen-activated protein kinase kinase 1	Homo sapiens	15q22.1-q22.33
+DEG2017	DEG20170579	MAP3K7	HGNC:6859	-	-	mitogen-activated protein kinase kinase kinase 7	Homo sapiens	6q15
+DEG2017	DEG20170580	MARS	HGNC:6898	-	-	methionyl-tRNA synthetase	Homo sapiens	12q13.3
+DEG2017	DEG20170581	MARS2	HGNC:25133	-	-	methionyl-tRNA synthetase 2, mitochondrial	Homo sapiens	2q33.1
+DEG2017	DEG20170582	MASTL	HGNC:19042	-	-	microtubule associated serine/threonine kinase like	Homo sapiens	10p12.1
+DEG2017	DEG20170583	MAT2A	HGNC:6904	-	-	methionine adenosyltransferase II, alpha	Homo sapiens	2p11.2
+DEG2017	DEG20170584	MAU2	HGNC:29140	-	-	MAU2, sister chromatid cohesion factor	Homo sapiens	19p13.11
+DEG2017	DEG20170585	MAX	HGNC:6913	-	-	MYC associated factor X	Homo sapiens	14q23
+DEG2017	DEG20170586	MBNL1	HGNC:6923	-	-	muscleblind like splicing regulator 1	Homo sapiens	3q25
+DEG2017	DEG20170587	MBTPS1	HGNC:15456	-	-	membrane bound transcription factor peptidase, site 1	Homo sapiens	16q24
+DEG2017	DEG20170588	MBTPS2	HGNC:15455	-	-	membrane bound transcription factor peptidase, site 2	Homo sapiens	Xp22.12-p22.11
+DEG2017	DEG20170589	MCM2	HGNC:6944	-	-	minichromosome maintenance complex component 2	Homo sapiens	3q21
+DEG2017	DEG20170590	MCM3	HGNC:6945	-	-	minichromosome maintenance complex component 3	Homo sapiens	6p12
+DEG2017	DEG20170591	MCM3AP	HGNC:6946	-	-	minichromosome maintenance complex component 3 associated protein	Homo sapiens	21q22.3
+DEG2017	DEG20170592	MCM4	HGNC:6947	-	-	minichromosome maintenance complex component 4	Homo sapiens	8q12-q13
+DEG2017	DEG20170593	MCM6	HGNC:6949	-	-	minichromosome maintenance complex component 6	Homo sapiens	2q14-q21
+DEG2017	DEG20170594	MCM7	HGNC:6950	-	-	minichromosome maintenance complex component 7	Homo sapiens	7q21.3-q22.1
+DEG2017	DEG20170595	MCRS1	HGNC:6960	-	-	microspherule protein 1	Homo sapiens	12q13.12
+DEG2017	DEG20170596	MDC1	HGNC:21163	-	-	mediator of DNA damage checkpoint 1	Homo sapiens	6p21.3
+DEG2017	DEG20170597	MDN1	HGNC:18302	-	-	midasin AAA ATPase 1	Homo sapiens	6q15
+DEG2017	DEG20170598	MED1	HGNC:9234	-	-	mediator complex subunit 1	Homo sapiens	17q12
+DEG2017	DEG20170599	MED10	HGNC:28760	-	-	mediator complex subunit 10	Homo sapiens	5p15.31
+DEG2017	DEG20170600	MED11	HGNC:32687	-	-	mediator complex subunit 11	Homo sapiens	17p13.2
+DEG2017	DEG20170601	MED17	HGNC:2375	-	-	mediator complex subunit 17	Homo sapiens	11q21
+DEG2017	DEG20170602	MED18	HGNC:25944	-	-	mediator complex subunit 18	Homo sapiens	1p35.3
+DEG2017	DEG20170603	MED19	HGNC:29600	-	-	mediator complex subunit 19	Homo sapiens	11q12.1
+DEG2017	DEG20170604	MED20	HGNC:16840	-	-	mediator complex subunit 20	Homo sapiens	6p21.1
+DEG2017	DEG20170605	MED21	HGNC:11473	-	-	mediator complex subunit 21	Homo sapiens	12p12
+DEG2017	DEG20170606	MED22	HGNC:11477	-	-	mediator complex subunit 22	Homo sapiens	9q34.1
+DEG2017	DEG20170607	MED24	HGNC:22963	-	-	mediator complex subunit 24	Homo sapiens	17q21.2
+DEG2017	DEG20170608	MED25	HGNC:28845	-	-	mediator complex subunit 25	Homo sapiens	19q13.3
+DEG2017	DEG20170609	MED26	HGNC:2376	-	-	mediator complex subunit 26	Homo sapiens	19p13.11
+DEG2017	DEG20170610	MED27	HGNC:2377	-	-	mediator complex subunit 27	Homo sapiens	9q34.13
+DEG2017	DEG20170611	MED30	HGNC:23032	-	-	mediator complex subunit 30	Homo sapiens	8q24.11
+DEG2017	DEG20170612	MED7	HGNC:2378	-	-	mediator complex subunit 7	Homo sapiens	5q33.3
+DEG2017	DEG20170613	MED8	HGNC:19971	-	-	mediator complex subunit 8	Homo sapiens	1p34.1
+DEG2017	DEG20170614	MED9	HGNC:25487	-	-	mediator complex subunit 9	Homo sapiens	17p11.2
+DEG2017	DEG20170615	MEF2B	HGNC:6995	-	-	myocyte enhancer factor 2B	Homo sapiens	19p13.11
+DEG2017	DEG20170616	BORCS8-MEF2B	HGNC:39979	-	-	BORCS8-MEF2B readthrough	Homo sapiens	19p13.11
+DEG2017	DEG20170617	MEF2C	HGNC:6996	-	-	myocyte enhancer factor 2C	Homo sapiens	5q14.3
+DEG2017	DEG20170618	MEN1	HGNC:7010	-	-	menin 1	Homo sapiens	11q13
+DEG2017	DEG20170619	MEPCE	HGNC:20247	-	-	methylphosphate capping enzyme	Homo sapiens	7q22.1
+DEG2017	DEG20170620	METAP1	HGNC:15789	-	-	methionyl aminopeptidase 1	Homo sapiens	4q23
+DEG2017	DEG20170621	METAP2	HGNC:16672	-	-	methionyl aminopeptidase 2	Homo sapiens	12q22
+DEG2017	DEG20170622	METTL16	HGNC:28484	-	-	methyltransferase like 16	Homo sapiens	17p13.3
+DEG2017	DEG20170623	METTL17	HGNC:19280	-	-	methyltransferase like 17	Homo sapiens	14q11.2
+DEG2017	DEG20170624	METTL3	HGNC:17563	-	-	methyltransferase like 3	Homo sapiens	14q11.1
+DEG2017	DEG20170625	MFAP1	HGNC:7032	-	-	microfibrillar associated protein 1	Homo sapiens	15q15.3
+DEG2017	DEG20170626	MFN2	HGNC:16877	-	-	mitofusin 2	Homo sapiens	1p36.22
+DEG2017	DEG20170627	MICALL2	HGNC:29672	-	-	MICAL-like 2	Homo sapiens	7p22.3
+DEG2017	DEG20170628	MIEF1	HGNC:25979	-	-	mitochondrial elongation factor 1	Homo sapiens	22q13.1
+DEG2017	DEG20170629	MIEN1	HGNC:28230	-	-	migration and invasion enhancer 1	Homo sapiens	17q12
+DEG2017	DEG20170630	MIOS	HGNC:21905	-	-	missing oocyte, meiosis regulator, homolog (Drosophila)	Homo sapiens	7p21.3
+DEG2017	DEG20170631	MIS18A	HGNC:1286	-	-	MIS18 kinetochore protein A	Homo sapiens	21q22.11
+DEG2017	DEG20170632	MIS18BP1	HGNC:20190	-	-	MIS18 binding protein 1	Homo sapiens	14q21.1
+DEG2017	DEG20170633	NIFK	HGNC:17838	-	-	nucleolar protein interacting with the FHA domain of MKI67	Homo sapiens	2q14.3
+DEG2017	DEG20170634	MLST8	HGNC:24825	-	-	MTOR associated protein, LST8 homolog	Homo sapiens	16p13.3
+DEG2017	DEG20170635	MMGT1	HGNC:28100	-	-	membrane magnesium transporter 1	Homo sapiens	Xq26.3
+DEG2017	DEG20170636	MMS22L	HGNC:21475	-	-	MMS22 like, DNA repair protein	Homo sapiens	6q16.3
+DEG2017	DEG20170637	MNAT1	HGNC:7181	-	-	MNAT CDK-activating kinase assembly factor 1	Homo sapiens	14q23
+DEG2017	DEG20170638	MPHOSPH10	HGNC:7213	-	-	M-phase phosphoprotein 10 (U3 small nucleolar ribonucleoprotein)	Homo sapiens	2p13.3
+DEG2017	DEG20170639	MPP2	HGNC:7220	-	-	membrane protein, palmitoylated 2	Homo sapiens	17q21.31
+DEG2017	DEG20170640	MRGBP	HGNC:15866	-	-	MRG/MORF4L binding protein	Homo sapiens	20q13.33
+DEG2017	DEG20170641	MRPL57	HGNC:14514	-	-	mitochondrial ribosomal protein L57	Homo sapiens	13q12.11
+DEG2017	DEG20170642	MRPL10	HGNC:14055	-	-	mitochondrial ribosomal protein L10	Homo sapiens	17q21.3
+DEG2017	DEG20170643	MRPL12	HGNC:10378	-	-	mitochondrial ribosomal protein L12	Homo sapiens	17q25
+DEG2017	DEG20170644	MRPL16	HGNC:14476	-	-	mitochondrial ribosomal protein L16	Homo sapiens	11q12.1
+DEG2017	DEG20170645	MRPL17	HGNC:14053	-	-	mitochondrial ribosomal protein L17	Homo sapiens	11p15.5-p15.4
+DEG2017	DEG20170646	MRPL19	HGNC:14052	-	-	mitochondrial ribosomal protein L19	Homo sapiens	2p11.1-q11.2
+DEG2017	DEG20170647	MRPL21	HGNC:14479	-	-	mitochondrial ribosomal protein L21	Homo sapiens	11q13.3
+DEG2017	DEG20170648	MRPL22	HGNC:14480	-	-	mitochondrial ribosomal protein L22	Homo sapiens	5q33.2
+DEG2017	DEG20170649	MRPL23	HGNC:10322	-	-	mitochondrial ribosomal protein L23	Homo sapiens	11p15.5
+DEG2017	DEG20170650	MRPL24	HGNC:14037	-	-	mitochondrial ribosomal protein L24	Homo sapiens	1q23.1
+DEG2017	DEG20170651	MRPL28	HGNC:14484	-	-	mitochondrial ribosomal protein L28	Homo sapiens	16p13.12
+DEG2017	DEG20170652	MRPL3	HGNC:10379	-	-	mitochondrial ribosomal protein L3	Homo sapiens	3q21-q23
+DEG2017	DEG20170653	MRPL33	HGNC:14487	-	-	mitochondrial ribosomal protein L33	Homo sapiens	2p21
+DEG2017	DEG20170654	MRPL34	HGNC:14488	-	-	mitochondrial ribosomal protein L34	Homo sapiens	19p13.1
+DEG2017	DEG20170655	MRPL35	HGNC:14489	-	-	mitochondrial ribosomal protein L35	Homo sapiens	2p11.2
+DEG2017	DEG20170656	MRPL38	HGNC:14033	-	-	mitochondrial ribosomal protein L38	Homo sapiens	17q23-q25
+DEG2017	DEG20170657	MRPL39	HGNC:14027	-	-	mitochondrial ribosomal protein L39	Homo sapiens	21q11.2-q21
+DEG2017	DEG20170658	MRPL4	HGNC:14276	-	-	mitochondrial ribosomal protein L4	Homo sapiens	19p13.2
+DEG2017	DEG20170659	MRPL41	HGNC:14492	-	-	mitochondrial ribosomal protein L41	Homo sapiens	9q34.3
+DEG2017	DEG20170660	MRPL45	HGNC:16651	-	-	mitochondrial ribosomal protein L45	Homo sapiens	17q21.2
+DEG2017	DEG20170661	MRPL46	HGNC:1192	-	-	mitochondrial ribosomal protein L46	Homo sapiens	15q25.3
+DEG2017	DEG20170662	MRPL48	HGNC:16653	-	-	mitochondrial ribosomal protein L48	Homo sapiens	11q13.4
+DEG2017	DEG20170663	MRPL51	HGNC:14044	-	-	mitochondrial ribosomal protein L51	Homo sapiens	12p13.3-p13.1
+DEG2017	DEG20170664	MRPL53	HGNC:16684	-	-	mitochondrial ribosomal protein L53	Homo sapiens	2p13.1
+DEG2017	DEG20170665	MRPL54	HGNC:16685	-	-	mitochondrial ribosomal protein L54	Homo sapiens	19p13.3
+DEG2017	DEG20170666	MRPL55	HGNC:16686	-	-	mitochondrial ribosomal protein L55	Homo sapiens	1q42.13
+DEG2017	DEG20170667	MRPL9	HGNC:14277	-	-	mitochondrial ribosomal protein L9	Homo sapiens	1q21
+DEG2017	DEG20170668	MRPS10	HGNC:14502	-	-	mitochondrial ribosomal protein S10	Homo sapiens	6p21.1
+DEG2017	DEG20170669	MRPS12	HGNC:10380	-	-	mitochondrial ribosomal protein S12	Homo sapiens	19q13.1-q13.2
+DEG2017	DEG20170670	MRPS14	HGNC:14049	-	-	mitochondrial ribosomal protein S14	Homo sapiens	1q25.1
+DEG2017	DEG20170671	MRPS15	HGNC:14504	-	-	mitochondrial ribosomal protein S15	Homo sapiens	1p34.3
+DEG2017	DEG20170672	MRPS16	HGNC:14048	-	-	mitochondrial ribosomal protein S16	Homo sapiens	10q22.1
+DEG2017	DEG20170673	MRPS18A	HGNC:14515	-	-	mitochondrial ribosomal protein S18A	Homo sapiens	6p21.3
+DEG2017	DEG20170674	MRPS18B	HGNC:14516	-	-	mitochondrial ribosomal protein S18B	Homo sapiens	6p21
+DEG2017	DEG20170675	MRPS2	HGNC:14495	-	-	mitochondrial ribosomal protein S2	Homo sapiens	9q34
+DEG2017	DEG20170676	MRPS21	HGNC:14046	-	-	mitochondrial ribosomal protein S21	Homo sapiens	1q21
+DEG2017	DEG20170677	MRPS22	HGNC:14508	-	-	mitochondrial ribosomal protein S22	Homo sapiens	3q23
+DEG2017	DEG20170678	MRPS24	HGNC:14510	-	-	mitochondrial ribosomal protein S24	Homo sapiens	7p14
+DEG2017	DEG20170679	MRPS25	HGNC:14511	-	-	mitochondrial ribosomal protein S25	Homo sapiens	3p25
+DEG2017	DEG20170680	MRPS30	HGNC:8769	-	-	mitochondrial ribosomal protein S30	Homo sapiens	5q11
+DEG2017	DEG20170681	MRPS31	HGNC:16632	-	-	mitochondrial ribosomal protein S31	Homo sapiens	13q14.11
+DEG2017	DEG20170682	MRPS35	HGNC:16635	-	-	mitochondrial ribosomal protein S35	Homo sapiens	12p11
+DEG2017	DEG20170683	MRPS5	HGNC:14498	-	-	mitochondrial ribosomal protein S5	Homo sapiens	2p11.2-q11.2
+DEG2017	DEG20170684	MRPS6	HGNC:14051	-	-	mitochondrial ribosomal protein S6	Homo sapiens	21q22.11
+DEG2017	DEG20170685	MRTO4	HGNC:18477	-	-	MRT4 homolog, ribosome maturation factor	Homo sapiens	1p36.13
+DEG2017	DEG20170686	MST1	HGNC:7380	-	-	macrophage stimulating 1	Homo sapiens	3p21
+DEG2017	DEG20170687	MTG2	HGNC:16239	-	-	mitochondrial ribosome-associated GTPase 2	Homo sapiens	20q13.33
+DEG2017	DEG20170688	MTMR4	HGNC:7452	-	-	myotubularin related protein 4	Homo sapiens	17q22
+DEG2017	DEG20170689	MTO1	HGNC:19261	-	-	mitochondrial tRNA translation optimization 1	Homo sapiens	6q14.1
+DEG2017	DEG20170690	MTOR	HGNC:3942	-	-	mechanistic target of rapamycin (serine/threonine kinase)	Homo sapiens	1p36
+DEG2017	DEG20170691	MTPAP	HGNC:25532	-	-	mitochondrial poly(A) polymerase	Homo sapiens	10p12.1
+DEG2017	DEG20170692	MVD	HGNC:7529	-	-	mevalonate diphosphate decarboxylase	Homo sapiens	16q24.3
+DEG2017	DEG20170693	MVK	HGNC:7530	-	-	mevalonate kinase	Homo sapiens	12q24
+DEG2017	DEG20170694	MYBBP1A	HGNC:7546	-	-	MYB binding protein (P160) 1a	Homo sapiens	17p13.3
+DEG2017	DEG20170695	MYC	HGNC:7553	-	-	v-myc avian myelocytomatosis viral oncogene homolog	Homo sapiens	8q24
+DEG2017	DEG20170696	MYH4	HGNC:7574	-	-	myosin, heavy chain 4, skeletal muscle	Homo sapiens	17p13.1
+DEG2017	DEG20170697	MYH9	HGNC:7579	-	-	myosin, heavy chain 9, non-muscle	Homo sapiens	22q13.1
+DEG2017	DEG20170698	N6AMT1	HGNC:16021	-	-	N-6 adenine-specific DNA methyltransferase 1 (putative)	Homo sapiens	21q21.3
+DEG2017	DEG20170699	NAA10	HGNC:18704	-	-	N(alpha)-acetyltransferase 10, NatA catalytic subunit	Homo sapiens	Xq28
+DEG2017	DEG20170700	NAA15	HGNC:30782	-	-	N(alpha)-acetyltransferase 15, NatA auxiliary subunit	Homo sapiens	4q31.1
+DEG2017	DEG20170701	NAA25	HGNC:25783	-	-	N(alpha)-acetyltransferase 25, NatB auxiliary subunit	Homo sapiens	12q24.13
+DEG2017	DEG20170702	NAA35	HGNC:24340	-	-	N(alpha)-acetyltransferase 35, NatC auxiliary subunit	Homo sapiens	9q22.1
+DEG2017	DEG20170703	NAA50	HGNC:29533	-	-	N(alpha)-acetyltransferase 50, NatE catalytic subunit	Homo sapiens	3q13.31
+DEG2017	DEG20170704	NACC1	HGNC:20967	-	-	nucleus accumbens associated 1, BEN and BTB (POZ) domain containing	Homo sapiens	19p13.13
+DEG2017	DEG20170705	NAMPT	HGNC:30092	-	-	nicotinamide phosphoribosyltransferase	Homo sapiens	7q22.3
+DEG2017	DEG20170706	NAPA	HGNC:7641	-	-	NSF attachment protein alpha	Homo sapiens	19q13.33
+DEG2017	DEG20170707	NARFL	HGNC:14179	-	-	nuclear prelamin A recognition factor-like	Homo sapiens	16p13.3
+DEG2017	DEG20170708	NARS	HGNC:7643	-	-	asparaginyl-tRNA synthetase	Homo sapiens	18q21.31
+DEG2017	DEG20170709	NARS2	HGNC:26274	-	-	asparaginyl-tRNA synthetase 2, mitochondrial (putative)	Homo sapiens	11q14.1
+DEG2017	DEG20170710	NAT10	HGNC:29830	-	-	N-acetyltransferase 10 (GCN5-related)	Homo sapiens	11p13
+DEG2017	DEG20170711	NBPF10	HGNC:31992	-	-	neuroblastoma breakpoint family member 10	Homo sapiens	1q21.1
+DEG2017	DEG20170712	NBPF11	HGNC:31993	-	-	neuroblastoma breakpoint family member 11	Homo sapiens	1q21.1
+DEG2017	DEG20170713	NCAPD2	HGNC:24305	-	-	non-SMC condensin I complex subunit D2	Homo sapiens	12p13.31
+DEG2017	DEG20170714	NCAPD3	HGNC:28952	-	-	non-SMC condensin II complex subunit D3	Homo sapiens	11q25
+DEG2017	DEG20170715	NCAPH	HGNC:1112	-	-	non-SMC condensin I complex subunit H	Homo sapiens	2q11.2
+DEG2017	DEG20170716	NCBP1	HGNC:7658	-	-	nuclear cap binding protein subunit 1	Homo sapiens	9q34.1
+DEG2017	DEG20170717	NCBP2	HGNC:7659	-	-	nuclear cap binding protein subunit 2	Homo sapiens	3q29
+DEG2017	DEG20170718	NCOR1	HGNC:7672	-	-	nuclear receptor corepressor 1	Homo sapiens	17p11.2
+DEG2017	DEG20170719	NDC80	HGNC:16909	-	-	NDC80 kinetochore complex component	Homo sapiens	18p11.31
+DEG2017	DEG20170720	NSMCE3	HGNC:7677	-	-	NSE3 homolog, SMC5-SMC6 complex component	Homo sapiens	15q13.1
+DEG2017	DEG20170721	NDOR1	HGNC:29838	-	-	NADPH dependent diflavin oxidoreductase 1	Homo sapiens	9q34.3
+DEG2017	DEG20170722	NDUFA13	HGNC:17194	-	-	NADH:ubiquinone oxidoreductase subunit A13	Homo sapiens	19p13.11
+DEG2017	DEG20170723	NDUFAB1	HGNC:7694	-	-	NADH:ubiquinone oxidoreductase subunit AB1	Homo sapiens	16p12.3
+DEG2017	DEG20170724	NDUFB10	HGNC:7696	-	-	NADH:ubiquinone oxidoreductase subunit B10	Homo sapiens	16p13.3
+DEG2017	DEG20170725	NDUFB7	HGNC:7702	-	-	NADH:ubiquinone oxidoreductase subunit B7	Homo sapiens	19p13.12
+DEG2017	DEG20170726	NDUFB8	HGNC:7703	-	-	NADH:ubiquinone oxidoreductase subunit B8	Homo sapiens	10q24.31
+DEG2017	DEG20170727	NDUFB9	HGNC:7704	-	-	NADH:ubiquinone oxidoreductase subunit B9	Homo sapiens	8q24.13
+DEG2017	DEG20170728	NEDD1	HGNC:7723	-	-	neural precursor cell expressed, developmentally down-regulated 1	Homo sapiens	12q23.1
+DEG2017	DEG20170729	NEDD8	HGNC:7732	-	-	neural precursor cell expressed, developmentally down-regulated 8	Homo sapiens	14q11.2
+DEG2017	DEG20170730	NELFA	HGNC:12768	-	-	negative elongation factor complex member A	Homo sapiens	4p16.3
+DEG2017	DEG20170731	NELFB	HGNC:24324	-	-	negative elongation factor complex member B	Homo sapiens	9q34
+DEG2017	DEG20170732	NELFCD	HGNC:15934	-	-	negative elongation factor complex member C/D	Homo sapiens	20q13
+DEG2017	DEG20170733	NFS1	HGNC:15910	-	-	NFS1 cysteine desulfurase	Homo sapiens	20q11.22
+DEG2017	DEG20170734	NFYA	HGNC:7804	-	-	nuclear transcription factor Y subunit alpha	Homo sapiens	6p21.3
+DEG2017	DEG20170735	NGDN	HGNC:20271	-	-	neuroguidin	Homo sapiens	14q11.2
+DEG2017	DEG20170736	NHP2	HGNC:14377	-	-	NHP2 ribonucleoprotein	Homo sapiens	5q35.3
+DEG2017	DEG20170737	SNU13	HGNC:7819	-	-	SNU13 homolog, small nuclear ribonucleoprotein (U4/U6.U5)	Homo sapiens	22q13
+DEG2017	DEG20170738	NIP7	HGNC:24328	-	-	NIP7, nucleolar pre-rRNA processing protein	Homo sapiens	16q22.1
+DEG2017	DEG20170739	NIPBL	HGNC:28862	-	-	Nipped-B homolog (Drosophila)	Homo sapiens	5p13.2
+DEG2017	DEG20170740	NKAP	HGNC:29873	-	-	NFKB activating protein	Homo sapiens	Xq24
+DEG2017	DEG20170741	NLE1	HGNC:19889	-	-	notchless homolog 1 (Drosophila)	Homo sapiens	17q12
+DEG2017	DEG20170742	NMNAT1	HGNC:17877	-	-	nicotinamide nucleotide adenylyltransferase 1	Homo sapiens	1p36.22
+DEG2017	DEG20170743	NMT1	HGNC:7857	-	-	N-myristoyltransferase 1	Homo sapiens	17q21.31
+DEG2017	DEG20170744	NOB1	HGNC:29540	-	-	NIN1/RPN12 binding protein 1 homolog	Homo sapiens	16q22.1
+DEG2017	DEG20170745	NOC2L	HGNC:24517	-	-	NOC2-like nucleolar associated transcriptional repressor	Homo sapiens	1p36.33
+DEG2017	DEG20170746	NOC4L	HGNC:28461	-	-	nucleolar complex associated 4 homolog	Homo sapiens	12q24.33
+DEG2017	DEG20170747	NOL10	HGNC:25862	-	-	nucleolar protein 10	Homo sapiens	2p25.1
+DEG2017	DEG20170748	NOL11	HGNC:24557	-	-	nucleolar protein 11	Homo sapiens	17q24.2
+DEG2017	DEG20170749	NOL12	HGNC:28585	-	-	nucleolar protein 12	Homo sapiens	22q13.1
+DEG2017	DEG20170750	NOL6	HGNC:19910	-	-	nucleolar protein 6	Homo sapiens	9p12
+DEG2017	DEG20170751	NOL8	HGNC:23387	-	-	nucleolar protein 8	Homo sapiens	9q22.32
+DEG2017	DEG20170752	NOL9	HGNC:26265	-	-	nucleolar protein 9	Homo sapiens	1p36.31
+DEG2017	DEG20170753	NOM1	HGNC:13244	-	-	nucleolar protein with MIF4G domain 1	Homo sapiens	7q36.3
+DEG2017	DEG20170754	NOP10	HGNC:14378	-	-	NOP10 ribonucleoprotein	Homo sapiens	15q14-q15
+DEG2017	DEG20170755	NOP16	HGNC:26934	-	-	NOP16 nucleolar protein	Homo sapiens	5q35.2
+DEG2017	DEG20170756	NOP2	HGNC:7867	-	-	NOP2 nucleolar protein	Homo sapiens	12p13
+DEG2017	DEG20170757	NOP58	HGNC:29926	-	-	NOP58 ribonucleoprotein	Homo sapiens	2q33.1
+DEG2017	DEG20170758	NOP9	HGNC:19826	-	-	NOP9 nucleolar protein	Homo sapiens	14q12
+DEG2017	DEG20170759	NOSIP	HGNC:17946	-	-	nitric oxide synthase interacting protein	Homo sapiens	19q13.3
+DEG2017	DEG20170760	NOTUM	HGNC:27106	-	-	notum pectinacetylesterase homolog (Drosophila)	Homo sapiens	17q25.3
+DEG2017	DEG20170761	NPIPB5	HGNC:37233	-	-	nuclear pore complex interacting protein family member B5	Homo sapiens	16p12.2
+DEG2017	DEG20170762	NPLOC4	HGNC:18261	-	-	NPL4 homolog, ubiquitin recognition factor	Homo sapiens	17q25.3
+DEG2017	DEG20170763	NRBP1	HGNC:7993	-	-	nuclear receptor binding protein 1	Homo sapiens	2p23
+DEG2017	DEG20170764	NRDE2	HGNC:20186	-	-	NRDE-2, necessary for RNA interference, domain containing	Homo sapiens	14q32.11
+DEG2017	DEG20170765	NSA2	HGNC:30728	-	-	NSA2, ribosome biogenesis homolog	Homo sapiens	5q13.3
+DEG2017	DEG20170766	NSF	HGNC:8016	-	-	N-ethylmaleimide sensitive factor	Homo sapiens	17q21
+DEG2017	DEG20170767	NSL1	HGNC:24548	-	-	NSL1, MIS12 kinetochore complex component	Homo sapiens	1q41
+DEG2017	DEG20170768	NSRP1	HGNC:25305	-	-	nuclear speckle splicing regulatory protein 1	Homo sapiens	17q11.2
+DEG2017	DEG20170769	NSUN4	HGNC:31802	-	-	NOP2/Sun RNA methyltransferase family member 4	Homo sapiens	1p34
+DEG2017	DEG20170770	NUBP1	HGNC:8041	-	-	nucleotide binding protein 1	Homo sapiens	16p13.13
+DEG2017	DEG20170771	NUDC	HGNC:8045	-	-	nudC nuclear distribution protein	Homo sapiens	1p36.11
+DEG2017	DEG20170772	NUDCD3	HGNC:22208	-	-	NudC domain containing 3	Homo sapiens	7p13-p12
+DEG2017	DEG20170773	NUDT21	HGNC:13870	-	-	nudix hydrolase 21	Homo sapiens	16q12.2
+DEG2017	DEG20170774	NUF2	HGNC:14621	-	-	NUF2, NDC80 kinetochore complex component	Homo sapiens	1q23.3
+DEG2017	DEG20170775	NUP107	HGNC:29914	-	-	nucleoporin 107kDa	Homo sapiens	12q14
+DEG2017	DEG20170776	NUP133	HGNC:18016	-	-	nucleoporin 133kDa	Homo sapiens	1q42.13
+DEG2017	DEG20170777	NUP155	HGNC:8063	-	-	nucleoporin 155kDa	Homo sapiens	5p13.1
+DEG2017	DEG20170778	NUP160	HGNC:18017	-	-	nucleoporin 160kDa	Homo sapiens	11p11.12
+DEG2017	DEG20170779	NUP188	HGNC:17859	-	-	nucleoporin 188kDa	Homo sapiens	9q34.13
+DEG2017	DEG20170780	NUP205	HGNC:18658	-	-	nucleoporin 205kDa	Homo sapiens	7q31.32
+DEG2017	DEG20170781	NUP214	HGNC:8064	-	-	nucleoporin 214kDa	Homo sapiens	9q34
+DEG2017	DEG20170782	NUP43	HGNC:21182	-	-	nucleoporin 43kDa	Homo sapiens	6q25.1
+DEG2017	DEG20170783	NUP54	HGNC:17359	-	-	nucleoporin 54kDa	Homo sapiens	4q21.1
+DEG2017	DEG20170784	NUP62	HGNC:8066	-	-	nucleoporin 62kDa	Homo sapiens	19q13.33
+DEG2017	DEG20170785	NUP85	HGNC:8734	-	-	nucleoporin 85kDa	Homo sapiens	17q25
+DEG2017	DEG20170786	NUP88	HGNC:8067	-	-	nucleoporin 88kDa	Homo sapiens	17p13
+DEG2017	DEG20170787	NUP93	HGNC:28958	-	-	nucleoporin 93kDa	Homo sapiens	16q13
+DEG2017	DEG20170788	NUP98	HGNC:8068	-	-	nucleoporin 98kDa	Homo sapiens	11p15
+DEG2017	DEG20170789	NUP58	HGNC:20261	-	-	nucleoporin 58kDa	Homo sapiens	13q12.12
+DEG2017	DEG20170790	NUS1	HGNC:21042	-	-	NUS1 dehydrodolichyl diphosphate synthase subunit	Homo sapiens	6q22.1
+DEG2017	DEG20170791	NUTF2	HGNC:13722	-	-	nuclear transport factor 2	Homo sapiens	16q22.1
+DEG2017	DEG20170792	NVL	HGNC:8070	-	-	nuclear VCP-like	Homo sapiens	1q41-q42.2
+DEG2017	DEG20170793	OGDH	HGNC:8124	-	-	oxoglutarate (alpha-ketoglutarate) dehydrogenase (lipoamide)	Homo sapiens	7p13-p11.2
+DEG2017	DEG20170794	OGT	HGNC:8127	-	-	O-linked N-acetylglucosamine (GlcNAc) transferase	Homo sapiens	Xq13
+DEG2017	DEG20170795	ORAOV1	HGNC:17589	-	-	oral cancer overexpressed 1	Homo sapiens	11q13.2
+DEG2017	DEG20170796	ORC1	HGNC:8487	-	-	origin recognition complex subunit 1	Homo sapiens	1p32
+DEG2017	DEG20170797	ORC3	HGNC:8489	-	-	origin recognition complex subunit 3	Homo sapiens	6q
+DEG2017	DEG20170798	OSBP	HGNC:8503	-	-	oxysterol binding protein	Homo sapiens	11q12-q13
+DEG2017	DEG20170799	OSGEP	HGNC:18028	-	-	O-sialoglycoprotein endopeptidase	Homo sapiens	14q12
+DEG2017	DEG20170800	PA2G4	HGNC:8550	-	-	proliferation-associated 2G4	Homo sapiens	12q13.2
+DEG2017	DEG20170801	PABPC1	HGNC:8554	-	-	poly(A) binding protein, cytoplasmic 1	Homo sapiens	8q22.2-q23
+DEG2017	DEG20170802	PABPN1	HGNC:8565	-	-	poly(A) binding protein, nuclear 1	Homo sapiens	14q11.2
+DEG2017	DEG20170803	PAF1	HGNC:25459	-	-	PAF1 homolog, Paf1/RNA polymerase II complex component	Homo sapiens	19q13.1
+DEG2017	DEG20170804	PAFAH1B1	HGNC:8574	-	-	platelet activating factor acetylhydrolase 1b regulatory subunit 1	Homo sapiens	17p13.3
+DEG2017	DEG20170805	PAK1IP1	HGNC:20882	-	-	PAK1 interacting protein 1	Homo sapiens	6p24.1
+DEG2017	DEG20170806	PAM16	HGNC:29679	-	-	presequence translocase-associated motor 16 homolog (S. cerevisiae)	Homo sapiens	16p13.3
+DEG2017	DEG20170807	PARS2	HGNC:30563	-	-	prolyl-tRNA synthetase 2, mitochondrial (putative)	Homo sapiens	1p32.2
+DEG2017	DEG20170808	PAX5	HGNC:8619	-	-	paired box 5	Homo sapiens	9p13.2
+DEG2017	DEG20170809	PAXBP1	HGNC:13579	-	-	PAX3 and PAX7 binding protein 1	Homo sapiens	21q22.11
+DEG2017	DEG20170810	PCBP2	HGNC:8648	-	-	poly(rC) binding protein 2	Homo sapiens	12q13.13
+DEG2017	DEG20170811	PCID2	HGNC:25653	-	-	PCI domain containing 2	Homo sapiens	13q34
+DEG2017	DEG20170812	PCNA	HGNC:8729	-	-	proliferating cell nuclear antigen	Homo sapiens	20p13-p12.3
+DEG2017	DEG20170813	PCSK7	HGNC:8748	-	-	proprotein convertase subtilisin/kexin type 7	Homo sapiens	11q23-q24
+DEG2017	DEG20170814	PDCD11	HGNC:13408	-	-	programmed cell death 11	Homo sapiens	10q24.32
+DEG2017	DEG20170815	PDCL	HGNC:8770	-	-	phosducin like	Homo sapiens	9q12-q13
+DEG2017	DEG20170816	PDE4A	HGNC:8780	-	-	phosphodiesterase 4A	Homo sapiens	19p13.2
+DEG2017	DEG20170817	PDHA1	HGNC:8806	-	-	pyruvate dehydrogenase (lipoamide) alpha 1	Homo sapiens	Xp22.1
+DEG2017	DEG20170818	PDIA3	HGNC:4606	-	-	protein disulfide isomerase family A member 3	Homo sapiens	15q15
+DEG2017	DEG20170819	PDRG1	HGNC:16119	-	-	p53 and DNA damage regulated 1	Homo sapiens	20q11.21
+DEG2017	DEG20170820	PDS5A	HGNC:29088	-	-	PDS5 cohesin associated factor A	Homo sapiens	4p14
+DEG2017	DEG20170821	PDZK1IP1	HGNC:16887	-	-	PDZK1 interacting protein 1	Homo sapiens	1p33
+DEG2017	DEG20170822	PELO	HGNC:8829	-	-	pelota homolog (Drosophila)	Homo sapiens	5q11.2
+DEG2017	DEG20170823	PES1	HGNC:8848	-	-	pescadillo ribosomal biogenesis factor 1	Homo sapiens	22q12.1
+DEG2017	DEG20170824	PFAS	HGNC:8863	-	-	phosphoribosylformylglycinamidine synthase	Homo sapiens	17p13.1
+DEG2017	DEG20170825	PFDN2	HGNC:8867	-	-	prefoldin subunit 2	Homo sapiens	1q23.3
+DEG2017	DEG20170826	PFDN6	HGNC:4926	-	-	prefoldin subunit 6	Homo sapiens	6p21.3
+DEG2017	DEG20170827	PGAM1	HGNC:8888	-	-	phosphoglycerate mutase 1	Homo sapiens	10q25.3
+DEG2017	DEG20170828	PGD	HGNC:8891	-	-	phosphogluconate dehydrogenase	Homo sapiens	1p36.22
+DEG2017	DEG20170829	PGGT1B	HGNC:8895	-	-	protein geranylgeranyltransferase type I, beta subunit	Homo sapiens	5q23.1
+DEG2017	DEG20170830	PGRMC2	HGNC:16089	-	-	progesterone receptor membrane component 2	Homo sapiens	4q26
+DEG2017	DEG20170831	PHAX	HGNC:10241	-	-	phosphorylated adaptor for RNA export	Homo sapiens	5q23.2
+DEG2017	DEG20170832	PHB	HGNC:8912	-	-	prohibitin	Homo sapiens	17q21
+DEG2017	DEG20170833	PHB2	HGNC:30306	-	-	prohibitin 2	Homo sapiens	12p13
+DEG2017	DEG20170834	JADE2	HGNC:22984	-	-	jade family PHD finger 2	Homo sapiens	5q31.2
+DEG2017	DEG20170835	PHF5A	HGNC:18000	-	-	PHD finger protein 5A	Homo sapiens	22q13.2
+DEG2017	DEG20170836	PI4KB	HGNC:8984	-	-	phosphatidylinositol 4-kinase, catalytic, beta	Homo sapiens	1q21
+DEG2017	DEG20170837	PIGS	HGNC:14937	-	-	phosphatidylinositol glycan anchor biosynthesis class S	Homo sapiens	17p13.2
+DEG2017	DEG20170838	PIK3CD	HGNC:8977	-	-	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta	Homo sapiens	1p36.2
+DEG2017	DEG20170839	PKM	HGNC:9021	-	-	pyruvate kinase, muscle	Homo sapiens	15q23
+DEG2017	DEG20170840	PKMYT1	HGNC:29650	-	-	protein kinase, membrane associated tyrosine/threonine 1	Homo sapiens	16p13.3
+DEG2017	DEG20170841	PLEC	HGNC:9069	-	-	plectin	Homo sapiens	8q24
+DEG2017	DEG20170842	PLK1	HGNC:9077	-	-	polo-like kinase 1	Homo sapiens	16p
+DEG2017	DEG20170843	PLRG1	HGNC:9089	-	-	pleiotropic regulator 1	Homo sapiens	4q31.2-q32.1
+DEG2017	DEG20170844	PMF1	HGNC:9112	-	-	polyamine-modulated factor 1	Homo sapiens	1q22
+DEG2017	DEG20170845	PMPCA	HGNC:18667	-	-	peptidase (mitochondrial processing) alpha	Homo sapiens	9q34.3
+DEG2017	DEG20170846	PMPCB	HGNC:9119	-	-	peptidase (mitochondrial processing) beta	Homo sapiens	7q22.1
+DEG2017	DEG20170847	PNISR	HGNC:21222	-	-	PNN-interacting serine/arginine-rich protein	Homo sapiens	6q16.3
+DEG2017	DEG20170848	PNN	HGNC:9162	-	-	pinin, desmosome associated protein	Homo sapiens	14q21.1
+DEG2017	DEG20170849	PNO1	HGNC:32790	-	-	partner of NOB1 homolog	Homo sapiens	2p14
+DEG2017	DEG20170850	POGZ	HGNC:18801	-	-	pogo transposable element with ZNF domain	Homo sapiens	1q21.1
+DEG2017	DEG20170851	POLA1	HGNC:9173	-	-	polymerase (DNA directed), alpha 1, catalytic subunit	Homo sapiens	Xp22.1-p21.3
+DEG2017	DEG20170852	POLA2	HGNC:30073	-	-	polymerase (DNA directed), alpha 2, accessory subunit	Homo sapiens	11q13
+DEG2017	DEG20170853	POLD2	HGNC:9176	-	-	polymerase (DNA directed), delta 2, accessory subunit	Homo sapiens	7p13
+DEG2017	DEG20170854	POLD3	HGNC:20932	-	-	polymerase (DNA-directed), delta 3, accessory subunit	Homo sapiens	11q14
+DEG2017	DEG20170855	POLE	HGNC:9177	-	-	polymerase (DNA directed), epsilon, catalytic subunit	Homo sapiens	12q24.3
+DEG2017	DEG20170856	POLE2	HGNC:9178	-	-	polymerase (DNA directed), epsilon 2, accessory subunit	Homo sapiens	14q21-q22
+DEG2017	DEG20170857	POLQ	HGNC:9186	-	-	polymerase (DNA directed), theta	Homo sapiens	3q13.3
+DEG2017	DEG20170858	POLR1A	HGNC:17264	-	-	polymerase (RNA) I polypeptide A	Homo sapiens	2p11.2
+DEG2017	DEG20170859	POLR1B	HGNC:20454	-	-	polymerase (RNA) I polypeptide B	Homo sapiens	2q13
+DEG2017	DEG20170860	POLR1C	HGNC:20194	-	-	polymerase (RNA) I polypeptide C	Homo sapiens	6p21.1
+DEG2017	DEG20170861	POLR1E	HGNC:17631	-	-	polymerase (RNA) I polypeptide E	Homo sapiens	9p13.1
+DEG2017	DEG20170862	POLR2A	HGNC:9187	-	-	polymerase (RNA) II (DNA directed) polypeptide A, 220kDa	Homo sapiens	17p13.1
+DEG2017	DEG20170863	POLR2B	HGNC:9188	-	-	polymerase (RNA) II (DNA directed) polypeptide B, 140kDa	Homo sapiens	4q12
+DEG2017	DEG20170864	POLR2C	HGNC:9189	-	-	polymerase (RNA) II (DNA directed) polypeptide C, 33kDa	Homo sapiens	16q13-q21
+DEG2017	DEG20170865	POLR2D	HGNC:9191	-	-	polymerase (RNA) II (DNA directed) polypeptide D	Homo sapiens	2q21
+DEG2017	DEG20170866	POLR2E	HGNC:9192	-	-	polymerase (RNA) II (DNA directed) polypeptide E, 25kDa	Homo sapiens	19p13.3
+DEG2017	DEG20170867	POLR2F	HGNC:9193	-	-	polymerase (RNA) II (DNA directed) polypeptide F	Homo sapiens	22q13.1
+DEG2017	DEG20170868	POLR2G	HGNC:9194	-	-	polymerase (RNA) II (DNA directed) polypeptide G	Homo sapiens	11q13.1
+DEG2017	DEG20170869	POLR2H	HGNC:9195	-	-	polymerase (RNA) II (DNA directed) polypeptide H	Homo sapiens	3q28
+DEG2017	DEG20170870	POLR2I	HGNC:9196	-	-	polymerase (RNA) II (DNA directed) polypeptide I, 14.5kDa	Homo sapiens	19q13.12
+DEG2017	DEG20170871	POLR2J	HGNC:9197	-	-	polymerase (RNA) II (DNA directed) polypeptide J, 13.3kDa	Homo sapiens	7q11.2
+DEG2017	DEG20170872	POLR2J2	HGNC:23208	-	-	polymerase (RNA) II (DNA directed) polypeptide J2	Homo sapiens	7q22.1
+DEG2017	DEG20170873	POLR2J3	HGNC:33853	-	-	polymerase (RNA) II (DNA directed) polypeptide J3	Homo sapiens	7q22.1
+DEG2017	DEG20170874	POLR2L	HGNC:9199	-	-	polymerase (RNA) II (DNA directed) polypeptide L, 7.6kDa	Homo sapiens	11p15
+DEG2017	DEG20170875	POLR3A	HGNC:30074	-	-	polymerase (RNA) III (DNA directed) polypeptide A, 155kDa	Homo sapiens	10q22.3
+DEG2017	DEG20170876	POLR3B	HGNC:30348	-	-	polymerase (RNA) III (DNA directed) polypeptide B	Homo sapiens	12q23.3
+DEG2017	DEG20170877	POLR3C	HGNC:30076	-	-	polymerase (RNA) III (DNA directed) polypeptide C (62kD)	Homo sapiens	1q21
+DEG2017	DEG20170878	POLR3D	HGNC:1080	-	-	polymerase (RNA) III (DNA directed) polypeptide D, 44kDa	Homo sapiens	8q21
+DEG2017	DEG20170879	POLR3E	HGNC:30347	-	-	polymerase (RNA) III (DNA directed) polypeptide E (80kD)	Homo sapiens	16p12
+DEG2017	DEG20170880	POLR3H	HGNC:30349	-	-	polymerase (RNA) III (DNA directed) polypeptide H (22.9kD)	Homo sapiens	22q13
+DEG2017	DEG20170881	POLR3K	HGNC:14121	-	-	polymerase (RNA) III (DNA directed) polypeptide K, 12.3 kDa	Homo sapiens	16p13.3
+DEG2017	DEG20170882	POP1	HGNC:30129	-	-	POP1 homolog, ribonuclease P/MRP subunit	Homo sapiens	8q22.2
+DEG2017	DEG20170883	POP4	HGNC:30081	-	-	POP4 homolog, ribonuclease P/MRP subunit	Homo sapiens	19q12
+DEG2017	DEG20170884	POP7	HGNC:19949	-	-	POP7 homolog, ribonuclease P/MRP subunit	Homo sapiens	7q22
+DEG2017	DEG20170885	POU2AF1	HGNC:9211	-	-	POU class 2 associating factor 1	Homo sapiens	11q23.1
+DEG2017	DEG20170886	POU2F2	HGNC:9213	-	-	POU class 2 homeobox 2	Homo sapiens	19q13.2
+DEG2017	DEG20170887	PPA1	HGNC:9226	-	-	pyrophosphatase (inorganic) 1	Homo sapiens	10q11.1-q24
+DEG2017	DEG20170888	PPA2	HGNC:28883	-	-	pyrophosphatase (inorganic) 2	Homo sapiens	4q25
+DEG2017	DEG20170889	PPAN	HGNC:9227	-	-	peter pan homolog (Drosophila)	Homo sapiens	19p13.2
+DEG2017	DEG20170890	PPAN-P2RY11	HGNC:33526	-	-	PPAN-P2RY11 readthrough	Homo sapiens	19p13.2
+DEG2017	DEG20170891	PPAT	HGNC:9238	-	-	phosphoribosyl pyrophosphate amidotransferase	Homo sapiens	4q12
+DEG2017	DEG20170892	PPCDC	HGNC:28107	-	-	phosphopantothenoylcysteine decarboxylase	Homo sapiens	15q24.2
+DEG2017	DEG20170893	PPIAL4D	HGNC:33998	-	-	peptidylprolyl isomerase A (cyclophilin A)-like 4D	Homo sapiens	1q21
+DEG2017	DEG20170894	PPIE	HGNC:9258	-	-	peptidylprolyl isomerase E (cyclophilin E)	Homo sapiens	1p32
+DEG2017	DEG20170895	PPIL2	HGNC:9261	-	-	peptidylprolyl isomerase like 2	Homo sapiens	22q11.21
+DEG2017	DEG20170896	PPP1CB	HGNC:9282	-	-	protein phosphatase 1, catalytic subunit, beta isozyme	Homo sapiens	2p23
+DEG2017	DEG20170897	PPP1R8	HGNC:9296	-	-	protein phosphatase 1 regulatory subunit 8	Homo sapiens	1p35.3
+DEG2017	DEG20170898	PPP2CA	HGNC:9299	-	-	protein phosphatase 2, catalytic subunit, alpha isozyme	Homo sapiens	5q31.1
+DEG2017	DEG20170899	PPP4C	HGNC:9319	-	-	protein phosphatase 4 catalytic subunit	Homo sapiens	16p11.2
+DEG2017	DEG20170900	PPRC1	HGNC:30025	-	-	peroxisome proliferator-activated receptor gamma, coactivator-related 1	Homo sapiens	10q24.32
+DEG2017	DEG20170901	PPWD1	HGNC:28954	-	-	peptidylprolyl isomerase domain and WD repeat containing 1	Homo sapiens	5q12.3
+DEG2017	DEG20170902	PQLC2	HGNC:26001	-	-	PQ loop repeat containing 2	Homo sapiens	1p36.13
+DEG2017	DEG20170903	PRAMEF5	HGNC:27995	-	-	PRAME family member 5	Homo sapiens	1p36.21
+DEG2017	DEG20170904	PRAMEF6	HGNC:30583	-	-	PRAME family member 6	Homo sapiens	1p36.21
+DEG2017	DEG20170905	PREB	HGNC:9356	-	-	prolactin regulatory element binding	Homo sapiens	2p23
+DEG2017	DEG20170906	PRELID1	HGNC:30255	-	-	PRELI domain containing 1	Homo sapiens	5q35.3
+DEG2017	DEG20170907	PRIM1	HGNC:9369	-	-	primase, DNA, polypeptide 1 (49kDa)	Homo sapiens	12q13.3
+DEG2017	DEG20170908	PRMT1	HGNC:5187	-	-	protein arginine methyltransferase 1	Homo sapiens	19q13
+DEG2017	DEG20170909	PRMT5	HGNC:10894	-	-	protein arginine methyltransferase 5	Homo sapiens	14q11.2
+DEG2017	DEG20170910	PRPF19	HGNC:17896	-	-	pre-mRNA processing factor 19	Homo sapiens	11q12.2
+DEG2017	DEG20170911	PRPF31	HGNC:15446	-	-	pre-mRNA processing factor 31	Homo sapiens	19q13.4
+DEG2017	DEG20170912	PRPF38B	HGNC:25512	-	-	pre-mRNA processing factor 38B	Homo sapiens	1p13.3
+DEG2017	DEG20170913	PRPF39	HGNC:20314	-	-	pre-mRNA processing factor 39	Homo sapiens	14q21.1
+DEG2017	DEG20170914	PRPF4	HGNC:17349	-	-	pre-mRNA processing factor 4	Homo sapiens	9q31-q33
+DEG2017	DEG20170915	PRPF6	HGNC:15860	-	-	pre-mRNA processing factor 6	Homo sapiens	20q13.33
+DEG2017	DEG20170916	PRPF8	HGNC:17340	-	-	pre-mRNA processing factor 8	Homo sapiens	17p13.3
+DEG2017	DEG20170917	PRUNE	HGNC:13420	-	-	prune exopolyphosphatase	Homo sapiens	1q21.2
+DEG2017	DEG20170918	PSMA1	HGNC:9530	-	-	proteasome subunit alpha 1	Homo sapiens	11p15.1
+DEG2017	DEG20170919	PSMA2	HGNC:9531	-	-	proteasome subunit alpha 2	Homo sapiens	7p13
+DEG2017	DEG20170920	PSMA3	HGNC:9532	-	-	proteasome subunit alpha 3	Homo sapiens	14q23
+DEG2017	DEG20170921	PSMA4	HGNC:9533	-	-	proteasome subunit alpha 4	Homo sapiens	15q24.1
+DEG2017	DEG20170922	PSMA5	HGNC:9534	-	-	proteasome subunit alpha 5	Homo sapiens	1p13
+DEG2017	DEG20170923	PSMA6	HGNC:9535	-	-	proteasome subunit alpha 6	Homo sapiens	14q13
+DEG2017	DEG20170924	PSMA7	HGNC:9536	-	-	proteasome subunit alpha 7	Homo sapiens	20q13.33
+DEG2017	DEG20170925	PSMB1	HGNC:9537	-	-	proteasome subunit beta 1	Homo sapiens	6q27
+DEG2017	DEG20170926	PSMB2	HGNC:9539	-	-	proteasome subunit beta 2	Homo sapiens	1p34.2
+DEG2017	DEG20170927	PSMB3	HGNC:9540	-	-	proteasome subunit beta 3	Homo sapiens	17q12
+DEG2017	DEG20170928	PSMB4	HGNC:9541	-	-	proteasome subunit beta 4	Homo sapiens	1q21
+DEG2017	DEG20170929	PSMB5	HGNC:9542	-	-	proteasome subunit beta 5	Homo sapiens	14q11.2
+DEG2017	DEG20170930	PSMB6	HGNC:9543	-	-	proteasome subunit beta 6	Homo sapiens	17p13
+DEG2017	DEG20170931	PSMB7	HGNC:9544	-	-	proteasome subunit beta 7	Homo sapiens	9q34.11-q34.12
+DEG2017	DEG20170932	PSMC1	HGNC:9547	-	-	proteasome 26S subunit, ATPase 1	Homo sapiens	14q32.11
+DEG2017	DEG20170933	PSMC2	HGNC:9548	-	-	proteasome 26S subunit, ATPase 2	Homo sapiens	7q22.1-q22.3
+DEG2017	DEG20170934	PSMC3	HGNC:9549	-	-	proteasome 26S subunit, ATPase 3	Homo sapiens	11p11.2
+DEG2017	DEG20170935	PSMC4	HGNC:9551	-	-	proteasome 26S subunit, ATPase 4	Homo sapiens	19q13.11-q13.13
+DEG2017	DEG20170936	PSMC5	HGNC:9552	-	-	proteasome 26S subunit, ATPase 5	Homo sapiens	17q23.3
+DEG2017	DEG20170937	PSMC6	HGNC:9553	-	-	proteasome 26S subunit, ATPase 6	Homo sapiens	14q22.1
+DEG2017	DEG20170938	PSMD1	HGNC:9554	-	-	proteasome 26S subunit, non-ATPase 1	Homo sapiens	2q37.1
+DEG2017	DEG20170939	PSMD11	HGNC:9556	-	-	proteasome 26S subunit, non-ATPase 11	Homo sapiens	17q12
+DEG2017	DEG20170940	PSMD12	HGNC:9557	-	-	proteasome 26S subunit, non-ATPase 12	Homo sapiens	17q24.3
+DEG2017	DEG20170941	PSMD13	HGNC:9558	-	-	proteasome 26S subunit, non-ATPase 13	Homo sapiens	11p15.5
+DEG2017	DEG20170942	PSMD14	HGNC:16889	-	-	proteasome 26S subunit, non-ATPase 14	Homo sapiens	2q14.3
+DEG2017	DEG20170943	PSMD2	HGNC:9559	-	-	proteasome 26S subunit, non-ATPase 2	Homo sapiens	3q27.3
+DEG2017	DEG20170944	PSMD3	HGNC:9560	-	-	proteasome 26S subunit, non-ATPase 3	Homo sapiens	17q21.2
+DEG2017	DEG20170945	PSMD4	HGNC:9561	-	-	proteasome 26S subunit, non-ATPase 4	Homo sapiens	1q21.2
+DEG2017	DEG20170946	PSMD6	HGNC:9564	-	-	proteasome 26S subunit, non-ATPase 6	Homo sapiens	3p14.1
+DEG2017	DEG20170947	PSMD7	HGNC:9565	-	-	proteasome 26S subunit, non-ATPase 7	Homo sapiens	16q22.3
+DEG2017	DEG20170948	PSMG2	HGNC:24929	-	-	proteasome (prosome, macropain) assembly chaperone 2	Homo sapiens	18p11.21
+DEG2017	DEG20170949	PSMG3	HGNC:22420	-	-	proteasome (prosome, macropain) assembly chaperone 3	Homo sapiens	7p22.3
+DEG2017	DEG20170950	PTBP1	HGNC:9583	-	-	polypyrimidine tract binding protein 1	Homo sapiens	19p13.3
+DEG2017	DEG20170951	PTCD1	HGNC:22198	-	-	pentatricopeptide repeat domain 1	Homo sapiens	7q22.1
+DEG2017	DEG20170952	PTPMT1	HGNC:26965	-	-	protein tyrosine phosphatase, mitochondrial 1	Homo sapiens	11p11.2
+DEG2017	DEG20170953	PTPN23	HGNC:14406	-	-	protein tyrosine phosphatase, non-receptor type 23	Homo sapiens	3p21.3
+DEG2017	DEG20170954	PUF60	HGNC:17042	-	-	poly(U) binding splicing factor 60KDa	Homo sapiens	8q24.3
+DEG2017	DEG20170955	PWP1	HGNC:17015	-	-	PWP1 homolog, endonuclein	Homo sapiens	12q23.3
+DEG2017	DEG20170956	PWP2	HGNC:9711	-	-	PWP2 periodic tryptophan protein homolog (yeast)	Homo sapiens	21q22.3
+DEG2017	DEG20170957	QARS	HGNC:9751	-	-	glutaminyl-tRNA synthetase	Homo sapiens	3p21.31
+DEG2017	DEG20170958	QRSL1	HGNC:21020	-	-	glutaminyl-tRNA synthase (glutamine-hydrolyzing)-like 1	Homo sapiens	6q21
+DEG2017	DEG20170959	RAB21	HGNC:18263	-	-	RAB21, member RAS oncogene family	Homo sapiens	12q21.1
+DEG2017	DEG20170960	RAB34	HGNC:16519	-	-	RAB34, member RAS oncogene family	Homo sapiens	17q11.2
+DEG2017	DEG20170961	RAB35	HGNC:9774	-	-	RAB35, member RAS oncogene family	Homo sapiens	12q24
+DEG2017	DEG20170962	RAB6C	HGNC:16525	-	-	RAB6C, member RAS oncogene family	Homo sapiens	2q21.1
+DEG2017	DEG20170963	RABGGTA	HGNC:9795	-	-	Rab geranylgeranyltransferase, alpha subunit	Homo sapiens	14q11.2
+DEG2017	DEG20170964	RABGGTB	HGNC:9796	-	-	Rab geranylgeranyltransferase, beta subunit	Homo sapiens	1p31
+DEG2017	DEG20170965	RACGAP1	HGNC:9804	-	-	Rac GTPase activating protein 1	Homo sapiens	12q13.12
+DEG2017	DEG20170966	RAD21	HGNC:9811	-	-	RAD21 cohesin complex component	Homo sapiens	8q24.11
+DEG2017	DEG20170967	RAD51	HGNC:9817	-	-	RAD51 recombinase	Homo sapiens	15q15.1
+DEG2017	DEG20170968	RAD51C	HGNC:9820	-	-	RAD51 paralog C	Homo sapiens	17q25.1
+DEG2017	DEG20170969	RAD51D	HGNC:9823	-	-	RAD51 paralog D	Homo sapiens	17q11
+DEG2017	DEG20170970	RAE1	HGNC:9828	-	-	ribonucleic acid export 1	Homo sapiens	20q13.31
+DEG2017	DEG20170971	RAN	HGNC:9846	-	-	RAN, member RAS oncogene family	Homo sapiens	12q24.33
+DEG2017	DEG20170972	RANBP3	HGNC:9850	-	-	RAN binding protein 3	Homo sapiens	19p13.3
+DEG2017	DEG20170973	RANGAP1	HGNC:9854	-	-	Ran GTPase activating protein 1	Homo sapiens	22q13
+DEG2017	DEG20170974	RARS	HGNC:9870	-	-	arginyl-tRNA synthetase	Homo sapiens	5q35.1
+DEG2017	DEG20170975	RARS2	HGNC:21406	-	-	arginyl-tRNA synthetase 2, mitochondrial	Homo sapiens	6q16.1
+DEG2017	DEG20170976	RBBP4	HGNC:9887	-	-	retinoblastoma binding protein 4	Homo sapiens	1p35.1
+DEG2017	DEG20170977	RBBP5	HGNC:9888	-	-	retinoblastoma binding protein 5	Homo sapiens	1q32
+DEG2017	DEG20170978	RBBP6	HGNC:9889	-	-	retinoblastoma binding protein 6	Homo sapiens	16p12.2
+DEG2017	DEG20170979	RBCK1	HGNC:15864	-	-	RanBP-type and C3HC4-type zinc finger containing 1	Homo sapiens	20p13
+DEG2017	DEG20170980	RBM17	HGNC:16944	-	-	RNA binding motif protein 17	Homo sapiens	10p15.1
+DEG2017	DEG20170981	RBM19	HGNC:29098	-	-	RNA binding motif protein 19	Homo sapiens	12q24.21
+DEG2017	DEG20170982	RBM22	HGNC:25503	-	-	RNA binding motif protein 22	Homo sapiens	5q33.1
+DEG2017	DEG20170983	RBM25	HGNC:23244	-	-	RNA binding motif protein 25	Homo sapiens	14q24.3
+DEG2017	DEG20170984	RBM28	HGNC:21863	-	-	RNA binding motif protein 28	Homo sapiens	7q32.2
+DEG2017	DEG20170985	RBM39	HGNC:15923	-	-	RNA binding motif protein 39	Homo sapiens	20q11.22
+DEG2017	DEG20170986	RBM48	HGNC:21785	-	-	RNA binding motif protein 48	Homo sapiens	7q21.2
+DEG2017	DEG20170987	RBM8A	HGNC:9905	-	-	RNA binding motif protein 8A	Homo sapiens	1q21.1
+DEG2017	DEG20170988	RBMX	HGNC:9910	-	-	RNA binding motif protein, X-linked	Homo sapiens	Xq26
+DEG2017	DEG20170989	RBPJ	HGNC:5724	-	-	recombination signal binding protein for immunoglobulin kappa J region	Homo sapiens	4p15.2
+DEG2017	DEG20170990	RBX1	HGNC:9928	-	-	ring-box 1, E3 ubiquitin protein ligase	Homo sapiens	22q13.2
+DEG2017	DEG20170991	RCC1	HGNC:1913	-	-	regulator of chromosome condensation 1	Homo sapiens	1p35.3
+DEG2017	DEG20170992	RCL1	HGNC:17687	-	-	RNA terminal phosphate cyclase-like 1	Homo sapiens	9p24.1-p23
+DEG2017	DEG20170993	RELA	HGNC:9955	-	-	v-rel avian reticuloendotheliosis viral oncogene homolog A	Homo sapiens	11q13
+DEG2017	DEG20170994	RELB	HGNC:9956	-	-	v-rel avian reticuloendotheliosis viral oncogene homolog B	Homo sapiens	19q13.32
+DEG2017	DEG20170995	RFC1	HGNC:9969	-	-	replication factor C subunit 1	Homo sapiens	4p14-p13
+DEG2017	DEG20170996	RFC2	HGNC:9970	-	-	replication factor C subunit 2	Homo sapiens	7q11.23
+DEG2017	DEG20170997	RFC3	HGNC:9971	-	-	replication factor C subunit 3	Homo sapiens	13q13.2
+DEG2017	DEG20170998	RFC4	HGNC:9972	-	-	replication factor C subunit 4	Homo sapiens	3q27
+DEG2017	DEG20170999	RFC5	HGNC:9973	-	-	replication factor C subunit 5	Homo sapiens	12q24.3
+DEG2017	DEG20171000	RFK	HGNC:30324	-	-	riboflavin kinase	Homo sapiens	9q21.31
+DEG2017	DEG20171001	RFT1	HGNC:30220	-	-	RFT1 homolog	Homo sapiens	3p21.1
+DEG2017	DEG20171002	RHEB	HGNC:10011	-	-	Ras homolog enriched in brain	Homo sapiens	7q36
+DEG2017	DEG20171003	RHOA	HGNC:667	-	-	ras homolog family member A	Homo sapiens	3p21.3
+DEG2017	DEG20171004	RHOH	HGNC:686	-	-	ras homolog family member H	Homo sapiens	4p13
+DEG2017	DEG20171005	RING1	HGNC:10018	-	-	ring finger protein 1	Homo sapiens	6p21.3
+DEG2017	DEG20171006	RIOK1	HGNC:18656	-	-	RIO kinase 1	Homo sapiens	6p24.3
+DEG2017	DEG20171007	RIOK2	HGNC:18999	-	-	RIO kinase 2	Homo sapiens	5q14
+DEG2017	DEG20171008	RNF113A	HGNC:12974	-	-	ring finger protein 113A	Homo sapiens	Xq24
+DEG2017	DEG20171009	RNF20	HGNC:10062	-	-	ring finger protein 20	Homo sapiens	9q22
+DEG2017	DEG20171010	RNF31	HGNC:16031	-	-	ring finger protein 31	Homo sapiens	14q11.2
+DEG2017	DEG20171011	RNF40	HGNC:16867	-	-	ring finger protein 40, E3 ubiquitin protein ligase	Homo sapiens	16p11.2-p11.1
+DEG2017	DEG20171012	RNGTT	HGNC:10073	-	-	RNA guanylyltransferase and 5'-phosphatase	Homo sapiens	6q16
+DEG2017	DEG20171013	RNMT	HGNC:10075	-	-	RNA (guanine-7-) methyltransferase	Homo sapiens	18p11.21
+DEG2017	DEG20171014	RNPC3	HGNC:18666	-	-	RNA binding region (RNP1, RRM) containing 3	Homo sapiens	1p21.1
+DEG2017	DEG20171015	RPA1	HGNC:10289	-	-	replication protein A1	Homo sapiens	17p13.3
+DEG2017	DEG20171016	RPA2	HGNC:10290	-	-	replication protein A2	Homo sapiens	1p35
+DEG2017	DEG20171017	RPAP1	HGNC:24567	-	-	RNA polymerase II associated protein 1	Homo sapiens	15q14
+DEG2017	DEG20171018	RPAP2	HGNC:25791	-	-	RNA polymerase II associated protein 2	Homo sapiens	1p22.1
+DEG2017	DEG20171019	RPE	HGNC:10293	-	-	ribulose-5-phosphate-3-epimerase	Homo sapiens	2q32-q33.3
+DEG2017	DEG20171020	RPF2	HGNC:20870	-	-	ribosome production factor 2 homolog	Homo sapiens	6q21
+DEG2017	DEG20171021	RPL10	HGNC:10298	-	-	ribosomal protein L10	Homo sapiens	Xq28
+DEG2017	DEG20171022	RPL10A	HGNC:10299	-	-	ribosomal protein L10a	Homo sapiens	6p21.31
+DEG2017	DEG20171023	RPL11	HGNC:10301	-	-	ribosomal protein L11	Homo sapiens	1p36.1-p35
+DEG2017	DEG20171024	RPL12	HGNC:10302	-	-	ribosomal protein L12	Homo sapiens	9q34
+DEG2017	DEG20171025	RPL13	HGNC:10303	-	-	ribosomal protein L13	Homo sapiens	16q24.3
+DEG2017	DEG20171026	RPL13A	HGNC:10304	-	-	ribosomal protein L13a	Homo sapiens	19q13.3
+DEG2017	DEG20171027	RPL14	HGNC:10305	-	-	ribosomal protein L14	Homo sapiens	3p22-p21.2
+DEG2017	DEG20171028	RPL15	HGNC:10306	-	-	ribosomal protein L15	Homo sapiens	3p24.1
+DEG2017	DEG20171029	RPL17	HGNC:10307	-	-	ribosomal protein L17	Homo sapiens	18q21
+DEG2017	DEG20171030	RPL18	HGNC:10310	-	-	ribosomal protein L18	Homo sapiens	19q13
+DEG2017	DEG20171031	RPL18A	HGNC:10311	-	-	ribosomal protein L18a	Homo sapiens	19p13.11
+DEG2017	DEG20171032	RPL19	HGNC:10312	-	-	ribosomal protein L19	Homo sapiens	17q12
+DEG2017	DEG20171033	RPL23	HGNC:10316	-	-	ribosomal protein L23	Homo sapiens	17q12
+DEG2017	DEG20171034	RPL23A	HGNC:10317	-	-	ribosomal protein L23a	Homo sapiens	17q11.2
+DEG2017	DEG20171035	RPL24	HGNC:10325	-	-	ribosomal protein L24	Homo sapiens	3q12
+DEG2017	DEG20171036	RPL26	HGNC:10327	-	-	ribosomal protein L26	Homo sapiens	17p13
+DEG2017	DEG20171037	RPL27	HGNC:10328	-	-	ribosomal protein L27	Homo sapiens	17q21
+DEG2017	DEG20171038	RPL27A	HGNC:10329	-	-	ribosomal protein L27a	Homo sapiens	11p15
+DEG2017	DEG20171039	RPL3	HGNC:10332	-	-	ribosomal protein L3	Homo sapiens	22q13
+DEG2017	DEG20171040	RPL30	HGNC:10333	-	-	ribosomal protein L30	Homo sapiens	8q22
+DEG2017	DEG20171041	RPL31	HGNC:10334	-	-	ribosomal protein L31	Homo sapiens	2q11.2
+DEG2017	DEG20171042	RPL32	HGNC:10336	-	-	ribosomal protein L32	Homo sapiens	3q13.3-q21
+DEG2017	DEG20171043	RPL34	HGNC:10340	-	-	ribosomal protein L34	Homo sapiens	4q25
+DEG2017	DEG20171044	RPL35	HGNC:10344	-	-	ribosomal protein L35	Homo sapiens	9q34.1
+DEG2017	DEG20171045	RPL35A	HGNC:10345	-	-	ribosomal protein L35a	Homo sapiens	3q29
+DEG2017	DEG20171046	RPL36	HGNC:13631	-	-	ribosomal protein L36	Homo sapiens	19p13.2
+DEG2017	DEG20171047	RPL37	HGNC:10347	-	-	ribosomal protein L37	Homo sapiens	5p13.1
+DEG2017	DEG20171048	RPL37A	HGNC:10348	-	-	ribosomal protein L37a	Homo sapiens	2q35
+DEG2017	DEG20171049	RPL38	HGNC:10349	-	-	ribosomal protein L38	Homo sapiens	17q25.1
+DEG2017	DEG20171050	RPL4	HGNC:10353	-	-	ribosomal protein L4	Homo sapiens	15q22
+DEG2017	DEG20171051	RPL5	HGNC:10360	-	-	ribosomal protein L5	Homo sapiens	1p22.1
+DEG2017	DEG20171052	RPL6	HGNC:10362	-	-	ribosomal protein L6	Homo sapiens	12q24.13
+DEG2017	DEG20171053	RPL7	HGNC:10363	-	-	ribosomal protein L7	Homo sapiens	8q13.3
+DEG2017	DEG20171054	RPL7A	HGNC:10364	-	-	ribosomal protein L7a	Homo sapiens	9q34
+DEG2017	DEG20171055	RPL7L1	HGNC:21370	-	-	ribosomal protein L7 like 1	Homo sapiens	6p21.1
+DEG2017	DEG20171056	RPL8	HGNC:10368	-	-	ribosomal protein L8	Homo sapiens	8q24.3
+DEG2017	DEG20171057	RPL9	HGNC:10369	-	-	ribosomal protein L9	Homo sapiens	4p13
+DEG2017	DEG20171058	RPLP0	HGNC:10371	-	-	ribosomal protein, large, P0	Homo sapiens	12q24.2
+DEG2017	DEG20171059	RPLP1	HGNC:10372	-	-	ribosomal protein, large, P1	Homo sapiens	15q23
+DEG2017	DEG20171060	RPN1	HGNC:10381	-	-	ribophorin I	Homo sapiens	3q21.3
+DEG2017	DEG20171061	RPN2	HGNC:10382	-	-	ribophorin II	Homo sapiens	20q12-q13.1
+DEG2017	DEG20171062	RPP14	HGNC:30327	-	-	ribonuclease P/MRP 14kDa subunit	Homo sapiens	3p21.2
+DEG2017	DEG20171063	RPP21	HGNC:21300	-	-	ribonuclease P/MRP 21kDa subunit	Homo sapiens	6p21.32
+DEG2017	DEG20171064	RPP25L	HGNC:19909	-	-	ribonuclease P/MRP 25kDa subunit-like	Homo sapiens	9p11.2
+DEG2017	DEG20171065	RPP30	HGNC:17688	-	-	ribonuclease P/MRP 30kDa subunit	Homo sapiens	10q23.32-q23.33
+DEG2017	DEG20171066	RPP40	HGNC:20992	-	-	ribonuclease P/MRP 40kDa subunit	Homo sapiens	6p25.1
+DEG2017	DEG20171067	RPS10	HGNC:10383	-	-	ribosomal protein S10	Homo sapiens	6p21.31
+DEG2017	DEG20171068	RPS11	HGNC:10384	-	-	ribosomal protein S11	Homo sapiens	19q13.3
+DEG2017	DEG20171069	RPS12	HGNC:10385	-	-	ribosomal protein S12	Homo sapiens	6q23
+DEG2017	DEG20171070	RPS13	HGNC:10386	-	-	ribosomal protein S13	Homo sapiens	11p
+DEG2017	DEG20171071	RPS14	HGNC:10387	-	-	ribosomal protein S14	Homo sapiens	5q31-q33
+DEG2017	DEG20171072	RPS15	HGNC:10388	-	-	ribosomal protein S15	Homo sapiens	19p13.3
+DEG2017	DEG20171073	RPS15A	HGNC:10389	-	-	ribosomal protein S15a	Homo sapiens	16p12.3
+DEG2017	DEG20171074	RPS16	HGNC:10396	-	-	ribosomal protein S16	Homo sapiens	19q13.1
+DEG2017	DEG20171075	RPS17	HGNC:10397	-	-	ribosomal protein S17	Homo sapiens	15q25.2
+DEG2017	DEG20171076	RPS17	HGNC:10397	-	-	ribosomal protein S17	Homo sapiens	15q25.2
+DEG2017	DEG20171077	RPS18	HGNC:10401	-	-	ribosomal protein S18	Homo sapiens	6p21.3
+DEG2017	DEG20171078	RPS19	HGNC:10402	-	-	ribosomal protein S19	Homo sapiens	19q13.2
+DEG2017	DEG20171079	RPS19BP1	HGNC:28749	-	-	ribosomal protein S19 binding protein 1	Homo sapiens	22q13.1
+DEG2017	DEG20171080	RPS2	HGNC:10404	-	-	ribosomal protein S2	Homo sapiens	16p13.3
+DEG2017	DEG20171081	RPS21	HGNC:10409	-	-	ribosomal protein S21	Homo sapiens	20q13.3
+DEG2017	DEG20171082	RPS23	HGNC:10410	-	-	ribosomal protein S23	Homo sapiens	5q14.2
+DEG2017	DEG20171083	RPS25	HGNC:10413	-	-	ribosomal protein S25	Homo sapiens	11q23.3
+DEG2017	DEG20171084	RPS27A	HGNC:10417	-	-	ribosomal protein S27a	Homo sapiens	2p16
+DEG2017	DEG20171085	RPS28	HGNC:10418	-	-	ribosomal protein S28	Homo sapiens	19p13.2
+DEG2017	DEG20171086	RPS29	HGNC:10419	-	-	ribosomal protein S29	Homo sapiens	14q21.3
+DEG2017	DEG20171087	RPS3	HGNC:10420	-	-	ribosomal protein S3	Homo sapiens	11q13.3-q13.5
+DEG2017	DEG20171088	RPS3A	HGNC:10421	-	-	ribosomal protein S3A	Homo sapiens	4q31.2-q31.3
+DEG2017	DEG20171089	RPS4X	HGNC:10424	-	-	ribosomal protein S4, X-linked	Homo sapiens	Xq13.1
+DEG2017	DEG20171090	RPS5	HGNC:10426	-	-	ribosomal protein S5	Homo sapiens	19q13.4
+DEG2017	DEG20171091	RPS6	HGNC:10429	-	-	ribosomal protein S6	Homo sapiens	9p21
+DEG2017	DEG20171092	RPS7	HGNC:10440	-	-	ribosomal protein S7	Homo sapiens	2p25
+DEG2017	DEG20171093	RPS8	HGNC:10441	-	-	ribosomal protein S8	Homo sapiens	1p34.1-p32
+DEG2017	DEG20171094	RPS9	HGNC:10442	-	-	ribosomal protein S9	Homo sapiens	19q13.4
+DEG2017	DEG20171095	RPSA	HGNC:6502	-	-	ribosomal protein SA	Homo sapiens	3p21.3
+DEG2017	DEG20171096	RPTOR	HGNC:30287	-	-	regulatory associated protein of MTOR, complex 1	Homo sapiens	17q25.3
+DEG2017	DEG20171097	RPUSD4	HGNC:25898	-	-	RNA pseudouridylate synthase domain containing 4	Homo sapiens	11q24.2
+DEG2017	DEG20171098	RRAGA	HGNC:16963	-	-	Ras-related GTP binding A	Homo sapiens	9p21.3
+DEG2017	DEG20171099	RRAGC	HGNC:19902	-	-	Ras-related GTP binding C	Homo sapiens	1p34
+DEG2017	DEG20171100	RRM1	HGNC:10451	-	-	ribonucleotide reductase M1	Homo sapiens	11p15.5
+DEG2017	DEG20171101	RRM2	HGNC:10452	-	-	ribonucleotide reductase M2	Homo sapiens	2p25-p24
+DEG2017	DEG20171102	RRN3	HGNC:30346	-	-	RRN3 homolog, RNA polymerase I transcription factor	Homo sapiens	16p13.11
+DEG2017	DEG20171103	RRP12	HGNC:29100	-	-	ribosomal RNA processing 12 homolog	Homo sapiens	10q24.2
+DEG2017	DEG20171104	RSL24D1	HGNC:18479	-	-	ribosomal L24 domain containing 1	Homo sapiens	15q21
+DEG2017	DEG20171105	RTF1	HGNC:28996	-	-	RTF1 homolog, Paf1/RNA polymerase II complex component	Homo sapiens	15q14
+DEG2017	DEG20171106	RTFDC1	HGNC:15890	-	-	replication termination factor 2 domain containing 1	Homo sapiens	20q13
+DEG2017	DEG20171107	RUVBL1	HGNC:10474	-	-	RuvB-like AAA ATPase 1	Homo sapiens	3q21
+DEG2017	DEG20171108	RUVBL2	HGNC:10475	-	-	RuvB-like AAA ATPase 2	Homo sapiens	19q13.33
+DEG2017	DEG20171109	SACM1L	HGNC:17059	-	-	SAC1 suppressor of actin mutations 1-like (yeast)	Homo sapiens	3p21.3
+DEG2017	DEG20171110	SAE1	HGNC:30660	-	-	SUMO1 activating enzyme subunit 1	Homo sapiens	19q13.32
+DEG2017	DEG20171111	SAMM50	HGNC:24276	-	-	SAMM50 sorting and assembly machinery component	Homo sapiens	22q13.31
+DEG2017	DEG20171112	SAP130	HGNC:29813	-	-	Sin3A associated protein 130kDa	Homo sapiens	2q14.3
+DEG2017	DEG20171113	SAP30BP	HGNC:30785	-	-	SAP30 binding protein	Homo sapiens	17q25.1
+DEG2017	DEG20171114	SARS	HGNC:10537	-	-	seryl-tRNA synthetase	Homo sapiens	1p13.3
+DEG2017	DEG20171115	SARS2	HGNC:17697	-	-	seryl-tRNA synthetase 2, mitochondrial	Homo sapiens	19q13.2
+DEG2017	DEG20171116	SART1	HGNC:10538	-	-	squamous cell carcinoma antigen recognized by T-cells 1	Homo sapiens	11q13.1
+DEG2017	DEG20171117	SART3	HGNC:16860	-	-	squamous cell carcinoma antigen recognized by T-cells 3	Homo sapiens	12q24.11
+DEG2017	DEG20171118	SBDS	HGNC:19440	-	-	Shwachman-Bodian-Diamond syndrome	Homo sapiens	7q11.22
+DEG2017	DEG20171119	SCAF1	HGNC:30403	-	-	SR-related CTD-associated factor 1	Homo sapiens	19q13.3-q13.4
+DEG2017	DEG20171120	SCAF8	HGNC:20959	-	-	SR-related CTD-associated factor 8	Homo sapiens	6q25.1-q25.3
+DEG2017	DEG20171121	SCAP	HGNC:30634	-	-	SREBF chaperone	Homo sapiens	3p21.31
+DEG2017	DEG20171122	SCD	HGNC:10571	-	-	stearoyl-CoA desaturase (delta-9-desaturase)	Homo sapiens	10q23-q24
+DEG2017	DEG20171123	SCGB1C1	HGNC:18394	-	-	secretoglobin, family 1C, member 1	Homo sapiens	11p15.5
+DEG2017	DEG20171124	SCO2	HGNC:10604	-	-	SCO2 cytochrome c oxidase assembly protein	Homo sapiens	22q13.33
+DEG2017	DEG20171125	SCRIB	HGNC:30377	-	-	scribbled planar cell polarity protein	Homo sapiens	8q24.3
+DEG2017	DEG20171126	SCRN2	HGNC:30381	-	-	secernin 2	Homo sapiens	17q21
+DEG2017	DEG20171127	SDAD1	HGNC:25537	-	-	SDA1 domain containing 1	Homo sapiens	4q21.21
+DEG2017	DEG20171128	SDE2	HGNC:26643	-	-	SDE2 telomere maintenance homolog (S. pombe)	Homo sapiens	1q42.12
+DEG2017	DEG20171129	SDHA	HGNC:10680	-	-	succinate dehydrogenase complex subunit A, flavoprotein (Fp)	Homo sapiens	5p15
+DEG2017	DEG20171130	SDHB	HGNC:10681	-	-	succinate dehydrogenase complex subunit B, iron sulfur (Ip)	Homo sapiens	1p36.1-p35
+DEG2017	DEG20171131	SDHC	HGNC:10682	-	-	succinate dehydrogenase complex subunit C	Homo sapiens	1q23.3
+DEG2017	DEG20171132	SEC13	HGNC:10697	-	-	SEC13 homolog, nuclear pore and COPII coat complex component	Homo sapiens	3p25-p24
+DEG2017	DEG20171133	SEC23B	HGNC:10702	-	-	Sec23 homolog B, COPII coat complex component	Homo sapiens	20p11.23
+DEG2017	DEG20171134	SEC61A1	HGNC:18276	-	-	Sec61 translocon alpha 1 subunit	Homo sapiens	3q21.3
+DEG2017	DEG20171135	SEH1L	HGNC:30379	-	-	SEH1 like nucleoporin	Homo sapiens	18p11.21
+DEG2017	DEG20171136	SENP6	HGNC:20944	-	-	SUMO1/sentrin specific peptidase 6	Homo sapiens	6q14.1
+DEG2017	DEG20171137	SF1	HGNC:12950	-	-	splicing factor 1	Homo sapiens	11q13
+DEG2017	DEG20171138	SF3A1	HGNC:10765	-	-	splicing factor 3a subunit 1	Homo sapiens	22q12.2
+DEG2017	DEG20171139	SF3A2	HGNC:10766	-	-	splicing factor 3a subunit 2	Homo sapiens	19p13.3
+DEG2017	DEG20171140	SF3A3	HGNC:10767	-	-	splicing factor 3a subunit 3	Homo sapiens	1p34.3
+DEG2017	DEG20171141	SF3B1	HGNC:10768	-	-	splicing factor 3b subunit 1	Homo sapiens	2q33.1
+DEG2017	DEG20171142	SF3B2	HGNC:10769	-	-	splicing factor 3b subunit 2	Homo sapiens	11q13
+DEG2017	DEG20171143	SF3B3	HGNC:10770	-	-	splicing factor 3b subunit 3	Homo sapiens	16q22
+DEG2017	DEG20171144	SF3B4	HGNC:10771	-	-	splicing factor 3b subunit 4	Homo sapiens	1q21.2
+DEG2017	DEG20171145	SF3B5	HGNC:21083	-	-	splicing factor 3b subunit 5	Homo sapiens	6q24.1
+DEG2017	DEG20171146	SFPQ	HGNC:10774	-	-	splicing factor proline/glutamine-rich	Homo sapiens	1p34.3
+DEG2017	DEG20171147	SH3GL1	HGNC:10830	-	-	SH3-domain GRB2-like 1	Homo sapiens	19p13.3
+DEG2017	DEG20171148	SIN3A	HGNC:19353	-	-	SIN3 transcription regulator family member A	Homo sapiens	15q22.33
+DEG2017	DEG20171149	SKIV2L2	HGNC:18734	-	-	superkiller viralicidic activity 2-like 2 (S. cerevisiae)	Homo sapiens	5q11.2
+DEG2017	DEG20171150	SKP1	HGNC:10899	-	-	S-phase kinase-associated protein 1	Homo sapiens	5q31
+DEG2017	DEG20171151	SKP2	HGNC:10901	-	-	S-phase kinase-associated protein 2, E3 ubiquitin protein ligase	Homo sapiens	5p13
+DEG2017	DEG20171152	SLC16A1	HGNC:10922	-	-	solute carrier family 16 (monocarboxylate transporter), member 1	Homo sapiens	1p12
+DEG2017	DEG20171153	SLC20A1	HGNC:10946	-	-	solute carrier family 20 (phosphate transporter), member 1	Homo sapiens	2q13
+DEG2017	DEG20171154	SLC25A51	HGNC:23323	-	-	solute carrier family 25 member 51	Homo sapiens	9p13.3-p12
+DEG2017	DEG20171155	SLC35B1	HGNC:20798	-	-	solute carrier family 35 member B1	Homo sapiens	17q21.32
+DEG2017	DEG20171156	SLC4A7	HGNC:11033	-	-	solute carrier family 4, sodium bicarbonate cotransporter, member 7	Homo sapiens	3p24.1
+DEG2017	DEG20171157	SLC6A17	HGNC:31399	-	-	solute carrier family 6 (neutral amino acid transporter), member 17	Homo sapiens	1p13.2
+DEG2017	DEG20171158	SLC7A5	HGNC:11063	-	-	solute carrier family 7 (amino acid transporter light chain, L system), member 5	Homo sapiens	16q24.3
+DEG2017	DEG20171159	SLC7A6OS	HGNC:25807	-	-	solute carrier family 7 member 6 opposite strand	Homo sapiens	16q22.1
+DEG2017	DEG20171160	PRELID3B	HGNC:15892	-	-	PRELI domain containing 3B	Homo sapiens	20q13.32
+DEG2017	DEG20171161	SLU7	HGNC:16939	-	-	SLU7 homolog, splicing factor	Homo sapiens	5q33.3
+DEG2017	DEG20171162	SMARCA4	HGNC:11100	-	-	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4	Homo sapiens	19p13.3
+DEG2017	DEG20171163	SMARCA5	HGNC:11101	-	-	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 5	Homo sapiens	4q31.1-q31.2
+DEG2017	DEG20171164	SMARCB1	HGNC:11103	-	-	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily b, member 1	Homo sapiens	22q11.23
+DEG2017	DEG20171165	SMC1A	HGNC:11111	-	-	structural maintenance of chromosomes 1A	Homo sapiens	Xp11.22-p11.21
+DEG2017	DEG20171166	SMC2	HGNC:14011	-	-	structural maintenance of chromosomes 2	Homo sapiens	9q31.1
+DEG2017	DEG20171167	SMC3	HGNC:2468	-	-	structural maintenance of chromosomes 3	Homo sapiens	10q25
+DEG2017	DEG20171168	SMC4	HGNC:14013	-	-	structural maintenance of chromosomes 4	Homo sapiens	3q26.1
+DEG2017	DEG20171169	SMC5	HGNC:20465	-	-	structural maintenance of chromosomes 5	Homo sapiens	9q21.11
+DEG2017	DEG20171170	SMG1	HGNC:30045	-	-	SMG1 phosphatidylinositol 3-kinase-related kinase	Homo sapiens	16p12.3
+DEG2017	DEG20171171	SMG5	HGNC:24644	-	-	SMG5 nonsense mediated mRNA decay factor	Homo sapiens	1q21
+DEG2017	DEG20171172	SMG6	HGNC:17809	-	-	SMG6 nonsense mediated mRNA decay factor	Homo sapiens	17p13.3
+DEG2017	DEG20171173	SMN1	HGNC:11117	-	-	survival of motor neuron 1, telomeric	Homo sapiens	5q13.2
+DEG2017	DEG20171174	SMN2	HGNC:11118	-	-	survival of motor neuron 2, centromeric	Homo sapiens	5q13.2
+DEG2017	DEG20171175	SMNDC1	HGNC:16900	-	-	survival motor neuron domain containing 1	Homo sapiens	10q23
+DEG2017	DEG20171176	SMU1	HGNC:18247	-	-	smu-1 suppressor of mec-8 and unc-52 homolog (C. elegans)	Homo sapiens	9p12
+DEG2017	DEG20171177	SNAP23	HGNC:11131	-	-	synaptosome associated protein 23kDa	Homo sapiens	15q14
+DEG2017	DEG20171178	SNAPC2	HGNC:11135	-	-	small nuclear RNA activating complex polypeptide 2	Homo sapiens	19p13
+DEG2017	DEG20171179	SNAPC3	HGNC:11136	-	-	small nuclear RNA activating complex polypeptide 3	Homo sapiens	9p22.3
+DEG2017	DEG20171180	SNAPC4	HGNC:11137	-	-	small nuclear RNA activating complex polypeptide 4	Homo sapiens	9q34.3
+DEG2017	DEG20171181	SNAPC5	HGNC:15484	-	-	small nuclear RNA activating complex polypeptide 5	Homo sapiens	15q22
+DEG2017	DEG20171182	SNF8	HGNC:17028	-	-	SNF8, ESCRT-II complex subunit	Homo sapiens	17q21.32
+DEG2017	DEG20171183	SNIP1	HGNC:30587	-	-	Smad nuclear interacting protein 1	Homo sapiens	1p34.3
+DEG2017	DEG20171184	SNRNP200	HGNC:30859	-	-	small nuclear ribonucleoprotein, U5 200kDa subunit	Homo sapiens	2q11.2
+DEG2017	DEG20171185	SNRNP25	HGNC:14161	-	-	small nuclear ribonucleoprotein, U11/U12 25kDa subunit	Homo sapiens	16p13.3
+DEG2017	DEG20171186	SNRNP27	HGNC:30240	-	-	small nuclear ribonucleoprotein, U4/U6.U5 27kDa subunit	Homo sapiens	2p14
+DEG2017	DEG20171187	SNRNP35	HGNC:30852	-	-	small nuclear ribonucleoprotein, U11/U12 35kDa subunit	Homo sapiens	12q24.31
+DEG2017	DEG20171188	SNRNP70	HGNC:11150	-	-	small nuclear ribonucleoprotein, U1 70kDa subunit	Homo sapiens	19q13.3
+DEG2017	DEG20171189	SNRPA	HGNC:11151	-	-	small nuclear ribonucleoprotein polypeptide A	Homo sapiens	19q13.1
+DEG2017	DEG20171190	SNRPA1	HGNC:11152	-	-	small nuclear ribonucleoprotein polypeptide A'	Homo sapiens	15q26.3
+DEG2017	DEG20171191	SNRPD1	HGNC:11158	-	-	small nuclear ribonucleoprotein D1 polypeptide	Homo sapiens	18q11.2
+DEG2017	DEG20171192	SNRPD2	HGNC:11159	-	-	small nuclear ribonucleoprotein D2 polypeptide	Homo sapiens	19q13.2-q13.3
+DEG2017	DEG20171193	SNRPD3	HGNC:11160	-	-	small nuclear ribonucleoprotein D3 polypeptide	Homo sapiens	22q11.23
+DEG2017	DEG20171194	SNRPE	HGNC:11161	-	-	small nuclear ribonucleoprotein polypeptide E	Homo sapiens	1q32
+DEG2017	DEG20171195	SNRPF	HGNC:11162	-	-	small nuclear ribonucleoprotein polypeptide F	Homo sapiens	12q23.1
+DEG2017	DEG20171196	SNRPG	HGNC:11163	-	-	small nuclear ribonucleoprotein polypeptide G	Homo sapiens	2p13.3
+DEG2017	DEG20171197	SNW1	HGNC:16696	-	-	SNW domain containing 1	Homo sapiens	14q24.3
+DEG2017	DEG20171198	SOD1	HGNC:11179	-	-	superoxide dismutase 1, soluble	Homo sapiens	21q22.11
+DEG2017	DEG20171199	SON	HGNC:11183	-	-	SON DNA binding protein	Homo sapiens	21q22.1-q22.2
+DEG2017	DEG20171200	SP9	HGNC:30690	-	-	Sp9 transcription factor	Homo sapiens	2q31.1
+DEG2017	DEG20171201	SPATA31A3	HGNC:32003	-	-	SPATA31 subfamily A, member 3	Homo sapiens	9p12
+DEG2017	DEG20171202	SPATA31A5	HGNC:32005	-	-	SPATA31 subfamily A, member 5	Homo sapiens	9p12
+DEG2017	DEG20171203	SPATA31A7	HGNC:32007	-	-	SPATA31 subfamily A, member 7	Homo sapiens	9q12
+DEG2017	DEG20171204	SPATA5	HGNC:18119	-	-	spermatogenesis associated 5	Homo sapiens	4q28.1
+DEG2017	DEG20171205	SPATA5L1	HGNC:28762	-	-	spermatogenesis associated 5-like 1	Homo sapiens	15q15.1
+DEG2017	DEG20171206	SPC24	HGNC:26913	-	-	SPC24, NDC80 kinetochore complex component	Homo sapiens	19p13.2
+DEG2017	DEG20171207	SPC25	HGNC:24031	-	-	SPC25, NDC80 kinetochore complex component	Homo sapiens	2q31.1
+DEG2017	DEG20171208	SPCS3	HGNC:26212	-	-	signal peptidase complex subunit 3	Homo sapiens	4q34.2
+DEG2017	DEG20171209	SPDYE2	HGNC:33841	-	-	speedy/RINGO cell cycle regulator family member E2	Homo sapiens	7q22.1
+DEG2017	DEG20171210	SPDYE2B	HGNC:48334	-	-	speedy/RINGO cell cycle regulator family member E2B	Homo sapiens	7q22.1
+DEG2017	DEG20171211	SPI1	HGNC:11241	-	-	Spi-1 proto-oncogene	Homo sapiens	11p12-p11.22
+DEG2017	DEG20171212	SPRTN	HGNC:25356	-	-	SprT-like N-terminal domain	Homo sapiens	1q42.12-q43
+DEG2017	DEG20171213	SPTLC2	HGNC:11278	-	-	serine palmitoyltransferase, long chain base subunit 2	Homo sapiens	14q24.3
+DEG2017	DEG20171214	SRBD1	HGNC:25521	-	-	S1 RNA binding domain 1	Homo sapiens	2p21
+DEG2017	DEG20171215	SRCAP	HGNC:16974	-	-	Snf2-related CREBBP activator protein	Homo sapiens	16p11.2
+DEG2017	DEG20171216	SRP19	HGNC:11300	-	-	signal recognition particle 19kDa	Homo sapiens	5q21-q22
+DEG2017	DEG20171217	SRP54	HGNC:11301	-	-	signal recognition particle 54kDa	Homo sapiens	14q13.2
+DEG2017	DEG20171218	SRP68	HGNC:11302	-	-	signal recognition particle 68kDa	Homo sapiens	17q25.1
+DEG2017	DEG20171219	SRP72	HGNC:11303	-	-	signal recognition particle 72kDa	Homo sapiens	4q11
+DEG2017	DEG20171220	SRP9	HGNC:11304	-	-	signal recognition particle 9kDa	Homo sapiens	1q42.12
+DEG2017	DEG20171221	SRPRB	HGNC:24085	-	-	SRP receptor beta subunit	Homo sapiens	3q22.1
+DEG2017	DEG20171222	SRRM1	HGNC:16638	-	-	serine/arginine repetitive matrix 1	Homo sapiens	1p36
+DEG2017	DEG20171223	SRRM2	HGNC:16639	-	-	serine/arginine repetitive matrix 2	Homo sapiens	16p13.3
+DEG2017	DEG20171224	SRRT	HGNC:24101	-	-	serrate, RNA effector molecule	Homo sapiens	7q21
+DEG2017	DEG20171225	SRSF1	HGNC:10780	-	-	serine/arginine-rich splicing factor 1	Homo sapiens	17q22
+DEG2017	DEG20171226	SRSF2	HGNC:10783	-	-	serine/arginine-rich splicing factor 2	Homo sapiens	17q25.2
+DEG2017	DEG20171227	SRSF3	HGNC:10785	-	-	serine/arginine-rich splicing factor 3	Homo sapiens	6p21
+DEG2017	DEG20171228	SRSF7	HGNC:10789	-	-	serine/arginine-rich splicing factor 7	Homo sapiens	2p22.1
+DEG2017	DEG20171229	SSBP1	HGNC:11317	-	-	single-stranded DNA binding protein 1, mitochondrial	Homo sapiens	7q34
+DEG2017	DEG20171230	SSRP1	HGNC:11327	-	-	structure specific recognition protein 1	Homo sapiens	11q12
+DEG2017	DEG20171231	SSU72	HGNC:25016	-	-	SSU72 homolog, RNA polymerase II CTD phosphatase	Homo sapiens	1p36
+DEG2017	DEG20171232	STAG2	HGNC:11355	-	-	stromal antigen 2	Homo sapiens	Xq25
+DEG2017	DEG20171233	STIL	HGNC:10879	-	-	SCL/TAL1 interrupting locus	Homo sapiens	1p32
+DEG2017	DEG20171234	STRAP	HGNC:30796	-	-	serine/threonine kinase receptor associated protein	Homo sapiens	12p13.1
+DEG2017	DEG20171235	STX4	HGNC:11439	-	-	syntaxin 4	Homo sapiens	16p11.2
+DEG2017	DEG20171236	SUCNR1	HGNC:4542	-	-	succinate receptor 1	Homo sapiens	3q25.1
+DEG2017	DEG20171237	SUDS3	HGNC:29545	-	-	SDS3 homolog, SIN3A corepressor complex component	Homo sapiens	12q24.23
+DEG2017	DEG20171238	SUGP1	HGNC:18643	-	-	SURP and G-patch domain containing 1	Homo sapiens	19p13
+DEG2017	DEG20171239	SUPT16H	HGNC:11465	-	-	SPT16 homolog, facilitates chromatin remodeling subunit	Homo sapiens	14q11.1
+DEG2017	DEG20171240	SUPT4H1	HGNC:11467	-	-	SPT4 homolog, DSIF elongation factor subunit	Homo sapiens	17q22
+DEG2017	DEG20171241	SUPT5H	HGNC:11469	-	-	SPT5 homolog, DSIF elongation factor subunit	Homo sapiens	19q13.2
+DEG2017	DEG20171242	SUPT6H	HGNC:11470	-	-	SPT6 homolog, histone chaperone	Homo sapiens	17q11.2
+DEG2017	DEG20171243	SUZ12	HGNC:17101	-	-	SUZ12 polycomb repressive complex 2 subunit	Homo sapiens	17q21
+DEG2017	DEG20171244	SYMPK	HGNC:22935	-	-	symplekin	Homo sapiens	19q13.3
+DEG2017	DEG20171245	SYS1	HGNC:16162	-	-	Sys1 golgi trafficking protein	Homo sapiens	20q13.12
+DEG2017	DEG20171246	SYVN1	HGNC:20738	-	-	synoviolin 1	Homo sapiens	11q13
+DEG2017	DEG20171247	TAB1	HGNC:18157	-	-	TGF-beta activated kinase 1/MAP3K7 binding protein 1	Homo sapiens	22q13.1
+DEG2017	DEG20171248	TADA2B	HGNC:30781	-	-	transcriptional adaptor 2B	Homo sapiens	4p16.1
+DEG2017	DEG20171249	TAF1	HGNC:11535	-	-	TATA-box binding protein associated factor 1	Homo sapiens	Xq13.1
+DEG2017	DEG20171250	TAF10	HGNC:11543	-	-	TATA-box binding protein associated factor 10	Homo sapiens	11p15.5-p15.2
+DEG2017	DEG20171251	TAF13	HGNC:11546	-	-	TATA-box binding protein associated factor 13	Homo sapiens	1p13.3
+DEG2017	DEG20171252	TAF1B	HGNC:11533	-	-	TATA-box binding protein associated factor, RNA polymerase I, B	Homo sapiens	2p25
+DEG2017	DEG20171253	TAF1C	HGNC:11534	-	-	TATA-box binding protein associated factor, RNA polymerase I, C	Homo sapiens	16q24
+DEG2017	DEG20171254	TAF2	HGNC:11536	-	-	TATA-box binding protein associated factor 2	Homo sapiens	8q24
+DEG2017	DEG20171255	TAF3	HGNC:17303	-	-	TATA-box binding protein associated factor 3	Homo sapiens	10p15.1
+DEG2017	DEG20171256	TAF5	HGNC:11539	-	-	TATA-box binding protein associated factor 5	Homo sapiens	10q24-q25.2
+DEG2017	DEG20171257	TAF5L	HGNC:17304	-	-	TATA-box binding protein associated factor 5 like	Homo sapiens	1q42.11-q42.3
+DEG2017	DEG20171258	TAF6	HGNC:11540	-	-	TATA-box binding protein associated factor 6	Homo sapiens	7q
+DEG2017	DEG20171259	TAF6L	HGNC:17305	-	-	TATA-box binding protein associated factor 6 like	Homo sapiens	11q12.3
+DEG2017	DEG20171260	TANGO6	HGNC:25749	-	-	transport and golgi organization 6 homolog	Homo sapiens	16q22.1
+DEG2017	DEG20171261	TARS	HGNC:11572	-	-	threonyl-tRNA synthetase	Homo sapiens	5p13.2
+DEG2017	DEG20171262	TARS2	HGNC:30740	-	-	threonyl-tRNA synthetase 2, mitochondrial (putative)	Homo sapiens	1q21.2
+DEG2017	DEG20171263	TAS1R3	HGNC:15661	-	-	taste 1 receptor member 3	Homo sapiens	1p36
+DEG2017	DEG20171264	TBC1D17	HGNC:25699	-	-	TBC1 domain family member 17	Homo sapiens	19q13.33
+DEG2017	DEG20171265	TBC1D3	HGNC:19031	-	-	TBC1 domain family member 3	Homo sapiens	17q12
+DEG2017	DEG20171266	TBC1D3B	HGNC:27011	-	-	TBC1 domain family member 3B	Homo sapiens	17q12
+DEG2017	DEG20171267	TBC1D3C	HGNC:24889	-	-	TBC1 domain family member 3C	Homo sapiens	17q12
+DEG2017	DEG20171268	TBC1D3F	HGNC:18257	-	-	TBC1 domain family member 3F	Homo sapiens	17q12
+DEG2017	DEG20171269	TBC1D3G	HGNC:29860	-	-	TBC1 domain family member 3G	Homo sapiens	17q12
+DEG2017	DEG20171270	TBC1D3H	HGNC:30708	-	-	TBC1 domain family member 3H	Homo sapiens	17q12
+DEG2017	DEG20171271	TBCB	HGNC:1989	-	-	tubulin folding cofactor B	Homo sapiens	19q13.11-q13.12
+DEG2017	DEG20171272	TBCC	HGNC:11580	-	-	tubulin folding cofactor C	Homo sapiens	6p21.1
+DEG2017	DEG20171273	TBCD	HGNC:11581	-	-	tubulin folding cofactor D	Homo sapiens	17q25.3
+DEG2017	DEG20171274	TBL3	HGNC:11587	-	-	transducin (beta)-like 3	Homo sapiens	16p13.3
+DEG2017	DEG20171275	TBP	HGNC:11588	-	-	TATA-box binding protein	Homo sapiens	6q27
+DEG2017	DEG20171276	TBRG4	HGNC:17443	-	-	transforming growth factor beta regulator 4	Homo sapiens	7p13
+DEG2017	DEG20171277	TCEB1	HGNC:11617	-	-	transcription elongation factor B (SIII), polypeptide 1 (15kDa, elongin C)	Homo sapiens	8q13.3
+DEG2017	DEG20171278	TCF3	HGNC:11633	-	-	transcription factor 3	Homo sapiens	19p13.3
+DEG2017	DEG20171279	TCP1	HGNC:11655	-	-	t-complex 1	Homo sapiens	6q25-q27
+DEG2017	DEG20171280	TEFM	HGNC:26223	-	-	transcription elongation factor, mitochondrial	Homo sapiens	17q11.2
+DEG2017	DEG20171281	TELO2	HGNC:29099	-	-	telomere maintenance 2	Homo sapiens	16p13.3
+DEG2017	DEG20171282	TERF2	HGNC:11729	-	-	telomeric repeat binding factor 2	Homo sapiens	16q22.1
+DEG2017	DEG20171283	TEX10	HGNC:25988	-	-	testis expressed 10	Homo sapiens	9q31.1
+DEG2017	DEG20171284	TFG	HGNC:11758	-	-	TRK-fused gene	Homo sapiens	3q12.2
+DEG2017	DEG20171285	TFIP11	HGNC:17165	-	-	tuftelin interacting protein 11	Homo sapiens	22q12.1
+DEG2017	DEG20171286	TFRC	HGNC:11763	-	-	transferrin receptor	Homo sapiens	3q29
+DEG2017	DEG20171287	TGFBRAP1	HGNC:16836	-	-	transforming growth factor beta receptor associated protein 1	Homo sapiens	2q12.1
+DEG2017	DEG20171288	TGS1	HGNC:17843	-	-	trimethylguanosine synthase 1	Homo sapiens	8q11
+DEG2017	DEG20171289	THOC1	HGNC:19070	-	-	THO complex 1	Homo sapiens	18p11.32
+DEG2017	DEG20171290	THOC2	HGNC:19073	-	-	THO complex 2	Homo sapiens	Xq25-q26.3
+DEG2017	DEG20171291	THOC5	HGNC:19074	-	-	THO complex 5	Homo sapiens	22q12
+DEG2017	DEG20171292	THOC7	HGNC:29874	-	-	THO complex 7	Homo sapiens	3p14.1
+DEG2017	DEG20171293	TICRR	HGNC:28704	-	-	TOPBP1-interacting checkpoint and replication regulator	Homo sapiens	15q26.1
+DEG2017	DEG20171294	TIMELESS	HGNC:11813	-	-	timeless circadian clock	Homo sapiens	12q13.3
+DEG2017	DEG20171295	TIMM10	HGNC:11814	-	-	translocase of inner mitochondrial membrane 10 homolog (yeast)	Homo sapiens	11q12.1
+DEG2017	DEG20171296	TIMM13	HGNC:11816	-	-	translocase of inner mitochondrial membrane 13 homolog (yeast)	Homo sapiens	19p13.3
+DEG2017	DEG20171297	TIMM23	HGNC:17312	-	-	translocase of inner mitochondrial membrane 23 homolog (yeast)	Homo sapiens	10q11.22
+DEG2017	DEG20171298	TIMM44	HGNC:17316	-	-	translocase of inner mitochondrial membrane 44 homolog (yeast)	Homo sapiens	19p13.2
+DEG2017	DEG20171299	TLCD1	HGNC:25177	-	-	TLC domain containing 1	Homo sapiens	17q11.2
+DEG2017	DEG20171300	TMED10	HGNC:16998	-	-	transmembrane p24 trafficking protein 10	Homo sapiens	14q24.3
+DEG2017	DEG20171301	TMED2	HGNC:16996	-	-	transmembrane p24 trafficking protein 2	Homo sapiens	12q24.31
+DEG2017	DEG20171302	TMEM183A	HGNC:20173	-	-	transmembrane protein 183A	Homo sapiens	1q31.1
+DEG2017	DEG20171303	TMEM189	HGNC:16735	-	-	transmembrane protein 189	Homo sapiens	20q13.13
+DEG2017	DEG20171304	TMEM189-UBE2V1	HGNC:33521	-	-	TMEM189-UBE2V1 readthrough	Homo sapiens	20q13.13
+DEG2017	DEG20171305	TMEM199	HGNC:18085	-	-	transmembrane protein 199	Homo sapiens	17q11.2
+DEG2017	DEG20171306	TMPRSS9	HGNC:30079	-	-	transmembrane protease, serine 9	Homo sapiens	19p13.3
+DEG2017	DEG20171307	TMX2	HGNC:30739	-	-	thioredoxin-related transmembrane protein 2	Homo sapiens	11q12.1
+DEG2017	DEG20171308	TNPO3	HGNC:17103	-	-	transportin 3	Homo sapiens	7q32.2
+DEG2017	DEG20171309	TOMM22	HGNC:18002	-	-	translocase of outer mitochondrial membrane 22 homolog (yeast)	Homo sapiens	22q13.1
+DEG2017	DEG20171310	TONSL	HGNC:7801	-	-	tonsoku-like, DNA repair protein	Homo sapiens	8q24.3
+DEG2017	DEG20171311	TOP1	HGNC:11986	-	-	topoisomerase (DNA) I	Homo sapiens	20q12-q13.1
+DEG2017	DEG20171312	TOP2A	HGNC:11989	-	-	topoisomerase (DNA) II alpha	Homo sapiens	17q21.2
+DEG2017	DEG20171313	TOPBP1	HGNC:17008	-	-	topoisomerase (DNA) II binding protein 1	Homo sapiens	3q22.1
+DEG2017	DEG20171314	TPM2	HGNC:12011	-	-	tropomyosin 2 (beta)	Homo sapiens	9p13
+DEG2017	DEG20171315	TPR	HGNC:12017	-	-	translocated promoter region, nuclear basket protein	Homo sapiens	1q25
+DEG2017	DEG20171316	TPT1	HGNC:12022	-	-	tumor protein, translationally-controlled 1	Homo sapiens	13q14
+DEG2017	DEG20171317	TPX2	HGNC:1249	-	-	TPX2, microtubule-associated	Homo sapiens	20q11.2
+DEG2017	DEG20171318	TRAPPC1	HGNC:19894	-	-	trafficking protein particle complex 1	Homo sapiens	17p13.1
+DEG2017	DEG20171319	TRAPPC5	HGNC:23067	-	-	trafficking protein particle complex 5	Homo sapiens	19p13.3
+DEG2017	DEG20171320	TRAPPC8	HGNC:29169	-	-	trafficking protein particle complex 8	Homo sapiens	18q12.1
+DEG2017	DEG20171321	TRIM28	HGNC:16384	-	-	tripartite motif containing 28	Homo sapiens	19q13.4
+DEG2017	DEG20171322	TRIM46	HGNC:19019	-	-	tripartite motif containing 46	Homo sapiens	1q22
+DEG2017	DEG20171323	TRIM52	HGNC:19024	-	-	tripartite motif containing 52	Homo sapiens	5q35.3
+DEG2017	DEG20171324	TRMT112	HGNC:26940	-	-	tRNA methyltransferase 11-2 homolog (S. cerevisiae)	Homo sapiens	11q13.1
+DEG2017	DEG20171325	TRNAU1AP	HGNC:30813	-	-	tRNA selenocysteine 1 associated protein 1	Homo sapiens	1p35.3
+DEG2017	DEG20171326	TRRAP	HGNC:12347	-	-	transformation/transcription domain-associated protein	Homo sapiens	7q21.2-q22.1
+DEG2017	DEG20171327	TSC1	HGNC:12362	-	-	tuberous sclerosis 1	Homo sapiens	9q34
+DEG2017	DEG20171328	TSC2	HGNC:12363	-	-	tuberous sclerosis 2	Homo sapiens	16p13.3
+DEG2017	DEG20171329	TSEN2	HGNC:28422	-	-	tRNA splicing endonuclease subunit 2	Homo sapiens	3p25.2
+DEG2017	DEG20171330	TSEN54	HGNC:27561	-	-	tRNA splicing endonuclease subunit 54	Homo sapiens	17q25.1
+DEG2017	DEG20171331	TSFM	HGNC:12367	-	-	Ts translation elongation factor, mitochondrial	Homo sapiens	12q14.1
+DEG2017	DEG20171332	TSR1	HGNC:25542	-	-	TSR1, 20S rRNA accumulation, homolog (S. cerevisiae)	Homo sapiens	17p13.3
+DEG2017	DEG20171333	TSR2	HGNC:25455	-	-	TSR2, 20S rRNA accumulation, homolog (S. cerevisiae)	Homo sapiens	Xp11.22
+DEG2017	DEG20171334	TTC1	HGNC:12391	-	-	tetratricopeptide repeat domain 1	Homo sapiens	5q32-q33.2
+DEG2017	DEG20171335	TTC27	HGNC:25986	-	-	tetratricopeptide repeat domain 27	Homo sapiens	2p22.3
+DEG2017	DEG20171336	TTC7A	HGNC:19750	-	-	tetratricopeptide repeat domain 7A	Homo sapiens	2p16.3
+DEG2017	DEG20171337	TTF2	HGNC:12398	-	-	transcription termination factor, RNA polymerase II	Homo sapiens	1p13.1
+DEG2017	DEG20171338	TTI1	HGNC:29029	-	-	TELO2 interacting protein 1	Homo sapiens	20q11.23
+DEG2017	DEG20171339	TTI2	HGNC:26262	-	-	TELO2 interacting protein 2	Homo sapiens	8p12
+DEG2017	DEG20171340	TTK	HGNC:12401	-	-	TTK protein kinase	Homo sapiens	6q14.1
+DEG2017	DEG20171341	TUBB	HGNC:20778	-	-	tubulin beta class I	Homo sapiens	6p21.33
+DEG2017	DEG20171342	TUBG1	HGNC:12417	-	-	tubulin gamma 1	Homo sapiens	17q21.31
+DEG2017	DEG20171343	TUBGCP2	HGNC:18599	-	-	tubulin gamma complex associated protein 2	Homo sapiens	10q26.3
+DEG2017	DEG20171344	TUBGCP3	HGNC:18598	-	-	tubulin gamma complex associated protein 3	Homo sapiens	13q34
+DEG2017	DEG20171345	TUBGCP4	HGNC:16691	-	-	tubulin gamma complex associated protein 4	Homo sapiens	15q15.3
+DEG2017	DEG20171346	TUBGCP5	HGNC:18600	-	-	tubulin gamma complex associated protein 5	Homo sapiens	15q11.1
+DEG2017	DEG20171347	TUBGCP6	HGNC:18127	-	-	tubulin gamma complex associated protein 6	Homo sapiens	22q13.31-q13.33
+DEG2017	DEG20171348	TUFM	HGNC:12420	-	-	Tu translation elongation factor, mitochondrial	Homo sapiens	16p11.2
+DEG2017	DEG20171349	TUT1	HGNC:26184	-	-	terminal uridylyl transferase 1, U6 snRNA-specific	Homo sapiens	11q12.2
+DEG2017	DEG20171350	TWISTNB	HGNC:18027	-	-	TWIST neighbor	Homo sapiens	7p21.1
+DEG2017	DEG20171351	TXN2	HGNC:17772	-	-	thioredoxin 2	Homo sapiens	22q13.1
+DEG2017	DEG20171352	TXNL4A	HGNC:30551	-	-	thioredoxin like 4A	Homo sapiens	18q23
+DEG2017	DEG20171353	U2AF1	HGNC:12453	-	-	U2 small nuclear RNA auxiliary factor 1	Homo sapiens	21q22.3
+DEG2017	DEG20171354	U2AF2	HGNC:23156	-	-	U2 small nuclear RNA auxiliary factor 2	Homo sapiens	19q13.43
+DEG2017	DEG20171355	U2SURP	HGNC:30855	-	-	U2 snRNP-associated SURP domain containing	Homo sapiens	3q23
+DEG2017	DEG20171356	UBA1	HGNC:12469	-	-	ubiquitin-like modifier activating enzyme 1	Homo sapiens	Xp11.23
+DEG2017	DEG20171357	UBA52	HGNC:12458	-	-	ubiquitin A-52 residue ribosomal protein fusion product 1	Homo sapiens	19p13.1-p12
+DEG2017	DEG20171358	UBAP1	HGNC:12461	-	-	ubiquitin associated protein 1	Homo sapiens	9p13.3
+DEG2017	DEG20171359	UBB	HGNC:12463	-	-	ubiquitin B	Homo sapiens	17p12-p11.2
+DEG2017	DEG20171360	UBE2I	HGNC:12485	-	-	ubiquitin conjugating enzyme E2I	Homo sapiens	16p13.3
+DEG2017	DEG20171361	UBE2M	HGNC:12491	-	-	ubiquitin conjugating enzyme E2M	Homo sapiens	19q13.43
+DEG2017	DEG20171362	UBL5	HGNC:13736	-	-	ubiquitin like 5	Homo sapiens	19p13.2
+DEG2017	DEG20171363	UFD1L	HGNC:12520	-	-	ubiquitin fusion degradation 1 like (yeast)	Homo sapiens	22q11.2
+DEG2017	DEG20171364	UMPS	HGNC:12563	-	-	uridine monophosphate synthetase	Homo sapiens	3q13
+DEG2017	DEG20171365	UPF1	HGNC:9962	-	-	UPF1 regulator of nonsense transcripts homolog (yeast)	Homo sapiens	19p13.11
+DEG2017	DEG20171366	UPF2	HGNC:17854	-	-	UPF2 regulator of nonsense transcripts homolog (yeast)	Homo sapiens	10p14-p13
+DEG2017	DEG20171367	UQCRC1	HGNC:12585	-	-	ubiquinol-cytochrome c reductase core protein I	Homo sapiens	3p21
+DEG2017	DEG20171368	UQCRFS1	HGNC:12587	-	-	ubiquinol-cytochrome c reductase, Rieske iron-sulfur polypeptide 1	Homo sapiens	19q12
+DEG2017	DEG20171369	UQCRH	HGNC:12590	-	-	ubiquinol-cytochrome c reductase hinge protein	Homo sapiens	1p34.1
+DEG2017	DEG20171370	URB2	HGNC:28967	-	-	URB2 ribosome biogenesis 2 homolog (S. cerevisiae)	Homo sapiens	1q42.13
+DEG2017	DEG20171371	UROD	HGNC:12591	-	-	uroporphyrinogen decarboxylase	Homo sapiens	1p34
+DEG2017	DEG20171372	USP10	HGNC:12608	-	-	ubiquitin specific peptidase 10	Homo sapiens	16q
+DEG2017	DEG20171373	USP37	HGNC:20063	-	-	ubiquitin specific peptidase 37	Homo sapiens	2q35
+DEG2017	DEG20171374	USP39	HGNC:20071	-	-	ubiquitin specific peptidase 39	Homo sapiens	2p11.2
+DEG2017	DEG20171375	USP48	HGNC:18533	-	-	ubiquitin specific peptidase 48	Homo sapiens	1p36.12
+DEG2017	DEG20171376	USP5	HGNC:12628	-	-	ubiquitin specific peptidase 5 (isopeptidase T)	Homo sapiens	12p13
+DEG2017	DEG20171377	USP8	HGNC:12631	-	-	ubiquitin specific peptidase 8	Homo sapiens	15q21.1
+DEG2017	DEG20171378	USPL1	HGNC:20294	-	-	ubiquitin specific peptidase like 1	Homo sapiens	13q12.3
+DEG2017	DEG20171379	UTP15	HGNC:25758	-	-	UTP15, U3 small nucleolar ribonucleoprotein, homolog (S. cerevisiae)	Homo sapiens	5q13.2
+DEG2017	DEG20171380	UTP20	HGNC:17897	-	-	UTP20 small subunit processome component	Homo sapiens	12q23
+DEG2017	DEG20171381	UTP23	HGNC:28224	-	-	UTP23, small subunit processome component	Homo sapiens	8q24.11
+DEG2017	DEG20171382	UTP3	HGNC:24477	-	-	UTP3, small subunit (SSU) processome component, homolog (S. cerevisiae)	Homo sapiens	4q13.3
+DEG2017	DEG20171383	UTP6	HGNC:18279	-	-	UTP6 small subunit processome component	Homo sapiens	17q11.2
+DEG2017	DEG20171384	UXS1	HGNC:17729	-	-	UDP-glucuronate decarboxylase 1	Homo sapiens	2q12.2
+DEG2017	DEG20171385	UXT	HGNC:12641	-	-	ubiquitously expressed prefoldin like chaperone	Homo sapiens	Xp11.23-p11.22
+DEG2017	DEG20171386	VARS	HGNC:12651	-	-	valyl-tRNA synthetase	Homo sapiens	6p21.3
+DEG2017	DEG20171387	VARS2	HGNC:21642	-	-	valyl-tRNA synthetase 2, mitochondrial	Homo sapiens	6p21.33
+DEG2017	DEG20171388	VCP	HGNC:12666	-	-	valosin containing protein	Homo sapiens	9p13.3
+DEG2017	DEG20171389	VMP1	HGNC:29559	-	-	vacuole membrane protein 1	Homo sapiens	17q23.1
+DEG2017	DEG20171390	VPS16	HGNC:14584	-	-	VPS16, CORVET/HOPS core subunit	Homo sapiens	20p13
+DEG2017	DEG20171391	VPS18	HGNC:15972	-	-	VPS18, CORVET/HOPS core subunit	Homo sapiens	15q15.1
+DEG2017	DEG20171392	VPS25	HGNC:28122	-	-	vacuolar protein sorting 25 homolog (S. cerevisiae)	Homo sapiens	17q21.31
+DEG2017	DEG20171393	VPS28	HGNC:18178	-	-	vacuolar protein sorting 28 homolog (S. cerevisiae)	Homo sapiens	8q24.3
+DEG2017	DEG20171394	VPS29	HGNC:14340	-	-	VPS29 retromer complex component	Homo sapiens	12q24.11
+DEG2017	DEG20171395	VPS33A	HGNC:18179	-	-	VPS33A, CORVET/HOPS core subunit	Homo sapiens	12q24.31
+DEG2017	DEG20171396	VPS35	HGNC:13487	-	-	VPS35 retromer complex component	Homo sapiens	16q12
+DEG2017	DEG20171397	VPS37A	HGNC:24928	-	-	vacuolar protein sorting 37 homolog A (S. cerevisiae)	Homo sapiens	8p22
+DEG2017	DEG20171398	VPS39	HGNC:20593	-	-	VPS39 HOPS complex subunit	Homo sapiens	15q14
+DEG2017	DEG20171399	VPS41	HGNC:12713	-	-	VPS41 HOPS complex subunit	Homo sapiens	7p14.1-p13
+DEG2017	DEG20171400	VPS45	HGNC:14579	-	-	vacuolar protein sorting 45 homolog (S. cerevisiae)	Homo sapiens	1q21.2
+DEG2017	DEG20171401	VPS51	HGNC:1172	-	-	VPS51 GARP complex subunit	Homo sapiens	11q13.1
+DEG2017	DEG20171402	VPS52	HGNC:10518	-	-	VPS52 GARP complex subunit	Homo sapiens	6p21.3
+DEG2017	DEG20171403	VWA9	HGNC:25372	-	-	von Willebrand factor A domain containing 9	Homo sapiens	15q22.31
+DEG2017	DEG20171404	WAPL	HGNC:23293	-	-	WAPL cohesin release factor	Homo sapiens	10q23.31
+DEG2017	DEG20171405	WARS	HGNC:12729	-	-	tryptophanyl-tRNA synthetase	Homo sapiens	14q32.2
+DEG2017	DEG20171406	WARS2	HGNC:12730	-	-	tryptophanyl tRNA synthetase 2, mitochondrial	Homo sapiens	1p12
+DEG2017	DEG20171407	WBSCR16	HGNC:14948	-	-	Williams-Beuren syndrome chromosome region 16	Homo sapiens	7q11.23
+DEG2017	DEG20171408	WBSCR22	HGNC:16405	-	-	Williams Beuren syndrome chromosome region 22	Homo sapiens	7q11.23
+DEG2017	DEG20171409	WDHD1	HGNC:23170	-	-	WD repeat and HMG-box DNA binding protein 1	Homo sapiens	14q22.2
+DEG2017	DEG20171410	WDR1	HGNC:12754	-	-	WD repeat domain 1	Homo sapiens	4p16.1
+DEG2017	DEG20171411	WDR12	HGNC:14098	-	-	WD repeat domain 12	Homo sapiens	2q33.1
+DEG2017	DEG20171412	WDR24	HGNC:20852	-	-	WD repeat domain 24	Homo sapiens	16p13.3
+DEG2017	DEG20171413	WDR25	HGNC:21064	-	-	WD repeat domain 25	Homo sapiens	14q32.32
+DEG2017	DEG20171414	WDR3	HGNC:12755	-	-	WD repeat domain 3	Homo sapiens	1p12
+DEG2017	DEG20171415	WDR33	HGNC:25651	-	-	WD repeat domain 33	Homo sapiens	2q21.1
+DEG2017	DEG20171416	WDR36	HGNC:30696	-	-	WD repeat domain 36	Homo sapiens	5q22.2
+DEG2017	DEG20171417	WDR43	HGNC:28945	-	-	WD repeat domain 43	Homo sapiens	2p23.3
+DEG2017	DEG20171418	WDR46	HGNC:13923	-	-	WD repeat domain 46	Homo sapiens	6p21.3
+DEG2017	DEG20171419	WDR5	HGNC:12757	-	-	WD repeat domain 5	Homo sapiens	9q34
+DEG2017	DEG20171420	WDR55	HGNC:25971	-	-	WD repeat domain 55	Homo sapiens	5q31.3
+DEG2017	DEG20171421	WDR61	HGNC:30300	-	-	WD repeat domain 61	Homo sapiens	15q25.1
+DEG2017	DEG20171422	WDR62	HGNC:24502	-	-	WD repeat domain 62	Homo sapiens	19q13.12
+DEG2017	DEG20171423	WDR7	HGNC:13490	-	-	WD repeat domain 7	Homo sapiens	18q21.31
+DEG2017	DEG20171424	WDR70	HGNC:25495	-	-	WD repeat domain 70	Homo sapiens	5p13.2
+DEG2017	DEG20171425	WDR74	HGNC:25529	-	-	WD repeat domain 74	Homo sapiens	11q12.3
+DEG2017	DEG20171426	WDR75	HGNC:25725	-	-	WD repeat domain 75	Homo sapiens	2q32.2
+DEG2017	DEG20171427	WDR77	HGNC:29652	-	-	WD repeat domain 77	Homo sapiens	1p13.2
+DEG2017	DEG20171428	WDR82	HGNC:28826	-	-	WD repeat domain 82	Homo sapiens	3p21.2
+DEG2017	DEG20171429	WDR92	HGNC:25176	-	-	WD repeat domain 92	Homo sapiens	2p14
+DEG2017	DEG20171430	WEE1	HGNC:12761	-	-	WEE1 G2 checkpoint kinase	Homo sapiens	11p15.4
+DEG2017	DEG20171431	WNK1	HGNC:14540	-	-	WNK lysine deficient protein kinase 1	Homo sapiens	12p13.3
+DEG2017	DEG20171432	XAB2	HGNC:14089	-	-	XPA binding protein 2	Homo sapiens	19p13.3
+DEG2017	DEG20171433	XPO1	HGNC:12825	-	-	exportin 1	Homo sapiens	2p15
+DEG2017	DEG20171434	XPO5	HGNC:17675	-	-	exportin 5	Homo sapiens	6p21.1
+DEG2017	DEG20171435	XRCC6	HGNC:4055	-	-	X-ray repair complementing defective repair in Chinese hamster cells 6	Homo sapiens	22q13.2
+DEG2017	DEG20171436	YAE1D1	HGNC:24857	-	-	Yae1 domain containing 1	Homo sapiens	7p14.1
+DEG2017	DEG20171437	YARS	HGNC:12840	-	-	tyrosyl-tRNA synthetase	Homo sapiens	1p35.1
+DEG2017	DEG20171438	YARS2	HGNC:24249	-	-	tyrosyl-tRNA synthetase 2	Homo sapiens	12p11.21
+DEG2017	DEG20171439	YLPM1	HGNC:17798	-	-	YLP motif containing 1	Homo sapiens	14q24.3
+DEG2017	DEG20171440	YME1L1	HGNC:12843	-	-	YME1 like 1 ATPase	Homo sapiens	10p14
+DEG2017	DEG20171441	YRDC	HGNC:28905	-	-	yrdC N(6)-threonylcarbamoyltransferase domain containing	Homo sapiens	1p34.3
+DEG2017	DEG20171442	YTHDC1	HGNC:30626	-	-	YTH domain containing 1	Homo sapiens	4q13.3
+DEG2017	DEG20171443	YY1	HGNC:12856	-	-	YY1 transcription factor	Homo sapiens	14q
+DEG2017	DEG20171444	ZBTB11	HGNC:16740	-	-	zinc finger and BTB domain containing 11	Homo sapiens	3q12.3
+DEG2017	DEG20171445	ZBTB8OS	HGNC:24094	-	-	zinc finger and BTB domain containing 8 opposite strand	Homo sapiens	1p35.1
+DEG2017	DEG20171446	ZC3H13	HGNC:20368	-	-	zinc finger CCCH-type containing 13	Homo sapiens	13q14.11
+DEG2017	DEG20171447	ZC3H18	HGNC:25091	-	-	zinc finger CCCH-type containing 18	Homo sapiens	16q24.2
+DEG2017	DEG20171448	ZC3H3	HGNC:28972	-	-	zinc finger CCCH-type containing 3	Homo sapiens	8q24.3
+DEG2017	DEG20171449	ZC3H4	HGNC:17808	-	-	zinc finger CCCH-type containing 4	Homo sapiens	19q13.33
+DEG2017	DEG20171450	ZCCHC14	HGNC:24134	-	-	zinc finger, CCHC domain containing 14	Homo sapiens	16q24.2
+DEG2017	DEG20171451	ZFP36	HGNC:12862	-	-	ZFP36 ring finger protein	Homo sapiens	19q13.1
+DEG2017	DEG20171452	ZMAT2	HGNC:26433	-	-	zinc finger, matrin-type 2	Homo sapiens	5q31
+DEG2017	DEG20171453	ZMAT5	HGNC:28046	-	-	zinc finger, matrin-type 5	Homo sapiens	22q12.2
+DEG2017	DEG20171454	ZMYM4	HGNC:13055	-	-	zinc finger, MYM-type 4	Homo sapiens	1p34-p32
+DEG2017	DEG20171455	ZNF207	HGNC:12998	-	-	zinc finger protein 207	Homo sapiens	17q11.2
+DEG2017	DEG20171456	ZPR1	HGNC:13051	-	-	ZPR1 zinc finger	Homo sapiens	11q23.3
+DEG2017	DEG20171457	ZNF335	HGNC:15807	-	-	zinc finger protein 335	Homo sapiens	20q13.12
+DEG2017	DEG20171458	ZNF407	HGNC:19904	-	-	zinc finger protein 407	Homo sapiens	18q23
+DEG2017	DEG20171459	ZNF574	HGNC:26166	-	-	zinc finger protein 574	Homo sapiens	19q13.2
+DEG2017	DEG20171460	ZNF705A	HGNC:32281	-	-	zinc finger protein 705A	Homo sapiens	12p13.31
+DEG2017	DEG20171461	ZNF830	HGNC:28291	-	-	zinc finger protein 830	Homo sapiens	17q12
+DEG2017	DEG20171462	ZNHIT2	HGNC:1177	-	-	zinc finger, HIT-type containing 2	Homo sapiens	11q13
+DEG2017	DEG20171463	ZNRD1	HGNC:13182	-	-	zinc ribbon domain containing 1	Homo sapiens	6p21
+DEG2017	DEG20171464	ZWINT	HGNC:13195	-	-	ZW10 interacting kinetochore protein	Homo sapiens	10q21-q22
