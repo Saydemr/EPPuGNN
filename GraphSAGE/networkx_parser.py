@@ -121,10 +121,10 @@ with open('BIOGRID-ORGANISM-Homo_sapiens-4.4.204.tab3.txt') as f:
         id_name_dict[line[4]] = line[8]
 
 essential_dict = set()
-with open('deg_hs.dat') as f:
+with open('deg_hs_n-5.dat') as f:
     for line in f:
         line = line.strip().split('\t')
-        essential_dict.add(line[2])
+        essential_dict.add(line[0])
 
 
 class_map = {}
