@@ -4,7 +4,7 @@ import json
 
 locations = ['Nucleus', 'Cytosol', 'Cytoskeleton', 'Peroxisome', 'Vacuole', 'Endoplasmic reticulum', 'Golgi apparatus', 'Plasma membrane', 'Endosome', 'Extracellular space', 'Mitochondrion'] 
 
-id_map = json.load(open('eppugnn-id_map_inv.json'))
+id_map = json.load(open('mm_eppugnn-id_map_inv.json'))
 id_name_dict ={}
 
 with open('BIOGRID-ORGANISM-Mus_musculus-4.4.204.tab3.txt') as f:

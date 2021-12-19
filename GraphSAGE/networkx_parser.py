@@ -78,7 +78,7 @@ with open("BIOGRID-ORGANISM-Mus_musculus-4.4.204.tab3.txt") as f:
 # 2 : validation = true true
 
 
-print("Graph info...")
+print("Graph info for mus musculus...")
 print("Number of nodes: ", ppi_graph.number_of_nodes())
 print("Number of connected components", nx.number_connected_components(ppi_graph))
 print("Number of edges: ", ppi_graph.number_of_edges())
@@ -88,7 +88,7 @@ population = [0, 1, 2]
 weights    = [0.8, 0.1, 0.1]
 distribution_samples = choices(population, weights, k=ppi_graph.number_of_nodes())
 print("Number of instances in training (0), test (1) and validation (2)\n",Counter(distribution_samples),sep='\n')
-print("Number of instances in training (0), test (1) and validation (2)\n",Counter(distribution_samples),sep='\n', file=open("distribution_samples.txt", "w+"))
+print("Number of instances in training (0), test (1) and validation (2)\n",Counter(distribution_samples),sep='\n', file=open("mm_distribution_samples.txt", "w+"))
 for i in range(ppi_graph.number_of_nodes()):
     if distribution_samples[i] == 0:
         ppi_graph.nodes[i]['test'] = False 
@@ -145,8 +145,8 @@ for i in range(ppi_graph.number_of_nodes()):
     id_mappppp[str(i)] = i
 
 print("Writing graph to JSON file...")
-json.dump(class_map, fp=open("eppugnn-class_map.json", "w+"))
-json.dump(json_graph.node_link_data(ppi_graph), fp=open("eppugnn-G.json", "w+"))
-json.dump({str(v): int(k) for k, v in id_map.items()}, fp=open("eppugnn-id_map_inv.json", "w+"))
-json.dump(id_mappppp, fp=open("eppugnn-id_map.json", "w+"))
-json.dump(id_map, fp=open("eppugnn-id_map_dummy.json", "w+"))
+json.dump(class_map, fp=open("mm_eppugnn-class_map.json", "w+"))
+json.dump(json_graph.node_link_data(ppi_graph), fp=open("mm_eppugnn-G.json", "w+"))
+json.dump({str(v): int(k) for k, v in id_map.items()}, fp=open("mm_eppugnn-id_map_inv.json", "w+"))
+json.dump(id_mappppp, fp=open("mm_eppugnn-id_map.json", "w+"))
+json.dump(id_map, fp=open("mm_eppugnn-id_map_dummy.json", "w+"))
