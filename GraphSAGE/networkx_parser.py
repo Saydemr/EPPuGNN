@@ -103,6 +103,13 @@ for i in range(ppi_graph.number_of_nodes()):
     #print(i)
     #print(ppi_graph.nodes[id_map_inv[i]]['test'], ppi_graph.nodes[id_map_inv[i]]['val'], sep="\t", end="\n")
 
+
+for component in list(nx.connected_components(ppi_graph)):
+    if len(component)<3:
+        for node in component:
+            ppi_graph.remove_node(node)
+
+
 print("Checking the graph if smth is modified.")
 print("Number of nodes: ", ppi_graph.number_of_nodes())
 print("Number of connected components", nx.number_connected_components(ppi_graph))
