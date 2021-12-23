@@ -6,7 +6,6 @@ from collections import Counter
 import json
 import numpy as np
 
-print("Don't use the script anymore")
 print("Loading graph...")
 ppi_graph = nx.Graph() 
 
@@ -115,6 +114,11 @@ print("Number of nodes: ", ppi_graph.number_of_nodes())
 print("Number of connected components", nx.number_connected_components(ppi_graph))
 print("Number of edges: ", ppi_graph.number_of_edges())
 print()
+
+with open("hs_ppi_graph.txt", "w+") as f:
+    for e in ppi_graph.edges():
+        a,b = e
+        f.write(str(id_map_inv_int[a]) + " " + str(id_map_inv_int[b]) + "\n")
 
 print("Creating class-map")
 id_name_dict ={}
