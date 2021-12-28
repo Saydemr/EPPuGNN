@@ -29,4 +29,4 @@ with open('human_compartment_knowledge_full.tsv', 'r') as f:
         sl_matrix[index, locations.index(sl_feature)] = 1
 
 
-np.save('eppugnn-feats.npy', sl_matrix)
+np.save('hs_eppugnn_sl-feats.npy', sl_matrix)
