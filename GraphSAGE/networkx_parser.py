@@ -18,9 +18,8 @@ id_map_inv_int = {}
 with open("BIOGRID-ORGANISM-Homo_sapiens-4.4.204.tab3.txt") as f:
     f.readline()
     i = 0
-    lc = 1
     for line in f:
-        lc += 1
+        
         line = line.strip()
         line = line.split("\t")
 
@@ -114,7 +113,6 @@ for i in range(ppi_graph.number_of_nodes()):
     #print(ppi_graph.nodes[id_map_inv[i]]['test'], ppi_graph.nodes[id_map_inv[i]]['val'], sep="\t", end="\n")
 
 
-
 for component in list(nx.connected_components(ppi_graph)):
     if len(component) < 3:
         for node in component:
@@ -125,9 +123,7 @@ print("Checking the graph if smth is modified.")
 print("Number of nodes: ", ppi_graph.number_of_nodes())
 print("Number of connected components", nx.number_connected_components(ppi_graph))
 print("Number of edges: ", ppi_graph.number_of_edges())
-print()
 
-print("Creating class-map")
 id_name_dict ={}
 with open('BIOGRID-ORGANISM-Homo_sapiens-4.4.204.tab3.txt') as f:
     f.readline()
@@ -143,9 +139,7 @@ with open('deg_hs_n-4.dat') as f:
     for line in f:
         essential_dict.add(line.strip())
 
-
 class_map = {}
-#print(id_map)
 for i in id_map:
     my_key = id_map[i]
     my_str = id_name_dict[i]
@@ -154,8 +148,10 @@ for i in id_map:
     else:
         class_map[my_key] = 0
 
-#print(class_map)
+print("Number of essential genes", sum(class_map.values()))
+print()
 
+print("Creating class-map")
 print('Creating id-map')
 id_mappppp = {}
 for i in range(ppi_graph.number_of_nodes()):
