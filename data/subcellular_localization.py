@@ -29,4 +29,4 @@ with open('yeast_compartment_knowledge_full.tsv', 'r') as f:
         sl_matrix[index, locations.index(sl_feature)] = 1
 
 
-np.save('eppugnn_sl-feats.npy', sl_matrix)
+np.save('sc_eppugnn_sl-feats.npy', sl_matrix)
