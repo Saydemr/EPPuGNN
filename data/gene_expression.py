@@ -1,6 +1,8 @@
 import json
 import numpy as np
 import os
+import scipy as sp
+from scipy import sparse
 
 id_bioname_dict = {}
 nhi2gene = {}
@@ -68,5 +70,4 @@ np.save('hs_eppugnn_ge-feats.npy', ge_matrix)
 # a = np.load('hs_eppugnn_sl-feats.npy',allow_pickle=True,fix_imports=True,encoding='latin1')
 
 # c = np.concatenate((a, b), axis=1)
-# print(c.shape)
-# np.save('hs_eppugnn-feats.npy', c)
+# sp.sparse.save_npz('../grand_blend/hs_eppugnn-feats.npz', sparse.csr_matrix(c))
