@@ -2,7 +2,6 @@ import json
 import numpy as np
 import os
 
-
 id_bioname_dict = {}
 nhi2gene = {}
 
@@ -65,8 +64,8 @@ with open('GSE86354_GTEx_FPKM_gene.txt', 'r') as f:
 
 np.save('hs_eppugnn_ge-feats.npy', ge_matrix)
 
-# b = np.load('hs_eppugnn_ge-feats.npy')
-# a = np.load('hs_eppugnn_sl-feats.npy')
+# b = np.load('hs_eppugnn_ge-feats.npy',allow_pickle=True,fix_imports=True,encoding='latin1')
+# a = np.load('hs_eppugnn_sl-feats.npy',allow_pickle=True,fix_imports=True,encoding='latin1')
 
 # c = np.concatenate((a, b), axis=1)
 # print(c.shape)
