@@ -1,4 +1,4 @@
 /n2v_xg/emb/
-/n2v_xg/csv_imp/
+/n2v_xg/csv_*/
 *.txt
 *.npy

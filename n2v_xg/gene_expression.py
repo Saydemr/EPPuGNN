@@ -29,7 +29,7 @@ with open('BIOGRID-ORGANISM-Homo_sapiens-4.4.204.tab3.txt') as f:
 ge_matrix = np.zeros((len(id_map), 1558), dtype=np.float64)
 name_index = {id_bioname_dict[str(id_map[v])] : v  for v in id_map.keys() }
 
-with open('GSE86354_GTEx_FPKM_gene.txt', 'r') as f:
+with open('../data/GSE86354_GTEx_FPKM_gene.txt', 'r') as f:
     for line in f:
         line = line.strip().split('\t')
         name = line[0]

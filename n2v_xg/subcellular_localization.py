@@ -33,7 +33,7 @@ name_index = {id_name_dict[str(id_map[v])] : v  for v in id_map.keys() }
 
 sl_matrix = np.zeros((len(id_map), 11), dtype=np.float64)
 
-with open('human_compartment_knowledge_full.tsv', 'r') as f:
+with open('../data/human_compartment_knowledge_full.tsv', 'r') as f:
     for line in f:
         line = line.strip().split('\t')
         name = line[1]
@@ -43,5 +43,5 @@ with open('human_compartment_knowledge_full.tsv', 'r') as f:
         index = int(name_index[name])
         sl_matrix[index, locations.index(sl_feature)] = 1
 
-print(sl_matrix.sum())
+
 np.save('hs_eppugnn_sl-feats.npy', sl_matrix)
