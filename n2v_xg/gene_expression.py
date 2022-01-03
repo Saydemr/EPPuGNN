@@ -1,6 +1,7 @@
 import numpy as np
 import os
 import sys
+from sklearn.decomposition import PCA
 
 filename = sys.argv[1]
 
@@ -39,6 +40,18 @@ with open('../data/GSE86354_GTEx_FPKM_gene.txt', 'r') as f:
         
         index = int(name_index[name])
         ge_matrix[index] = ge_vector
+
+print(ge_matrix.shape)
+pca = PCA(n_components=0.975)
+pca.fit(ge_matrix)
+
+# print(pca.components_)
+# print(pca.explained_variance_ratio_)
+print(np.sum(pca.explained_variance_ratio_))
+print(len(pca.explained_variance_ratio_))
+# transform data
+ge_matrix_clear = pca.transform(ge_matrix)
+print(ge_matrix_clear.shape)
 
 np.save('hs_eppugnn_ge-feats.npy', ge_matrix)
 

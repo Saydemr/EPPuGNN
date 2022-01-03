@@ -3,6 +3,7 @@ import numpy as np
 import os
 import scipy as sp
 from scipy import sparse
+from sklearn.decomposition import PCA
 
 id_bioname_dict = {}
 nhi2gene = {}
@@ -64,7 +65,19 @@ with open('GSE86354_GTEx_FPKM_gene.txt', 'r') as f:
         index = int(name_index[name])
         ge_matrix[index] = ge_vector
 
-np.save('hs_eppugnn_ge-feats.npy', ge_matrix)
+print(ge_matrix.shape)
+pca = PCA(n_components=0.975)
+pca.fit(ge_matrix)
+
+# print(pca.components_)
+# print(pca.explained_variance_ratio_)
+print(np.sum(pca.explained_variance_ratio_))
+print(len(pca.explained_variance_ratio_))
+# transform data
+ge_matrix_clear = pca.transform(ge_matrix)
+print(ge_matrix_clear.shape)
+
+# np.save('hs_eppugnn_ge-feats.npy', ge_matrix_clear)
 
 # b = np.load('hs_eppugnn_ge-feats.npy',allow_pickle=True,fix_imports=True,encoding='latin1')
 # a = np.load('hs_eppugnn_sl-feats.npy',allow_pickle=True,fix_imports=True,encoding='latin1')
