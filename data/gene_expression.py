@@ -67,6 +67,17 @@ with open('GSE86354_GTEx_FPKM_gene.txt', 'r') as f:
 
 print(ge_matrix.shape)
 
+pca = PCA(n_components=0.975)
+pca.fit(ge_matrix)
+
+# print(pca.components_)
+# print(pca.explained_variance_ratio_)
+print(np.sum(pca.explained_variance_ratio_))
+print(len(pca.explained_variance_ratio_))
+# transform data
+ge_matrix = pca.transform(ge_matrix)
+print(ge_matrix.shape)
+
 np.save('hs_eppugnn_ge-feats.npy', ge_matrix)
 
 b = np.load('hs_eppugnn_ge-feats.npy',allow_pickle=True,fix_imports=True)
