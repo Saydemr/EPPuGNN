@@ -66,21 +66,12 @@ with open('GSE86354_GTEx_FPKM_gene.txt', 'r') as f:
         ge_matrix[index] = ge_vector
 
 print(ge_matrix.shape)
-pca = PCA(n_components=0.975)
-pca.fit(ge_matrix)
 
-# print(pca.components_)
-# print(pca.explained_variance_ratio_)
-print(np.sum(pca.explained_variance_ratio_))
-print(len(pca.explained_variance_ratio_))
-# transform data
-ge_matrix_clear = pca.transform(ge_matrix)
-print(ge_matrix_clear.shape)
+np.save('hs_eppugnn_ge-feats.npy', ge_matrix)
 
-# np.save('hs_eppugnn_ge-feats.npy', ge_matrix_clear)
+b = np.load('hs_eppugnn_ge-feats.npy',allow_pickle=True,fix_imports=True)
+a = np.load('hs_eppugnn_sl-feats.npy',allow_pickle=True,fix_imports=True)
 
-# b = np.load('hs_eppugnn_ge-feats.npy',allow_pickle=True,fix_imports=True,encoding='latin1')
-# a = np.load('hs_eppugnn_sl-feats.npy',allow_pickle=True,fix_imports=True,encoding='latin1')
-
-# c = np.concatenate((a, b), axis=1)
-# sp.sparse.save_npz('../grand_blend/hs_eppugnn-feats.npz', sparse.csr_matrix(c))
+c = np.concatenate((a, b), axis=1)
+np.save('hs_eppugnn_ge-sl-feats.npy', c)
+sp.sparse.save_npz('../grand_blend/hs_eppugnn-feats.npz', sparse.csr_matrix(c))

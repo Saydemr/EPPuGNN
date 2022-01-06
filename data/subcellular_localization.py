@@ -28,5 +28,5 @@ with open('human_compartment_knowledge_full.tsv', 'r') as f:
         index = int(name_index[name])
         sl_matrix[index, locations.index(sl_feature)] = 1
 
-print(sl_matrix.sum())
+print(sl_matrix.sum(axis=0))
 np.save('hs_eppugnn_sl-feats.npy', sl_matrix)
